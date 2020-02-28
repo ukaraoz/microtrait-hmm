@@ -1,0 +1,272 @@
+>mlo:msl7305 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase delta subunit (A)
+------------MRIVCPFCGERELGEFTYLGDAKP--VRPAA----------DAGEEAV
+YDYVYLRDNVAGVMSENWYHGGGCRAWLKVTRNTLTHEISAIEPAAGAGAAKVGA-----
+----
+>mlo:msr1274 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase delta subunit (A)
+------------MLITCPYCGPRDVIEFTYQGDGNR--ERPDPA---------SQNFEAW
+NAYVYDRLNPAGDHNEIWQHSGGCRAHLRVVRNTLTHEISSVAFVRGDHASTARRKAED-
+--KA
+>mln:A9174_29125 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIVCPFCGERELGEFTYLGDAKP--VRPAA----------DAGEEAV
+YDYVYLRDNVAGVMSENWYHGGGCRAWLKVTRNTLTHEISVVEPAAGAGAAKVGA-----
+----
+>mln:A9174_20045 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MLITCPYCGPRDVIEFTYQGDGNR--ERPDPA---------SQNFEAW
+NAYVYDRLNPAGDHNEIWQHSGGCRTHLRVVRNTLTHEISSVAFVRGDHASTARRKAED-
+--KA
+>mci:Mesci_3338 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (RefSeq) sarcosine oxidase subunit delta (A)
+------------MLITCPYCGPRDVIEFTYQGDGNR--ERPDPA---------SQNFEAW
+NAYVYDRLNPAGDHNEIWQHSGGCRAHLKVVRNTLTHEISSVAFARGDHGSAARHKAED-
+--KA
+>mci:Mesci_5158 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (RefSeq) sarcosine oxidase subunit delta (A)
+------------MRIACSFCGERELGEFTYLGDAKP--VRPEA----------GASEDEV
+FDYVYLRDNVAGATSEYWYHGGGCRAWLKVTRNTLTHEISSIEPAAGAGAAKVGA-----
+----
+>mop:Mesop_5741 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase, delta subunit family (A)
+------------MRIVCPFCGERELGEFTYLGDAKP--VRPAA----------GASEDEV
+FDYVYLRDNIAGDTSEHWYHGGGCRAWLKITRNTLTHEISAVEPTAGVGARQVGK-----
+----
+>mop:Mesop_3829 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase, delta subunit family (A)
+------------MLITCPYCGPRDVIEFTYQGDGNR--ERPDPA---------SQNFEAW
+NAYVYDRLNPAGDHNEIWQHSGGCRAHLRVVRNTLTHEISSVAFVRGDHGSAARHKAED-
+--KA
+>mam:Mesau_03618 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase, delta subunit family, heterotetrameric form (A)
+------------MLITCPYCGPRDVIEFTYQGDGNR--ERPDPA---------SQNFEAW
+NAYVYDRLNPAGDHNEIWQHSGGCRAHLRVVRNTLTHEISSVAFARGDHSSAARRKAED-
+--KP
+>mam:Mesau_05236 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase delta subunit (A)
+------------MRIVCPFCGERELGEFTYLGDAKP--VRPAP----------GASEDEV
+YDYVYLRDNIAGVMDENWYHGGGCRAWLKVTRNTVTHEISAVEPAAGAGARQVAK-----
+----
+>mamo:A6B35_11065 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRITCPFCGERELGEFTYLGDAKP--ARPAV----------DAGEDAV
+FDYVYLRDNVAGAMSEHWYHGGGCRAWLKVTRNTLTHEISVVEPAAGVGAAKVGA-----
+----
+>mamo:A6B35_21925 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MLITCPYCGPRDVIEFTYQGDGNR--QRPQPS---------SQDLDAW
+NAYVYDRLNPAGDHNEIWQHSGGCRAHLRVVRNTLTHEISSSGFARGDHKAA-RHRLET-
+--KS
+>meso:BSQ44_15720 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MLIPCPYCGPRDVSEFTYQGDANR--PRPDPL---------STDRQAW
+DGYVYDRLNTAGDHREYWQHSGGCRAHLVVVRSTLTHAIVSAGFARDEAAAKPKKTRRKA
+GAKP
+>mesw:A9K65_028275 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIACPFCGERELGEFTYLGDAKP--VRPEA----------GASEDEV
+FDYVYLRDNVAGATSEYWYHGGGCRAWLKVTRNTLTHEISSIEPAAGAGAAKVGA-----
+----
+>mesw:A9K65_018055 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MLITCPYCGPRDVIEFTYQGDGNR--ERPDPA---------SQNFEAW
+NAYVYDRLNPAGDHNEIWQHSGGCRAHLKVVRNTLTHEISSVAFARGDHGPAARRKAED-
+--KA
+>mesm:EJ066_25795 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta family protein (A)
+------------MLITCPYCGPRDVIEFTYQGDGNR--QRPQPA---------SQDLDAW
+NAYVYDRLNPAGDHNEIWQHSGGCRVHLRVVRNTLTHEISSVAFARGDHKAAMRHKAEG-
+--KS
+>mesm:EJ066_15665 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIVCPFCGERELGEFTYLGDAKP--VRPAA----------GASQDEV
+FDYVYLRDNVAGGTSEYWYHGGGCRAWLKITRNTLTHEISSVDPAAGVGAAKAGA-----
+----
+>mesp:C1M53_18740 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIACPFCGERELGEFTYLGDAAP--RRPMAF-AADGTEQ-PDAQDLF
+FDYVYLRDNVAGDMDERWYHGGGCRSWLTVTRSTTTHEIKAVRAAPGAGAQKPAKAGATS
+----
+>mesp:C1M53_24260 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MLLTCPYCGPRDVSEFTYQGDGNR--QRPAPN---------SQDLQAW
+NEYVYDRQNPAGDHNEIWQHSGGCRSHIRVLRNTVTHVVSSTVPVRGNVHHRATERRKPG
+-AKA
+>aak:AA2016_5809 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit (A)
+------------MRIACPFCGERENGEFTYLGDASP--KRPNFA-V-DSGESPEGVEDAF
+YDYVYLRDNVAGYMREYWYHGGGCRSWLIAERNTVTHEFRSVTAAPGVGAAKPVQAGE--
+----
+>aak:AA2016_2983 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) hypothetical protein (A)
+------------MLITCPYCGPRDVSEFAYQGDGNR--TRPDPA---------STDAEAW
+SAYVYDRLNPAGIHNEIWQHTGGCRAHLAVVRDTLTHEIKSVRFAREHGAPPHGRRTSG-
+-AKA
+>amih:CO731_02961 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase, delta subunit family (A)
+------------MLITCPYCGPRDVSEFAYQGDGNR--NRPDPA---------STDLVAW
+NTYVYDRLNPAGAHNEIWQHAGGCRAHLAVVRDTLTHEISSVRFAREKGAPAHGRRKSG-
+-AKA
+>amih:CO731_05436 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase, delta subunit family (A)
+------------MRIACPFCGERENGEFTYLGDASP--KRPTFA-V-DSGESPERVEDAF
+YDYVYLRDNVAGFMREYWYHGGGCRSWLIAERNTVTHEFRSVTAAPGVGASKPVQAGE--
+----
+>pht:BLM14_05325 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MIIKCPYCGPRDVIEFIYQGDATR--KRPEPA---------SVDHAAW
+NAYVYDRANTGGSHREFWLHGGGCRQHLVVTRDVSTHAISSVAFARDTSAIATDGERA--
+----
+>rpod:E0E05_12745 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MIIPCPFCGPRDLSEFAYCGDADNLAARPDPA---------STDQAAW
+NAYAYDRANPAGEHAEIWQHAGGCRRHLRVVRNTVTHAIGAVEMVGSKS-----------
+----
+>bra:BRADO5879 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) soxD; Sarcosine oxidase, delta subunit (A)
+------------MRIPCPFCGERDLSEFAYHGDTAP---RPDPT-T-------DDAPRRF
+FEATYLRDNPAGEHRGLWYHAQGCRSWLVVTRNVRTHQVLGAVLARRGAA----------
+----
+>bbt:BBta_1948 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) soxD; Sarcosine oxidase, delta subunit (A)
+------------MRIPCPFCGERDVSEFAYHGDTAK---RPDPA-T-------DDGQRRF
+FEAVYLRDNPAGPHRELWYHAQGCRSWLIVTRDVRTHEVLGAALATRGAA----------
+----
+>rpb:RPB_1142 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase, delta subunit, heterotetrameric (A)
+------------MRIPCPYCGSRDVSEFSYLGDAAP--QRPDPS-G-DA----SSVEAAF
+FDYVYLRDNPAGPHRGLWYHGAGCRNWLVVRRNPSTHEILEVALAAKEPAA---------
+----
+>bos:BSY19_368 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase, delta subunit (A)
+------------MRIACPHCGPRDVQEFSYLGDATP--QRPNGM---------DATESAM
+ADYVHQRDNPAGSHRELWYHGAGCHAWLVVTRDTRTHAIAAVETMAQARAGAPA------
+----
+>bvv:BHK69_07985 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIPCPHCGARDAQEFTYLGDANP--KRPDGM---------EATEAAM
+FEYVYQRDNPAGRFRELWYHGAGCHAWLVVTRDTRTHAIEAAEPAKPTKAGAAA------
+----
+>xau:Xaut_4701 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit heterotetrameric (A)
+------------MRITCPYCGARSSHEFAYLGDAAP--TRPDPS-A-------PDAAEAF
+HAYVYERDNPAGPLDELWYHSAGCRRWLKVTRDTRTHAITAVAFAEAGESAR--------
+----
+>azc:AZC_1495 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase delta subunit (A)
+------------MRIPCPYCGLRDAHEFAYLGDATV--KRPDPA-A-------PDAEQAF
+YEYVYLRDNPAGAHKELWYHGSGCRSWVVVERDTRTHAIAGATLAREVTP----------
+----
+>sno:Snov_0465 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit heterotetrameric (A)
+------------MRIPCPYCGERDAHEFAYLGDATP--ARPDPA-A-------EDAEQRF
+HDYVYLRDNPAGAHIEWWYHANGCRQWLKVERDTRTHAIAGARAAREADTPAGDAA----
+----
+>mex:Mext_1653 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit heterotetrameric (A)
+------------MRIRCPFCGERDNGEFSYLGDAAP--RRPDGL---------GASAAAM
+HDYVYLRDNPAGTIRELWYHAAGCRSWLVVTRDTRTHAIEAVEPARDVARARRSGEAA--
+----
+>mea:Mex_1p1547 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) soxD; sarcosine oxidase, delta subunit (A)
+------------MRIRCPFCGERDNGEFSYLGDAAP--QRPDGL---------DASAAAM
+HDYVYLRDNPAGTIRELWYHAAGCRSWLVVTRDTRTHAIEAVEPARDVARARRSGEAA--
+----
+>mdi:METDI2321 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) soxD; sarcosine oxidase, delta subunit (A)
+------------MRIRCPFCGERDNGEFSYLGDAAP--QRPDGL---------DASAADM
+HDYVYLRDNPAGTIRELWYHAAGCRSWLVVTRDTRTHAIEAVEPARDVARARRSGEAA--
+----
+>mch:Mchl_1935 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit heterotetrameric (A)
+------------MRIRCPFCGERDNGEFSYLGDAAP--RRPDGL---------DASAADM
+HDYVYLRDNPAGTIRELWYHAAGCRSWLVVTRDTRTHAIEAVEPARDVARARRSGEAA--
+----
+>mpo:Mpop_1578 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit heterotetrameric (A)
+------------MRIRCPHCGERDNGEFSYLGDAAP--RRPDGL---------EASAQAM
+HDYVYLRDNPAGTIRELWYHAAGCRSWLVVTRDTRTHAIESVEPARDVARARRSGEAA--
+----
+>mza:B2G69_15925 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIRCPFCGERDNGEFSYLGDAAP--RRPDGL---------DASAAAM
+HDYVYLRDNPAGTIRELWYHAAGCRSWLVVTRDTRTHAIEAVGSARDVARARRSGEAA--
+----
+>meta:Y590_07790 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIRCPHCGERDNGEFSYLGDAAP--QRPDGL---------DASGQAM
+HDYVYLRENPAGMIRELWYHAAGCRSWLVVTRDTRTHAIEAVEPARDVARARRSGEAA--
+----
+>maqu:Maq22A_c07665 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) soxD; sarcosine oxidase subunit delta (A)
+------------MRIRCPYCGERDNGEFSYRGDAAP--RLSGGD---------ADTPEAV
+HDAVYLRDNPAGLIDELWFHAAGCRAWLVVTRDTSSHAIAAVVPARAVARARQEGDAA--
+----
+>metd:C0214_27615 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIRCPHCGERDNGEFSYLGDAAP--VRPDGL---------AVEAAAM
+HDYVYLRDNLAGEIRELWYHAAGCRGWLVVTRDTRTHAISDVSPARDAALARRMGEAA--
+----
+>metd:C0214_09560 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIRCPHCGERDNGEFSYLGDAAP--QRPDGM---------EASVQAM
+HDYVYLRDNPAGTIRELWYHAAGCRSWLVVTRDTRTHAIKSVEPARDVARARRSGEAA--
+----
+>metx:A3862_04345 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIRCPYCGERDNGEFSYFGDATL--TRPDGM---------EADASAM
+HDYVYLRDNPAGEHRELWYHAAGCRTWLVVTRDTRTHTITDVSPARDVARTRRMGEAA--
+----
+>mets:DK389_06190 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIRCPHCGERDNGEFSYLGDAAP--VRPDGM---------EAEAGAM
+HDYVYLRDNRAGEIRELWYHGAGCRSWLIVTRDTRTHAISDVSPARDVALARRRGDAA--
+----
+>msl:Msil_2637 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit heterotetrameric (A)
+------------MLINCPYCGPRDLLEFAVKGEARA---RPDASGDLDG----AASRAGF
+VDAVYLRDNPAGRHKEHWLHASGCQNWLLVERDTRTHEILSASFVASDGEGSKS------
+----
+>mlg:CWB41_16085 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIPCPFCGSRDASEFVTIGEAGA--PRPEPA-A-------PDAAQNF
+FTYAYLRDNLAGPGEEYWYHAFGCRSWLKVLRDTRTHEIESATLAREGVR----------
+----
+>hdn:Hden_3117 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit heterotetrameric (A)
+------------MRIRCPHCGERALDEFTYLGDASV--TRPDPA-S-------PDAANEF
+YAYAYERRNIAGPTQELWYHQAGCHAWLVVTRDTRSHEISDVKVAEDVASKRIKPTAGAA
+----
+>hdt:HYPDE_38768 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase subunit delta heterotetrameric (A)
+------------MRIRCPHCGERALDEFTYLGDASV--TRPDPT-S-------PDAAGEF
+YAYAYERRNIAGPTQELWYHQAGCHSWLVVTRDTRTHEISDVKLAEDVASKRIKSTAGAA
+----
+>hmc:HYPMC_4359 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) putative N-methyl glutamate dehydrogenase/oxidoreductase subunit B (A)
+------------MRIKCPFCGERGNDEFSYLGDASV--VRPDPT-A-------PDAADAF
+YAFAYERRNVAGPTQELWYHAAGCHAWLVVTRDTRTHEISDVKPAQDVALERQNSASTTP
+----
+>fil:BN1229_v1_1162 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) soxD; Sarcosine oxidase subunit delta (A)
+------------MRINCPCCGERSLDEFVYYGDADL--RRPDPQ-D-------EEAAAKF
+IAYVYERTNPSGFHRELWYHSLGCRTWIVAERDTRTHEIYATCRAVDGGAPEGAAADGE-
+--RS
+>fiy:BN1229_v1_1161 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) soxD; Sarcosine oxidase subunit delta (A)
+------------MRINCPCCGERSLDEFVYYGDADL--RRPDPQ-D-------EEAAAKF
+IAYVYERTNPSGFHRELWYHSLGCRTWIVAERDTRTHEIYATCRAVDGGAPEGAAADGE-
+--RS
+>mcg:GL4_0806 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase delta subunit (A)
+------------MRITCPYCGARNLEEFTYRGDATV--KRPESI-E-------ETARDAW
+IDYVYLRDNPAGLHKELWHHSAGCHAWLQVTRDTTTHEIVDVERVAKER-----------
+----
+>cak:Caul_2365 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit heterotetrameric (A)
+MPNRTFTEAGQNMRIDCPYCGPRDSGEFVYRGDAKP--RRPDAS-----------DAEAF
+VDYVYLRENVAGSMDEHWYHLNGCRQWLTVRRDTLSHEIQSSRLSQERGS----------
+----
+>ssan:NX02_15630 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) hypothetical protein (A)
+------------MRIPCPYCGERDSIEFVYRGDAAP--SRPAG-------------EDGF
+YDYVYTRRNPAGQMRELWYHAQGCRTWIEVERDTRTHAIAGSRFAAGRGA----------
+----
+>rdi:CMV14_00780 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIPCPYCGERDAQEFVYRGDAAP--VRPAG-------------DDGF
+EDYVYLRDNIAGPMREHWYHAQGCRNWLTVDRDSCSHAISGARLARGGTA----------
+----
+>gal:A0U94_00275 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRLTCPHCGSRGLEEFSYRGDATV--QRPAL----------EAPEEDW
+VAYVYLRDNPCGAHRELWYHGAGCRAWLVVERDTLTHVVHNVRAVCREETP---------
+----
+>gbe:GbCGDNIH1_0175 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit (A)
+------------MRIACPCCGPRGLEEFLYRGDATR--TLPAA----------SASTEAW
+ADYTYLRDNPAGVHEEYWFHTAGCQNWLRVRRDTRDHGIVSVMLARDPSSSATGEA----
+----
+>gbh:GbCGDNIH2_0175 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit (A)
+------------MRIACPCCGPRGLEEFLYRGDATR--ILPAA----------SASTEAW
+ADYTYLRDNPAGVHEEYWFHAAGCQSWLRVRRDTRDHGIVSVMLARDPSPSATGEA----
+----
+>gbc:GbCGDNIH3_0175 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit (A)
+------------MRIACPCCGPRGLEEFLYRGDATR--TLPAA----------SASTEAW
+ADYTYLRDNPAGVHEEYWFHAAGCQNWLRVRRDTRDHGILSVTLARDPFPSATGEA----
+----
+>gbs:GbCGDNIH4_0175 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase delta subunit (A)
+------------MRIACPCCGPRGLEEFLYRGDATR--TLPAA----------SASTEAW
+ADYTYLRDNPAGVHEEYWFHAAGCQNWLRVRRDTRDHGILSVTLARDPFPSATGEA----
+----
+>gxl:H845_85 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase delta subunit (A)
+------------MRLNCPCCGPRGVEEFTYRGDATV--RRPAP----------DAAAPDW
+VDYVYLRDNPAGWHRELWYHGAGCHAWLVVTRDTRTHEIADVARAADITRQDREGAGS--
+----
+>kna:B0W47_16070 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIHCPYCGTRGVEEFTYLGDATV--RRPDP----------DAPEAAW
+VDYVYLRDNPAGPHPEYWYHAAGCHGWLVVVRDTRTHEIFSVRTASGGAEA---------
+----
+>keu:S101446_00791 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) soxD; Sarcosine oxidase (A)
+------------MRLNCPCCGPRGLEEFTYRGDATV--RRPAV----------NATASDW
+VDYVYLRDNPAGWHRELWYHAAGCHAWLVVTRDTRTHEIADVTRAVDIACHDRKSAAS--
+----
+>ksc:CD178_01522 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) Sarcosine oxidase, delta subunit family (A)
+------------MRLNCPCCGPRGLEEFTYRGDATV--RRPESP---------TAPAQDW
+VDYVYLRDNPAGPHRELWYHGAGCRSWLVVTRDTRTHAISNVVRAVDVARADKEGAGS--
+----
+>aace:A0U92_02405 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRLTCPSCGSRGLEEFTYRGDASV--RRPAA----------DGSEQAW
+VDYVYLRDNPCGRHQELWYHGAGCRSWLVVTRDTRTHEVFDVRNARDVILTERQTDAGEG
+-EAS
+>azl:AZL_a09560 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) soxD; sarcosine oxidase, subunit delta (A)
+------------MRIPCPYCGPRDAHEFTYLGDATV--TRPDPA-A-------PDAAAAF
+HAYAHLRDNPAGPHEELWYHGGGCRGWLRVTRDTLTHAITGARFAADSSVSAPSVAKDPS
+----
+>phr:C6569_17645 K22085 methylglutamate dehydrogenase subunit B [EC:1.5.99.5] | (GenBank) sarcosine oxidase subunit delta (A)
+------------MRIPCPYCGSRDSSEFAYLGDAAP--RRPV-----------DGDAVAM
+AAYVYLRDNPAGPMEELWYHAQGCRSWLVVSRDTRDHAVSGARLAAVPGASA--------
+----

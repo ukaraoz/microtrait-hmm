@@ -1,0 +1,1900 @@
+>2555991342 N234_24955 heme exporter protein D [Ralstonia pickettii DTP0602]
+------M------------TLSSLLPYGH-HGIYIVGA-FGVSALMLALELVLLARRSRA
+ARAQARR-----------------------------------------------------
+------
+>2524421882 RTCIAT899_CH17110 heme exporter protein D [Rhizobium tropici CIAT899]
+---------------------------MS-HPFYVFGS-YGFAAFMILAIIAWIWNDGRL
+RRRELAA-------LEA-----SGIRRR--SQ------RP-------SENE----TK---
+------
+>2753214021 Ga0165798_105184 heme exporter protein D [Marinomonas spartinae CECT 8886]
+------M---------VFDSWTAFFHMGN-YGVYVWSA-YGLGALALVGLGLDTLISRRK
+ELNKLKK-------RYI-----RESKS---------------------------------
+------
+>2656555117 Ga0111296_121229 heme exporter protein D [Legionella hackeliae ATCC35250 null replaces 98222]
+------MGTKFDGEWGIMNQVIQWWSMGG-YSAYVWPA-YSLAVIVLVGQAFGIRLQRAR
+TMKRLQQ-------WFK-----RQLS----------------------------------
+------
+>2516822792 PSTU_01717 heme exporter protein D [Pseudomonas stutzeri SDM-LAC]
+------M---------NFSSFSDFIGMGN-HGLYVWTS-YGISLAVLVLNVALPMMARRR
+YLQDEAR-------RLR-----REEMK---------------------------------
+------
+>637342268 SO0260 heme exporter protein CcmD [Shewanella oneidensis MR-1]
+------M---------QFDSISDFFNMGG-YAFYVWLA-YGVTFFCLSTLIITSARQKRK
+VLIEIAK-------KMN-----REERLK--ET------RS-------NKS----------
+------
+>2710622188 Ga0153875_103180 heme exporter protein D [Monaibacterium marinum C7]
+------M-------------------LGQ-YAHFVLAA-YGVTILLVGGLVGLSIWRSAK
+VRAALQK-------VER-----QNGKT---------------------------------
+------
+>2520646303 G334DRAFT_02838 heme exporter protein D [Moritella marina ATCC 15381]
+------M---------QFDSFSAFLAMGG-YGFYVWLA-VAFSLLTLGSLTITTIIKRRQ
+IIHEIKN-------KHQ-----RIQRMR--AA------EK-------MENT-------L-
+------
+>2523108056 G472DRAFT_05848 heme exporter protein D [Azospirillum halopraeferens DSM 3675]
+--------------------MAEFFAMGG-YAAYIWPS-YALTALVMVGLLVATLKGLRS
+REATLKA-------LEGS----RPPRRR--AR------REAA----VHETAAEMGEG---
+------
+>2630351433 Ga0072435_110974 heme exporter protein D [Stenotrophomonas maltophilia UV74]
+---------------------------MT-HLPYVIGA-YAVFVLVLGADAIGSWLRLRV
+ARRLALA-------RQQ-----RQHTRA--GR-----QDAAT---PLSTELER-------
+------
+>641657672 HSM_0721 Heme exporter protein D (CcmD) [Histophilus somni 2336]
+------M---------FFQSWSDFFYMGG-YGLYVWLS-YGISFLAIIGLGLQNIYLRKA
+LFKEIQR-------EQL-----RSVRQK--NT------QA-------ENNGEN-----L-
+------
+>2729222990 Ga0127226_115361 heme exporter protein D [Mesorhizobium loti UFLA 01-765]
+--------------------------MSA-HALYVTAA-YAITAIVLAGLIGWILLDQRA
+RKRELAA-------LDA-----AGVRRR--SD------KA-------GT------AKP--
+------
+>2735478086 Ga0180970_3015 heme exporter protein D [Tropicibacter phthalicicus DSM 26923]
+------M----------------MPDLGK-YADAVLSS-YAVSIVLIVALVALSIRRARK
+VKAYLAE-------IEE-----RQKNV---------------------------------
+------
+>2668144272 Ga0104702_0374 heme exporter protein D [Pseudomonas oryzae KCTC 32247]
+------M---------SFESFADFLAMGK-HGLYVWTS-YGISLAVLALNVALPILARRR
+YLQDEAR-------RLR-----RESKQ---------------------------------
+------
+>2786881052 Ga0304799_1011460 heme exporter protein D [Buttiauxella sp. JUb87]
+------MTR-------AFLNWGDFFAMGG-YAFYVWLA-VALTFIPLLLLLVHTRVQRRA
+ILNAVRR-------QHA-----RERRIQ--AA------QH-------AEGTE--------
+------
+>2529269715 B095DRAFT_02131 heme exporter protein D [Pasteurella testudinis DSM 23072]
+------MTP-------FFQTWSDFFNMGG-HGFYVWLC-YGITVAALFILIISSFAEKKQ
+ILTWVAK-------EQQ-----RQARQQ--RL------AQ-------QQANNNNGES---
+-----I
+>646704729 EAM_2355 heme exporter protein D (cytochrome C-type biogenesis protein) [Erwinia amylovora Ea273, ATCC 49946]
+------MTP-------AFSSWPDFFAMGG-YAFYVWLA-VVFTLLSFAALVGHTCWQRRR
+LLADIRR-------RQA-----REQRMQ--AA------KV-------KTATQAVAGEQA-
+------
+>2538849458 UU9_12198 heme exporter protein D [Rhodanobacter fulvus Jip2]
+------M-----------NAVQSFLAMGG-YAAYVWPA-YAVFFIVLIADTIAPRLRRQR
+LLRELRA-------RFA-----RQSARQ--PHVGN--GSSPT---PPAAIDGQ-------
+------
+>2710257591 Ga0136756_0521 heme exporter protein D [Pseudomonas alcaligenes RU38D]
+------M---------SFESFGEFLAMGQ-HGPYVWSA-YAISLAVLALNVVLPILARRR
+YLQDEAR-------RLR-----REKQQ---------------------------------
+------
+>2698180807 Ga0132003_4978 heme exporter protein D [Bradyrhizobium erythrophlei GAS242]
+------------------------MSLGP-YASFIVTS-YLAAALVVAVLTAWIAIDYLN
+QKRRLRE-------LED-----SGVVRR--CG------RR-------ATEP---------
+------
+>2538992103 AM202_06340 heme exporter protein D [Actinobacillus minor 202]
+M----QLEF-------QFESFSAFLVMGN-YGFYVWLS-YGVSFVAMAWLIWQSQREQKQ
+IFQQIKK-------ELS-----REKQLN--QR------SEYTK-----------------
+------
+>2788635701 Ga0304775_109172 heme exporter protein D [Pseudomonas graminis WP_8]
+------M---------SFESFSDFLAMGR-HGLYVWSA-YGLCFTVLAINVLAPVFARRR
+YLQQEAR-------RLR-----RESIT---------------------------------
+------
+>2643360280 Ga0101823_111116 heme exporter protein D [Pantoea sp. isolate 98]
+------MTP-------AFSSWHDFFAMGG-YAFYVWLA-VAFTLLPLLALLTHTLLAHRR
+LLKEIQQ-------RQQ-----RARRIR--RA------QR-------KNSIPPAVAGE--
+------
+>637641144 SC2256 heme exporter protein C, cytochrome c-type biogenesis protein [Salmonella enterica enterica sv. Choleraesuis SC-B67]
+------MSP-------AFSSWSDFFAMGG-YAFFVWLA-VAMTVAPLALLALHTVLQRRA
+ILRGVAQ-------QRA-----REARMR--AA------QA-------QQEAA--------
+------
+>2657687752 Ga0113284_104679 heme exporter protein D [Pseudomonas marginalis ICMP 9505]
+------M---------SFASFSDFIAMGH-HGLYVWTA-YGICLAVLALNVAAPILARKR
+YLQQEAR-------RLR-----RETEK---------------------------------
+------
+>637670523 Psyc_1826 cytochrome c biogenesis protein, CcmD [Psychrobacter arcticus 273-4]
+M-----MQP-------YFYSFSEFIAMGK-HGVFVWSC-WAITVGMMLIFVLYSRRQRQA
+LIKQLAI-------QQA-----RQAQRT--TK------IP-------TPVTKDTH-----
+------
+>2525539148 G481DRAFT_00951 heme exporter protein D [Gemmobacter nectariphilus DSM 15620]
+-----------------------MPELGK-YAVAVLSS-YGVTLALLAGLVGLTFWRAGR
+VKAALRE-------IEA-----RQGKGS--DG----------------------------
+------
+>2638792385 Ga0097622_105717 heme exporter protein D [unclassified betaproteobacterium ENR4]
+------M---------SWGSLENFLAMGG-YGFYVWGA-YAISLLTLAIEVAAVVHRRRA
+LRMAPMD-------KEE-----RLRHEG--SA----------------------------
+------
+>2516543567 MetveDRAFT_0873 heme exporter protein D [Methylotenera versatilis 79]
+------M---------HWKTLGEFLAMGG-YAFYVWGS-FGLTALLAIWELLSLSHRRHK
+AIQLIKQ-------QIA-----SN------------------------------------
+------
+>2668152642 Ga0079835_100682 heme exporter protein D [Pseudorhodobacter antarcticus CGMCC 1.10836]
+------M----------------MPDLGK-YADAVLGS-YAVSLGLIAALVGFSLWQGVR
+MRRALAV-------AEA-----RTKKEP-VDG----------------------------
+------
+>2515726942 B152DRAFT_03474 heme exporter protein D [Kiloniella laminariae DSM 19542]
+------M-----------DQLTTFFSMGS-YGAYVWPA-YLLTAAVMLSLLLTTLQRLRR
+NQAELAQ-------LESL----RAVEDQ--QE------LQ-------KKAVRS-------
+------
+>2633423925 Ga0077629_112232 heme exporter protein D [Gilvimarinus agarilyticus JEA5]
+------MIE------FRFDSLSDFLQMSG-HGIYVWAC-VAIALVILTALLVYPVINART
+QLTRIHR-------QQIMQ-KMQQERHQ--QA------NASAP-----------------
+------
+>2644773470 Ga0102259_112133 heme exporter protein D [Rhizobium sp. Leaf202]
+---------------------------MT-HAFYIGMS-YALTGLIVFGLIAWVWLDGRA
+RKRELKE-------LEA-----LGIRRR--SR------PA-------KTEA----PST--
+------
+>2515815683 A3G3DRAFT_01956 heme exporter protein D [Moraxella boevrei DSM 14165]
+------MNF-------YFNNFTEFLNMGG-HGFYVWAS-YGFSFACLIGIIIYSRSERQN
+TLKRIYT-------QHV-----RQNQRQ--RT------K---------------------
+------
+>2502218286 AA_07640 heme exporter protein D [Aggregatibacter actinomycetemcomitans HK1651 (Chromosome)]
+--------------------------MGG-YGFYVWLS-YGLSLLVIGVLIVQSLAGKSA
+VLKSIKH-------EQQ-----RETRLQ--QL------KQ-------KGEA-------L-
+------
+>2636550693 Ga0078627_171323 heme exporter protein D [Xanthomonas sp. GPE 39]
+------M-------------NSGFWAMGG-YAVYVWTA-YALALLVLVMDYVLPRVRQRR
+LLAAARA-------HVM-----REHARR--AR------GASV---GTWQHDESHP-----
+------
+>2640278303 Ga0074675_2846 heme exporter protein D [Pseudomonas moraviensis BS3668]
+------M---------SFASFGDFLAMGH-HGLYVWSA-YGICLAVLALNVVAPIAARKR
+YLQQEAR-------RLR-----RENGQ---------------------------------
+------
+>2771531750 Ga0244521_103360 heme exporter protein D [Zavarzinia compransoris DSM 1231]
+------M-----------DALLAFLAMGG-YAAFVWPA-FILTFAVVIGLAVGSWRSLKR
+AEARLAL-------LEQA----RPPRRG--RQ------RTAA------------------
+------
+>2599603268 Ga0058940_01938 heme exporter protein D [Rhizobium sp. NFACC06-2]
+---------------------------MT-HAFYIGMS-YAATGLVVLCLIAWVVVDGQA
+RKRELKE-------LEA-----SGVRRR--AR------AG-------SAGD----AQ---
+------
+>2739306033 Ga0189681_102147 heme exporter protein D [Aminobacter sp. AP02]
+--------------------------MSA-HALYVTAA-YGVSALAIAGLILWILADQRA
+RKRELAE-------LEA-----AGHRRR--SD------RG-------KQA----------
+------
+>2558694185 BU01DRAFT_00560 heme exporter protein D [Legionella lansingensis ATCC 49751]
+------M-----------SQFMRWLAMGG-YAIYIWPT-YALVCGVLITHVLIVKAQRVR
+VRKKLHQ-------WFK-----RQ------------------------------------
+------
+>2523905246 G502DRAFT_1245 heme exporter protein D [Fodinicurvata sediminis DSM 21159]
+------M-----------DGLISFLSMGG-YGAYVWPS-YGLALLVMGGLFLLAQQDLRR
+GEQRLQE-------LKR-----REAGLQ---D------QAG------ADNPEAGR-----
+------
+>647774661 TR2A62_0377 heme exporter protein CcmD [Thalassiobium sp. R2A62]
+-----------------------MPDLGQ-YAIEVLAA-YGASIVVLGVLVIGTLHASRS
+AKARLAE-------REA-----QTDG----------------------------------
+------
+>2772136397 Ga0244564_1931 heme exporter protein D [Paraperlucidibaca baekdonensis DSM 26022]
+------M---------YFSSWAAFFAMGG-HAPYVWAS-YGLMAFSLAALIMASRVSQQR
+WLKQQRR-------RHH-----AQQRAPIISH---------------STSQEH-------
+------
+>643703357 EFER_2288 cytochrome c biogenesis protein [Escherichia fergusonii UMN026, ATCC 35469]
+------MTP-------AFASWNEFFAMGG-YAFFVWLA-VVMTVIPLVVLVVHSVLQHRA
+ILRGVAQ-------QRA-----REARLR--AA------QQ-------QEAA---------
+------
+>2737605045 Ga0181058_10154 heme exporter protein D [Nitrosomonas eutropha Nm57]
+------M---------NWTSPAEFFAMGG-YGQYVWGS-FGVALVVLCAEWLLLRQRRQA
+ALSQVKR-------QLI-----LREEES--R-----------------------------
+------
+>2639109841 Ga0074798_0656 heme exporter protein CcmD [Loktanella pyoseonensis DSM 21424]
+-----------------------MMDLGR-YAAEVISA-WGASLALLGGLVWWSLRRDRQ
+VRAELEK-------TER-----DNG-----------------------------------
+------
+>2723573411 Ga0175205_13884 heme exporter protein D [Mesorhizobium amorphae CCNWGS0123]
+--------------------------VSV-HALYVTAA-YAITAIVLAGLIGWILIDQRG
+RKRDLAE-------LEA-----AGVRRR--SD------KG-------AGDKSV-REKGAN
+------
+>2637254755 Ga0072846_123312 heme exporter protein D [Comamonas testosteroni D4]
+--------------------------MQD-HAFFIALA-YGVSAMALGIELVSIFVRSRR
+LKAEAAS--G----LDA-----REN--------------P--------------------
+------
+>2581167956 L689DRAFT_08561 heme exporter protein D [Paenibacillus sophorae S27]
+------MSP-------YFHNFAEFIAMGG-HGSYVWST-WLLTLLGIVALVFFSRSQRKA
+TYRDITT-------QQA-----RQQQRH--QC------TA-------KGSG---------
+------
+>637399205 VP2220 heme exporter protein D [Vibrio parahaemolyticus sv. O3:K6 RIMD 2210633]
+------M---------HFESLSDFFAMGG-YASYVWSA-FGITFLSMLILLITSLRRGDA
+LMKEVKA-------KID-----RQARID--AA------KN-------MENT-------L-
+------
+>2539263115 HMPREF9996_02090 heme exporter protein D [Aggregatibacter actinomycetemcomitans Y4]
+MFTGGNM---------FFQSWNEFINMGG-YGFYVWLS-YGLSLLVIGVLIVQSLAGKSA
+VLKSIKR-------EQQ-----RETRLQ--QL------KQ-------KGEA-------L-
+------
+>2673004059 Ga0123887_115105 hypothetical protein [Mesorhizobium sp. LSJC268A00]
+--------------------------MSA-HALYVAAA-YGITVIVLAGLIGWILLDQRT
+RKRELAD-------LEA-----AGVRRR--SD------KA-------GTGASTGAGKP--
+------
+>2645705589 Ga0102454_10850 heme exporter protein D [Bosea sp. Leaf344]
+-----------------------MSALGP-HAGFILAS-YAAVVLVLGGLIAAVLRDHAA
+QKRALAA-------LEQ-----RGAGRR--SD------RA-------AS-----------
+------
+>2516816746 A598_00199 heme exporter protein D [Pseudomonas stutzeri XLDN-R (Draft1)]
+------V---------NFSSFADFIAMGN-HGVYVWTA-YGISLAVLILNVALPVLARRR
+YLQDEAR-------RLR-----REESK---------------------------------
+------
+>2563004970 PM1_0209950 heme exporter protein D [Pseudomonas sp. M1]
+------M---------SFHSFGEFLAMGH-HGPYVWSA-YAISLVVLAINVAAPILARKR
+YLQEEAR-------RLR-----REASK---------------------------------
+------
+>646380506 Pecwa_2725 heme exporter protein CcmD [Pectobacterium wasabiae WPP163]
+------MNI-------AFTNWQDFFAMGG-YALYVWLA-VVLTLLPLSALIGHTLWHRRA
+LLNDIRR-------QQA-----REQRKS--TA------RQ-------PTAVEVTQ-----
+------
+>2689429711 Ga0131698_111658 heme exporter protein D [Polynucleobacter sp. QLW-P1FAT50C-4]
+----------------MWNSPADFFAMGG-YALYVWSS-FGVCAAILLLEPISVRARNKS
+ILRRLKQ-------ECL-----AAQFDN--EG------SK--------------------
+------
+>642169710 Salentericaenterica_010100028234 hypothetical protein [Salmonella enterica enterica sv. Weltevreden HI_N05-537]
+--------------------------MGG-YAFFVWLA-VAMTVAPLALLALHTVLQRRA
+ILRGVAQ-------QRA-----REARMR--AA------QA-------QQEAA--------
+------
+>2584130114 Z947DRAFT_01986 heme exporter protein D [Sulfitobacter sp. MM-124]
+------M----------------MPDLGK-YAVEVVSA-YGASLILLAVLLGMTVRRGRK
+ARAELAQ-------VEA-----DANREA--VK------NG--------------------
+------
+>2646928353 Ga0068452_106118 heme exporter protein D [Marivita sp. 22II-s11g]
+------M----------------MPELGK-YAGAVLSS-YGLSLALLIALIWYSLWRSRR
+VAKSLKD-------VED-----RVKNG---------------------------------
+------
+>2618665863 Ga0055560_101522 heme exporter protein D [Pseudomonas syringae GAW0119]
+------V---------KFDSFSDFLAMGH-HGLFVWSA-YGICFLGLAINVALPLLARRR
+YLQQEAR-------RLR-----WENQK---------------------------------
+------
+>2595657631 LY04DRAFT_01036 heme exporter protein D [Oceanimonas baumannii DSM 15594]
+------M---------KFESWSAFWAMGG-YGFYVWLS-FAVTLLVLLGQVVVTVKTKKR
+LLREVSQ-------KQA-----RAARRE--AA------RK-------LENT-------L-
+------
+>2753155688 Ga0199058_121455 heme exporter protein D [Rhodovulum sp. MB263]
+------M----------------IPDLGK-YAVAVLSS-YALTMALIAVLIAVSLWRGAR
+VRRQLAE-------VEA-----RRETDV--------------------------------
+------
+>2521805720 H149DRAFT_02198 heme exporter protein D [Solimonas variicoloris DSM 15731]
+------V-------------SPEFWKMGG-YALYVWGS-FGIAAGIYLWNLIAPRLRRRA
+ILETLLD-----------------------DE----------------------------
+------
+>2813676634 Ga0317037_114892 heme exporter protein D [Brevundimonas vesicularis NCTC 11166]
+------M----------LD-----LDMTP-YAAFVWPA-WGVSALVLIVLTVRAVVASRK
+WKRELAR-------LEA-----DQGAHP--EAADTHRPQA-------ARSAIGPKETGLR
+P-----
+>2532701979 ppKF707_4483 heme exporter protein D [Pseudomonas pseudoalcaligenes KF707]
+------M---------NFSSFTEFLAMGN-HGLYVWTA-YGISLAVLAINVALPLMARRR
+YLQDEAR-------RLR-----REESK---------------------------------
+------
+>2502357634 SveDRAFT_18370 heme exporter protein D [Solemya velum gill symbiont WH (Draft Solemya velum gill symbiont genome)]
+--------------------MAEFFAMGG-YAFFVWMS-LGITAVVLVANLAWASMSHRK
+QLQRISR-------RVR-----RENLKT--------------------------------
+------
+>2794846129 Ga0309298_101925 heme exporter protein D [Pseudomonas sp. GP01-A3]
+------M---------SFNSFSDFLAMGH-HALYVWTA-YGICLAVLAFNVAAPILARKR
+YLQQEAR-------RLR-----RETEK---------------------------------
+------
+>650782772 SAR11G3_00832 hypothetical protein [Candidatus Pelagibacter sp. IMCC9063]
+------M--------------IEFLNMGG-HAIFVWSS-YAIALGLISILFYKTTAKYSK
+LETSLEK-------KTT-----RQVEVQ--SL-----PQEI-------------------
+------
+>2619905342 Ga0070175_3172 heme exporter protein D [Hydrocarboniphaga daqingensis CGMCC 1.7049]
+--------------------MSEFFAMGG-YAAYVWSS-FGVFAAVVVWNVITPRVERTA
+VLRKLIE-------DEP-----QSGDRE--------------------------------
+------
+>2776560495 Ga0258849_142465 heme exporter protein D [Rhodobacter sp. CZR27]
+------M----------------MPDLGK-YAFSVLTA-YGASTGLLLGLVLLTLWRGAR
+VRRMLRD-------VEQ-----RQGRVD--G-----------------------------
+------
+>2630085362 Ga0077596_12012 heme exporter protein D [Chelonobacter oris 1662]
+------MTP-------FFQTWHDFFNMGG-YGFYVWLC-YAVTIVALLILIIASIGEKKQ
+ILKWVAK-------ERQ-----RQQRLG--QR------QT-------SPTTGGRNES---
+------
+>2788963332 Ga0303418_108194 heme exporter protein D [Agaribacterium haliotis feces2]
+------MGLE-----FQFASLADFMSMKG-HGPYVWAA-YALTFAGLAALVVQVRLAKKS
+LRKKIQI-------LRL-----RESEDQ------------------------Q-------
+------
+>2659047079 Ga0110678_115125 heme exporter protein D [Achromobacter sp. A10]
+------M---------QWESWAAFWHMGG-SGAFVWGS-YGALALLALAECVALARRRRR
+AIRRIAA-------RHR-----ARRAPG--EPL---------------------------
+------
+>643088519 PSPTOT1_0182 heme exporter protein CcmD [Pseudomonas syringae pv. tomato T1]
+------M---------SFESFSDFLAMGR-HGLFVWSA-YGLCLLVLLINVALPVLARRR
+YLKQQAQ-------RLK-----RESRP---------------------------------
+------
+>641724929 SbBS512_E0743 heme exporter protein D [Shigella boydii sv. 18 CDC 3083-94]
+------MTP-------AFASWNEFFAMGG-YAFFVWLA-VVMTVIPLVVLVVHSVMQHRA
+ILCGVEQ-------QRA-----REARLR--AA------QQ-------QEAA---------
+------
+>2791941314 Ga0308438_101199 heme exporter protein D [Methylopila sp. Yamaguchi]
+------M-------------------TDP-HFGYIAAS-YGIAFAVIAGLILWTALDQRA
+QRRALAE-------LEA-----RSGRRR--SG------EGLR---P--------------
+------
+>2644731036 Ga0102249_12284 heme exporter protein D [Bosea sp. Root381]
+-----------------------MSALGP-HGGFILAS-YAAVIVVLGGLALAILLDHRA
+QRRALEA-------LEQ-----RGAGRR--SE------RK-------NP-----------
+------
+>2511263687 PMI20_00760 heme exporter protein D [Pseudomonas sp. GM17]
+------M---------SFSSFADFLAMGH-HGLYVWSA-YGICLVVLILNVAVPLLARKR
+YLQQEAR-------RLR-----RENNQ---------------------------------
+------
+>2511370069 PMI37_03701 heme exporter protein D [Pseudomonas sp. GM80]
+------M---------SFASFGDFLAMGH-HGLYVWTA-YGICLAVLAFNVAAPILARKR
+YLQQEAR-------RLR-----RENGK---------------------------------
+------
+>649869787 HICON_01960 exonuclease VII small subunit [Haemophilus influenzae F3047]
+------M---------FFQTWSDFFNMGG-YGFYVWLS-YAVSLVAVIALIVQSVKQRTT
+VLQNVLR-------EQQ-----REERLQ--QA------NK-------GNTL---------
+------
+>2664338028 Ga0104654_103509 heme exporter protein D [Pseudomonas congelans LMG 21466]
+------L---------SFASFSDFLAMGR-HGVFVWSA-YGLCLVVLLINVALPLWARQR
+FMKQQAR-------RLK-----RENRP---------------------------------
+------
+>2698687620 Ga0121746_1005891 heme exporter protein D [Enterobacter ludwigii EnVs2]
+------MTP-------AFASWSDFFAMGG-YAFYVWLA-VILTLIPLLGLVLHTVLFRRR
+LLAEIRQ-------RQS-----RESRIR--AA------KS-------KKAASEAAGESV-
+------
+>2540738724 H681_09155 heme exporter protein D [Pseudomonas denitrificans ATCC 13867]
+------M---------SFQSFGDFLAMGH-HGPYVWSA-YAISLVVLAINVVSPLLARRR
+YLQEEAR-------RLR-----REANK---------------------------------
+------
+>2772904685 Ga0164883_10103 heme exporter protein D [Xanthomonas bromi LMG 947]
+--------------------MSTFWAMGG-YGQYVWTS-YALFVLVLLADLAAPWLRRRR
+LPRELRG-------QLQ-----RQTPRR--PR------DQPA---PALERDAP-------
+------
+>2646742250 Ga0082203_12099 heme exporter protein D [Agrobacterium sp. AAP116]
+---------------------------MT-HAFYVIGS-YVLTAAICLSLAVWIYLDGRA
+RQAELKA-------LEG-----QGIRRR--SA------SA-------GQDTSA-------
+------
+>2509065925 BorpeJ51DRAFT_00016150 heme exporter protein D [Bordetella petrii J51]
+------MS--------AFASFAEFLAMDG-HGVYVWGA-YGLCAMLMALNVALPMLARRR
+YLNDLAR-------RRR-----REALR---------------------------------
+------
+>2582539272 EK22DRAFT_04227 heme exporter protein D [Methylobacter sp. BBA5.1]
+------V------------NWQEFFAMGG-YAFYVWTS-YAVTFIVLLANVIIPIVRRKQ
+FLRQQAL-------KQK-----RQGTL---------------------------------
+------
+>2791059117 Ga0272340_113711 heme exporter protein D [Devosia sp. I507]
+-----------------------VIALGE-HAEFIIAA-YAGVFIGLGLLIGWIVYDSRR
+VRARLET-------L--------GDKRG--------------------------------
+------
+>2532644811 C664_08658 heme exporter protein D [Thauera sp. 63]
+------MA--------QWESWSAFWDMGG-AAFFVWGS-YGVTFALMALELVLVLRRRKD
+TVTRLLR-------WRR-----AVGKDS--AR------KTGASV-PVMESET--------
+------
+>2644301525 Ga0102098_101531 heme exporter protein D [Rhizobacter sp. Root404]
+------M---------NWSSWSEFAAMGG-YGLYVWGA-FGVTAIAMLGEMASLRARRRA
+LRGEDVA-------AHA-----PVDYRE--GA------A---------------------
+------
+>2677808910 Ga0125998_104129 heme exporter protein D [Photobacterium leiognathi mandapamensis CUB3]
+------M---------HFDSVSDFFAMGG-YAAYVWSS-FGISFIAMLWILFSSMATQRR
+LLGDIKN-------KMA-----REERIK--EA------KK-------LENT-------L-
+------
+>2718445512 Ga0171609_103101 heme exporter protein D [Halomonas songnenensis CGMCC 1.12152]
+------M---------AFSSLGAFFAMGG-HGPYVWAA-WGVTALLMAACVIHARIERRQ
+LARVLTR-------RAR-----RGGTSQ--PH------QA-------SHADDP-------
+------
+>2597811962 Ga0053386_01882 heme exporter protein D [Mesorhizobium ciceri ca181]
+--------------------------MSV-HALYVTAA-YAITAVVLAGLIGWILFDQRA
+RKRDLAE-------LEA-----SGVRRR--SD------KA---------------GKS--
+------
+>2532214531 P24_03965 heme exporter protein D [Oceanibaculum indicum P24]
+------M-----------NDLSSYFAMGG-HGVYIWSS-YAVAATVLVVLLAVSFVGLRR
+REAELSR-------LEAA------------DE----------------------------
+------
+>2655461377 Ga0069210_10517 heme exporter protein D [Mesorhizobium sp. STM8789]
+--------------------------MSA-HALFVTAA-YAITAVVLAGLIGWILLDQRA
+RKRELAA-------LEA-----AGVRRR--SD------KA---------------VKP--
+------
+>647649352 GPB2148_3884 heme exporter protein CcmD, putative [Marine gamma proteobacterium sp. HTCC2148]
+------M---------YFDSLDALLQMDG-HGAYVWAA-YAITLVVIVFILLSPARRKKR
+FLRQLSA-------ELR-----RSQGGL--AT------QE-------ASNASS-P-----
+------
+>2802507606 Ga0314517_105274 heme exporter protein D [Rhizobium sullae Hc14]
+---------------------------MT-HAFYVYSA-YGFAALLTIAVTLWVWADGRA
+RRKELAV-------LEA-----SGIRRR--SA------RA-------KDGA---------
+------
+>2618018642 Ga0070179_1557 heme exporter protein D [Marinobacter zhejiangensis CGMCC 1.7061]
+------M---------AFDSFSAFIAMGG-HGPYVWIC-YAVFTLFMVGLGLWSRRQQKA
+VLRSHKQ-------RLS-----REQNGA--AN------QG-------AAPASFTRIHPS-
+------
+>2747892043 Ga0196912_105146 heme exporter protein D [Nitrosospira multiformis Nsp16]
+------V---------NWTSVADFLDMGG-YGFYVWGS-YLVSLLCIVGEIVLVFNRKRT
+LLRHLSL-------IHQ-----STKQEK--GN------ET-------TS-----------
+------
+>2792766827 Ga0309484_105150 heme exporter protein D [Mesorhizobium sp. WSM4311]
+--------------------------MSA-HALYVTAA-YGITAVALAGLIGWILLDQKG
+RKRDLAE-------LEA-----AGVRRR--SD------KA-------EAEKS--------
+------
+>2603599967 Ga0056029_10277 heme exporter protein D [Pragia fontium DSM 5563]
+------MTP-------AFSSWQDFFAMGG-YGFFVWLA-VAATLIPLLALVWHTRWQRKQ
+LLTEIQR-------RKS-----REARIE--KA------KN-------KQGTTL-------
+------
+>2792084459 Ga0308778_101743 heme exporter protein D [Rodentibacter sp. Ppn85]
+------M---------FFQTWSDFFDMGG-YGFYVWLS-YGISLVAIVALIIQSLKQRKT
+ILKNVLR-------ETQ-----REIRLQ--QA------NK-------GNTL---------
+------
+>2514087307 S23_03710 heme exporter protein D [Bradyrhizobium sp. S23321]
+------M----------------MMSLGP-YASFIVTS-YAAAALVVVILIGWIALDYRS
+QTERLRE-------LDR-----SGVTRR--SG------RS-------ATDTP--------
+------
+>2721741279 Ga0171582_0730 heme exporter protein D [Idiomarina planktonica CGMCC 1.12458]
+------M---------AFDSFRDFILMGG-YGFFVWLS-FGVTFLALFALLLQSVLTRRQ
+LQRDCAR-------QQH-----RQQRLA--KR------QA-------ATQNNSVQNSAKE
+------
+>2776507824 Ga0262685_111816 heme exporter protein D [Psychrobacter sp. FDAARGOS_221]
+------MQP-------YFYSIQEFLAMGE-HGPYVWST-WGITVAAVIGFIFYSIHQRRR
+LLKDLKV-------QQA-----RQQQRK--QA------AK-------R------------
+------
+>2740999053 Ga0074868_12524 heme exporter protein D [Alcanivorax xenomutans JC109]
+------M---------YFDSFAEFLAMGR-HGPYVWSA-YGICALLIVINMALAARKLAR
+VRQDVAR-------QWR-----RETREV--KH------ES-------GS-----------
+------
+>646087807 HMPREF0198_1039 conserved domain protein [Cardiobacterium hominis ATCC 15826]
+------M---------SFASLSEFFRMGT-HGVYVWTA-YGLTLAALIAIHVYVCRRQRR
+LRQTLAT-------LKR-----HDDARQ----------N---------------------
+------
+>2514114589 SMD_2845 heme exporter protein D [Stenotrophomonas maltophilia D457]
+---------------------------MT-HLPYVIGA-YAVFVLVLGADAIGSWLRLRV
+ARRLALA-------RQQ-----RQQTRA--GR-----QDAAA---PLSTELER-------
+------
+>2732724149 Ga0128654_11788 heme exporter protein D [Hydrogenophaga pseudoflava NBRC 102511]
+------M-----------NSLDELLTMGG-YGLYVWGS-LGMCAAVVVAELMVIRFRRRL
+LAQEAGD-------ERA-----AEETTT--------------------------------
+------
+>2703157171 Ga0113260_129843 heme exporter protein D [Pseudomonas fluorescens ABAC62]
+------M---------SFASFSEFVAMGH-HGLYVWTA-YGICLAVLALNVAAPILARKR
+YLQQEAR-------RLR-----RETEK---------------------------------
+------
+>2539291292 HMPREF1052_1860 heme exporter protein D [Pasteurella bettyae CCUG 2042]
+------M---------FFESWSDFLNMGG-YGFYVWLS-YGISLISILIFAVQSYHGKAA
+VFREIKR-------EEL-----REQRLQ--AT------QS-------RGKL---------
+------
+>2790233990 Ga0308768_12626 heme exporter protein D [Rodentibacter heidelbergensis Ac69]
+------M---------FFQTWSDFFNMGG-YGFYVWLS-YGISFIAIVALIIQSIKQRKS
+VLRNVQR-------ETQ-----REARLK--QV------NK-------GNLL---------
+------
+>638785843 YintA_01001062 COG3114: Heme exporter protein D [Yersinia intermedia ATCC 29909]
+------MNP-------AFHSWAAFFAMGG-YAFYVWLA-AAVTLLSLFSLWGYTWWQHKQ
+LFADIQR-------RQA-----RELRIR--QA------NQ-------TQHSARSQEKQQ-
+------
+>2655728369 Ga0077761_11018 heme exporter protein D [Rheinheimera sp. IITR-13]
+------M---------AFTSWADFWAMGG-YALFVWLS-FGTTYGLLLGLWWYSKRQHQQ
+IQQQIRA-------KAA-----REQRVR--QH------QE-------REK----------
+------
+>2559872727 SEEA0100_11901 heme exporter protein D [Salmonella enterica enterica sv. Anatum USDA 100]
+------M--------------ERFFRHGR-VRFFVWLA-VAMTVAPLALLALHTVLQRRA
+ILRGVAQ-------QRA-----REARMR--AA------QA-------QQEAA--------
+------
+>2628545167 Ga0077691_105313 heme exporter protein D [Pantoea sp. MBLJ3]
+------MTP-------AFSSWHAFFAMGG-YAFYVWLA-VACTLLSLIGLTLHTLLLRRR
+LLAEIRQ-------RDA-----RERRIR--AA------KS-------KKAATEAAGEKL-
+------
+>2676861875 Ga0104524_102137 heme exporter protein D [Pseudospirillum japonicum DSM 7165]
+------M---------YFASFADFLSMQG-HGIYVWAS-YALGLVLILANLLVPIWRTRR
+LRQRLQR-------RLQ-----STAAPA--KEL-----NS--------------------
+------
+>2603591674 Ga0056079_105382 heme exporter protein D [Pseudomonas balearica DSM 6083]
+------V---------NFSSFAEFVAMGN-HGVYVWTS-YGISLAVLLLNVALPLLARRR
+HLQEEAR-------RLR-----REEVK---------------------------------
+------
+>2578401581 Sant_1291 heme exporter protein D [Sodalis sp. HS1]
+------MNA-------AFSSWPAFLVMGG-YAFYVWLA-VAVTLLSLAALLGHTLVARRQ
+LLRAIRR-------QQA-----RAERRR--QG------AL-------RATPAIPPEKVQ-
+------
+>2665774533 Ga0112627_12253 heme exporter protein D [Bradyrhizobium elkanii CCBAU 05737]
+------------------------MSLGP-YASFIVTS-YALVAAVVLLLIVWIIADYRR
+QQSRLRE-------IEA-----SGVTRR--SG------RS-------AADIR--------
+------
+>2719049092 Ga0174826_11515 heme exporter protein D [Nitratireductor basaltis RR3-28]
+-------------------------MFGK-HAVFIIPS-YAITALVIAALVVWIAVTYRQ
+RRREVER-------MED-----GETSRS--RK------RA-------SQ-----------
+------
+>2694937971 Ga0131260_101347 heme exporter protein D [Ruegeria halocynthiae DSM 27839]
+------M----------------IPELGK-YADTVLSA-YAASILLLFALVVFSILRGRK
+VRAEMEK-------IEQ-----RMSRNG--------------------------------
+------
+>2511124827 PMI01_04626 heme exporter protein D [Caulobacter sp. AP07]
+------M---------HFD-----FDAGK-YAIYVWPA-FAVTAGAFVWMIADSLASARR
+WRREAER-------LQA-----LRDARA--KG------AK-------S------------
+------
+>2513859399 A3AKDRAFT_03983 heme exporter protein D [Bradyrhizobium elkanii USDA 94]
+------------------------MALGP-YASFIVTS-YALVAAVVLLLIVWIIADYRR
+QQARLRE-------IEA-----SGVSRR--SG------RS-------AADIR--------
+------
+>2611900533 Ga0055097_103467 heme exporter protein D [Aeromonas jandaei Riv2]
+------M---------HFASFSDFLAMGG-YAFYVWLS-FGLTLICLIGIVISTRLKTRS
+LLGELRS-------KQA-----REARRK--AA------QQ-------MENT-------L-
+------
+>2656604606 Ga0111283_13459 heme exporter protein D [Hoeflea sp. IMCC20628 null replaces 98275]
+--------------------------MMS-HQAFVFLS-YAATAVTLAGLLIGILLDGRA
+RRAELAE-------FEA-----QGVRRR--SK------AE-------GGPRS--------
+------
+>2676053435 Ga0116989_3041 heme exporter protein D [Pseudomonas xanthomarina LMG 23572]
+------M---------NFSSFSDFIGMGN-HGLYVWTS-YGISLAVLILNVALPMMARRR
+YLQDEAR-------RLR-----REEMK---------------------------------
+------
+>2722912302 Ga0175324_133545 heme exporter protein D [Sinorhizobium sp. RAC02]
+---------------------------MS-HAFYVTAS-YIAAFSVSIGLILWVWLDHRG
+RHRELER-------LEA-----AGVRRR--SA------RE-------ETR----------
+------
+>2745468119 Ga0133026_106980 heme exporter protein D [Methylomonas koyamae R-49807]
+------M------------SWDSFWYMGG-YAAYVWPA-YAVTALVLAVNVVWPVWQRKQ
+LIRQLAI-------KQK-----RAQSK---------------------------------
+------
+>2799266544 Ga0307654_0687 heme exporter protein D [Bosea sp. BK498]
+------M-------------TALATSLGP-HAGFILAA-YAAVVVVLTGLTLSIIHDHRA
+QKRALAA-------LEQ-----RGAGRR--RQ------GG-------EAA----------
+------
+>2508530696 PseuPK_00038720 heme exporter protein D [Pseudomonas sp. PK]
+--------------------------MGN-HGVYVWTS-YGISLAVLILNVALPALARRR
+YLQDEAR-------RLR-----REESK---------------------------------
+------
+>2559289357 H845_2265 heme exporter protein D [Gluconacetobacter xylinus E25]
+---------------------------MT-HLPYILAA-YGLTLGVATILSVNAAIRLRT
+ARRRLAT-------IEQ-----PRTRQP--S-----------------------------
+------
+>2715904558 Ga0125716_13496 heme exporter protein D [Rhodopseudomonas palustris BAL398]
+------------------------MALGP-YAAFIVWS-YLAVAIVVAMLIGWVWFDYRR
+QKARLHA-------LDA-----AGALRR--SG------KR-------ATDIS--------
+------
+>2517026961 METBUDRAFT_0250 heme exporter protein D [Methylomicrobium buryatense 5G]
+------M------------NWQEFFAMGG-YAFYVWTS-YGVTLLVLLAIAVLPVIQRKL
+FLKELAH-------KMK-----RMKKS---------------------------------
+------
+>2521799315 H140DRAFT_02293 heme exporter protein D [Psychrobacter lutiphocae DSM 21542]
+------MQP-------YFYSVQEFLAMGK-HGPYVWST-WGITVAVIVGFIFYSIHQRHR
+LLNQLKA-------QQA-----RQQQRK--QS------SN-------AHKSSTH------
+------
+>2675853993 Ga0124422_101533 heme exporter protein D [Phaeobacter sp. S26]
+------M----------------MPDLGK-YAVEVLSS-YAASLLLLLALLLMTFARGRR
+VRRQMQE-------MEQ-----QMQSQG--GP-----RRG--------------------
+------
+>2663380323 Ga0113506_131226 heme exporter protein D [Legionella worsleiensis ATCC 49508]
+------M-----------NSFNEWLAMGG-YSAYVWSS-YGLVGFVLIMNFLRIKRQRNQ
+TRQKLQR-------WFK-----R-------------------------------------
+------
+>637184067 SMc03850 PUTATIVE HEME EXPORTER D (CYTOCHROME C-TYPE BIOGENESIS PROTEIN) TRANSMEMBRANE [Ensifer meliloti 1021]
+--------------------------MMS-HAAYVVAS-YAVAAATVAGLILWVLTDGRA
+RRRELQQ-------LEA-----AGIRRR--SA------AG-------PAGG----GK---
+------
+>2634021515 Ga0077486_1012779 heme exporter protein D [Aquabacterium sp. NJ1]
+------MST------PQWHSLSQFIAMDG-YGRYIWGA-YGVTLLCMVVEPLMAAHRRRQ
+AWQSAQE-------VDA-----TEQEEY--------------------------------
+------
+>2725947523 Ga0126271_1079363 heme exporter protein D [Rhizobium leguminosarum Vaf12]
+---------------------------VT-HAFYVYAS-YGFAALVTIAVTAWTWADGRA
+RRRELAA-------LEV-----AGIRRR--SA------RP-------KDSVGD--GE---
+------
+>2741041993 Ga0191664_106127 heme exporter protein D [Rhizobium sp. PP-WC-1G-195]
+--------------------------MSA-HLAYVAAS-YGAAVFIVASLISWVVLDARA
+RRRELQA-------LEE-----AGIRRR--SA------GG-------GAQ----------
+------
+>2683234164 Ga0113492_113312 heme exporter protein D [Legionella nautarum ATCC 49506]
+------M-----------SQFQQWLAMGG-YSTYIWSA-YGLVGLVFLMNLLNIKYQRER
+TRKKLQQ-------WFK-----RQ------------------------------------
+------
+>640600414 PsycPRwf_2167 Heme exporter protein D (CcmD) [Psychrobacter sp. PRwf-1]
+------MQP-------YFYSFQEFLAMGK-HGMYVWST-WVLTLIVVLGFVLYSVHQRRQ
+LVKDLKI-------QHT-----RQQQRK--QA------QR-------RP-----------
+------
+>2548123718 TW10828DRAFT_01915 heme exporter protein D [Escherichia coli TW10828]
+------MTP-------AFASWNEFFTMGG-YAFFVWLA-VVMTVIPLVVLVVHSVMQHRA
+ILRGVAQ-------QRA-----REARLR--AA------QQ-------QEAA---------
+------
+>2757791634 Ga0215801_112128 heme exporter protein D [Pseudomonas sp. OV286]
+------M---------SFNSFSDFLAMGH-HGLYVWTA-YGICLAVLALNVVAPILARKR
+YLQQEAR-------RLR-----RETDK---------------------------------
+------
+>2643750164 Ga0102148_12333 heme exporter protein D [Caulobacter sp. Root1455]
+------M---------HFD-----FDAGK-YAVYVWPA-FALTAAAFVWMIADSLASARR
+WRREAER-------LQA-----RRQVQG--ET------QG-------EAGKP--------
+------
+>2663812207 Ga0106594_11037 heme exporter protein D [Vibrio parahaemolyticus CFSAN012492]
+-------------------------------MRHTYGARSALLFLSMLILLITSLRRGDA
+LMKEVKA-------KID-----RQARID--AA------KN-------MENT-------L-
+------
+>2626713739 osb_19950 heme exporter protein D [Octadecabacter temperatus SB1 DSM26878]
+------M----------------MPDLGN-YATEVMTA-YALSVGLLVGLLALSLRRSRK
+VRAQLAD-------VEA-----RRDRAN--V-----------------------------
+------
+>2599610445 Ga0056040_03803 heme exporter protein D [Amphritea atlantica DSM 18887]
+------L---------SFESFAEFIDMGG-HGLYVWLS-YAIALVVIVINIVNPLMYKRH
+IFTEQAR-------RLR-----REKQS---------------------------------
+------
+>638775046 YberA_01001762 hypothetical protein [Yersinia bercovieri ATCC 43970]
+------MKP-------AFDSWAAFFAMGG-YAFYVWLA-VAATLLSLLGLWLDTLRQHKQ
+LLADIQR-------RQA-----REQRIR--QH------AA-------HSQEKS-------
+Q-----
+>2678964761 Ga0104548_10871 heme exporter protein D [Jhaorihella thermophila DSM 23413]
+------M----------------IPDLGK-YADTVLSA-YAISILLLVALVVLSLRRGRK
+VREEMER-------TEA-----RLTSRR--------------------------------
+------
+>2641817899 Ga0099966_102421 heme exporter protein D [Xanthomonas axonopodis pv. dieffenbachiae LMG 7399]
+--------------------MSTFLAMGG-YSQYVWTA-YALFVLVLLADLAAPWLRRRR
+LPRELRG-------QLQ-----RQAPRR--VR------DQPA---PALERDAP-------
+------
+>2506974702 CC1559_00013350 heme exporter protein D [Pseudomonas syringae CC1559 (CC1559)]
+------L---------SFESFSDFLVMGR-HALFVWSA-YGLCLLVLLINVTLPVLARRR
+YLKQHAQ-------RLK-----RENRP---------------------------------
+------
+>2770896337 Ga0248106_10277 heme exporter protein D [Pseudaminobacter manganicus JH-7]
+--------------------------MSA-HALYVTAA-YGITAVVLAGLVGWILLDQRQ
+RRKELAE-------LEA-----AGVRRR--SD------KK-------PGPVK-GSTKP--
+------
+>2795913434 Ga0309933_113212 heme exporter protein D [Yersinia entomophaga MH96]
+------MTP-------AFNSWADFFAMGG-YAFYVWLA-VAVTLLSLLGLWAHTLWMKQG
+LLKSIRR-------QRR-----RDQRIR--QA------QQ-------RERK---------
+------
+>2732837238 Ga0128684_101193 heme exporter protein D [Cupriavidus necator NBRC 102504]
+------M------------DLNGFFSMGG-QGAFVWGA-YGVTALLFAVEVLLVLRCGVS
+TRRTLAD-------AHPAAPGMRLQEQR-GTQ----------------------------
+------
+>2707353911 Ga0123934_10213 heme exporter protein D [Salmonella enterica enterica sv. Bovismorbificans Sal680]
+--------------------------MGG-YAFFVWLA-VAMTVAPLVLLVLHTVLQRRA
+ILRGVAQ-------QRA-----REARMR--AA------QA-------QQEAA--------
+------
+>638131874 Neut_1640 conserved hypothetical protein [Nitrosomonas eutropha C91]
+------M---------KWESLSDFFAMGG-YGLYVWGS-YLVAMICVIGEVVLIRGRKRT
+LYKHLGQ-------SRR-----SILRG---------------------------------
+------
+>2687778963 Ga0133397_113618 heme exporter protein D [Candidatus Filomicrobium marinum Y]
+------------------------MDFGP-HATFIIAA-YAAVIIVLGGLIFWLIFDGFH
+QRRLLNE-------LEA-----RGVRRR--SA------QR-------VSRGRL-------
+---DHE
+>2753823080 Ga0198621_123845 heme exporter protein D [Rhizobium sp. NXC14]
+---------------------------VT-HAFYVYVS-YGIAALVTIAVILWTWADGRA
+RRRELAS-------LEA-----AGIRRR--SA------RP-------KDGE---------
+------
+>2519495082 ES15_1129 heme exporter protein D [Cronobacter sakazakii ES15]
+------MT----------AALTTFFLMGG-YAFYVWLA-VAMTVIPLALLIAHTRLARRT
+LRRDIAK-------RQA-----RERRRQ--GA------EV-------SR-----------
+------
+>2720427362 Ga0175343_11115 heme exporter protein D [Granulibacter bethesdensis NIH8.1]
+---------------------------MT-HLPFIIAA-YTIALGLPLIMGLMTVTRLAS
+ARNKLAA-------LET-----RPRATR-RSG------QNT-------------------
+------
+>2772067311 Ga0244612_107137 heme exporter protein D [Marinomonas pollencensis CECT 7375]
+M-----M---------AFDSLADFIQMGT-HGAFVWST-YGLVLLILAGLIANTIQGRRK
+TLRQLKK-------RYS-----RETHS---------------------------------
+------
+>2520246013 OCGS_2264 heme exporter protein D [Oceaniovalibus guishaninsula JLT2003]
+------M----------------MPDLGR-YAVEVLSA-YGMALGLLGALVGLTAFKGRQ
+VRRRLAD-------AEA-----RRRG----------------------------------
+------
+>2541997939 OE7_02232 heme exporter protein D [Haemophilus parasuis gx033]
+------MTF-------QFASLSDFFSMGG-YGFYVWLS-YGITFLSVGLLVWQSKREIRQ
+TLQLVKK-------EQA-----REDQLS--NK------R---------------------
+------
+>2580153044 L647DRAFT_01416 heme exporter protein D [Pseudoalteromonas haloplanktis TB64]
+------M---------QFDSFSDFIAMGG-YGFYIWLS-FGTCALILLGILVSSLRDTKR
+IMASVEQ-------QII-----REARIK--KA------KQ-------EQVS---------
+------
+>2638645816 Ga0077258_1283704 heme exporter protein D [Herbaspirillum sp. TSA66]
+------M---------IWNSWSDFFAMGG-YALYVWGS-FVVMFGLLGAEVFMLQMRRKS
+TLQQLRR-------WTR-----NNARHG--RK------DG-------ENSK---------
+------
+>2521963326 TVNIR_0266 heme exporter protein D [Thioalkalivibrio nitratireducens DSM 14787]
+--------------------MMEFLAMGG-YAPYVWGS-YLVMAGLLLVELVQLRYRRRS
+LMGWLKR-------MAR-----LNEQEG--TR----------------------------
+------
+>2643969347 Ga0102195_112202 heme exporter protein D [Rhizobacter sp. Root16D2]
+------M---------QWNSVGDFFAMGG-YAFYVWGS-FGACALAMLVESLLLRSQRRE
+LLRSLKD-------QHE-----A-------------------------------------
+------
+>638006306 TM1040_1002 Heme exporter protein D (CcmD) [Ruegeria sp. TM1040]
+-----------------------MPDLGK-YAETVLSA-YAVSLVLLVALLVVTFLRGAK
+VRAALKD-------VEE-----RVRRNG--------------------------------
+------
+>2547605041 PAGGDRAFT_03029 heme exporter protein D [Pantoea agglomerans IG1]
+------MTP-------AFSSWHAFFEMGG-YAFYVWLA-VACTLIPLVGLTLHTLLLRRR
+LLAEIRQ-------RDA-----RERRIR--AA------KS-------KKAAAEAAGETL-
+------
+>2756673679 Ga0215673_103175 heme exporter protein D [Mesorhizobium loti DSM 2626]
+--------------------------MSA-HALYVTAA-YGITAMVLIGLIGWILIDQRA
+RKRELAE-------LEA-----AGIRRR--SD------KA---------------AKP--
+------
+>2513867466 A3A1DRAFT_02927 heme exporter protein D [Rhizobium sp. OR 191]
+---------------------------MT-HAFYVYGA-YGFAALVTIAATLWTWADGRA
+RRSEMAT-------LEA-----AGIRRR--SA------RT-------KDGE---------
+------
+>2599732120 Ga0004566_00764 heme exporter protein CcmD [Nereida ignava DSM 16309]
+-----------------------MIDLGK-YAADVVLA-YCISLGLILGLIGLSIYRAKR
+MKADLAA-------AEA-----RIEARQ--NN------GT--------------------
+------
+>2788958108 Ga0302953_100388 heme exporter protein D [Marinagarivorans algicola Z1]
+------MTF-------YFESAAAFWHMEG-HGPYVWVC-YVVTMSIFMGLALAPKIRRAK
+FIKQQRA-------LVA-----RQQASR--EA---------------SLEVER-------
+------
+>2776594717 Ga0263262_12612 heme exporter protein D [Paracoccus sp. BM15]
+-----------------------MIELGK-YASTVLMA-YGVSLALLAGLIWQTVSASKR
+ARRALEA-------QER-----DG------------------------------------
+------
+>640471688 Pnuc_1515 heme exporter protein D (CcmD) [Polynucleobacter necessarius asymbioticus QLW-P1DMWA-1]
+----------------MWNSPEEFLAMGG-YALYVWSS-FGVCAAVLLIEPLSIRARNRV
+IIRRLQQ-------ERL-----ADQFDK--EG------GN--------------------
+------
+>2521412812 R2A57_2830 heme exporter protein D [Roseobacter sp. R2A57]
+------M----------------MPDLGK-YADTVLSS-YIVSIVLLVALVALSISAARK
+ARAELQK-------VEG-----RRNG----------------------------------
+------
+>2540763377 A11S_1726 heme exporter protein D [Micavibrio sp. EPB]
+------M------------TFETFIAMNG-YGLYVWGS-YGFAAIVLIVLTLATFIRAHE
+IKQD--------------------------DE----------------------------
+------
+>2518920229 F464DRAFT_01799 heme exporter protein D [Azoarcus toluclasticus ATCC 700605]
+------M---------NWGSWSEFWAMGG-DGLYVWSA-YLVAIVVIFTEIAVLALTRRS
+ILEHLGR-------YAK-----IARMER--KP------RN-------DDSRF--------
+------
+>2643406106 Ga0073292_102322 heme exporter protein D [Idiomarina zobellii KMM 231]
+------M---------PFDSFQDFIIMGG-YGLYVWLS-FFLSFVVIALVALETAIARKS
+LQKKSQQ-------LQN-----RQQRLA--KR------QR-------SVSQ---------
+------
+>2739025135 Ga0196660_105157 heme exporter protein D [Rhizobium rhizoryzae DSM 29514T]
+---------------------------MS-HAFYIFTS-YGVTALITLAVIAWTLLDGRA
+RRNEMAE-------LEA-----AGIRRR--SS------PP-------VTEG----KQA--
+------
+>2585223909 EX12DRAFT_03382 heme exporter protein D [Rhizobium alamii YR540]
+--------------------------MSS-YAFYVYGS-YGFAAVVTIAVTLWTWADGRA
+RQKELAA-------LEA-----AGIRRR--SA------RP-------KDDE---------
+------
+>2779825869 Ga0269453_101011 heme exporter protein D [Escherichia coli MOD1-EC1537]
+------MTP-------AFASWNEFFAMGG-YAFFVWLA-VVMTVIPLVVLVVHSVMQHRA
+ILRGVAQ-------QRA-----REARLR--AA------Q---------------------
+------
+>2685022013 Ga0127130_104117 heme exporter protein D [Vibrio splendidus MARo]
+------M---------YFESLSDFFAMGG-YASYVWSA-FGITFLAMIILLVVSVRRGKH
+LLNEVQA-------KID-----RQARID--AA------KN-------MENT-------L-
+------
+>637488830 PSPPH_3311 heme exporter protein D [Pseudomonas syringae pv. phaseolicola 1448A]
+------M---------NFASFSDFLAMGR-HGLFVWSA-YGLCLLVLLINVAMPLVARQR
+FLKQQAR-------RLK-----RENRW---------------------------------
+------
+>2690504411 Ga0115488_0273 heme exporter protein D [Pantoea sp. OV426]
+------MTS-------AFSSWHAFFAMGG-YAFYVWLA-VACTLLPLIGLTLHTLLLRRR
+LLAEIRQ-------RDA-----RERRIR--AA------KS-------KKAAAEAAGETL-
+------
+>2773054371 Ga0244613_1964 heme exporter protein D [Marinomonas balearica CECT 7378]
+------M---------AFESIENFLLMGT-HGVYVWSS-YGIFVISMLILFIQSVRSRTK
+QKMRILR-------RMR-----SLDKTQLSSAL-----SD-------QNHAP--------
+------
+>2645639194 Ga0102437_10544 heme exporter protein D [Methylobacterium sp. Leaf466]
+------------------------MDLGP-HGGFILGA-YGFTALVIGGLILHALRDARA
+QRRTLAA-------MQD-----ERTDGP--SG------EP--------------------
+-----S
+>2754879824 Ga0173039_121696 heme exporter protein D [Burkholderia sp. MSMB0175]
+------M---------NWHTASEFLAMGG-YGLYVWGA-YSVTALIMLLEPRAAAHRRRR
+ALLDAAR-------ARK-----AESRP---------------------------------
+------
+>2688919485 Ga0129272_1133980 heme exporter protein D [Shinella sp. HZN7]
+---------------------------MS-HAFYVTAS-YVAAFAVVAVLVLWVWLDHRA
+RHRELAQ-------LEA-----AGIRRR--SA------RS-------GEKP---------
+------
+>2779335572 Ga0269025_1001254 heme exporter protein D [Escherichia coli MOD1-EC5022]
+------MTP-------AFASWNEFFAMGG-YAFFVWLA-VVMTVIPLVVLVVHSVMQHRT
+ILRGVAQ-------QRA-----REARLR--AA------QQ-------QEAA---------
+------
+>2525296228 H035DRAFT_2336 heme exporter protein D [Methylohalobius crimeensis 10Ki]
+------M------------NWPEFFHMGG-YGAYVWSA-YGLAAGVLVWNLITPWLKRRE
+VMRKLKR-------LYR-----QEDLPS--------------------------------
+------
+>2540900830 L879DRAFT_03167 heme exporter protein CcmD [Balneimonas flocculans ATCC BAA-817]
+---------------------------MS-HGFFIALS-YILTALVVAGLILRAVVDHRM
+QVRALAE-------LDA-----RGVGRR--SR------RG--------------------
+------
+>2786693389 Ga0244735_0341 heme exporter protein D [Pacificibacter maritimus DSM 104731]
+-----------------------MPDLGK-YASDVLAA-YGITAALLLGLIALSVVQSSR
+VKKRLKA-------AEE-----RRKSDG--------------------------------
+------
+>2792463079 Ga0309292_1463 heme exporter protein D [Caulobacter flavus CGMCC1 15093]
+------M---------SFD-----FDAGK-YAVYVWPA-FALTAAVFAWMIADSLLAARR
+WRAEAQR-------RQA-----ETKDPG--K-----------------------------
+------
+>2600877188 Ga0056721_00103 heme exporter protein D [Haematobacter missouriensis CCUG 52307]
+------M----------------MPDLGK-YAVSVLSA-YGVTFLLLVGMVALTLLRGSK
+VKRRLEE-------AEE-----RRRGRG--------------------------------
+------
+>2570038424 BF12DRAFT_02037 heme exporter protein D [Cobetia crustatorum JO1]
+------M---------AFTSVADFFAMGG-HAVYVWSA-WGLTTAGLMGLVISTRLSRRA
+VEADIRR-------RVR-----RERSHS--------------------------------
+------
+>2673748067 Ga0123956_113837 hypothetical protein [Mizugakiibacter sediminis skMP5]
+--------------------MSAFFAMGG-YAAYVWPA-YAVFFAVLAWDYAAPALRRRR
+ALRELRA-------RLA-----RQSARK--GA------SA--------------------
+------
+>2728700022 Ga0127027_127188 heme exporter protein D [Hyphomicrobium sulfonivorans WDL6]
+------M------------ELLLGIDLGP-HASFIWAA-YGAVVAVIGGLIAWLYIDGRV
+QQRKLAV-------LAE-----RGVRRR--SA------RR-------A------------
+------
+>2519845232 D568DRAFT_02127 heme exporter protein CcmD [Gilvimarinus chinensis DSM 19667]
+------MFD------FKFASVAEFAAMDG-HGIYVWSC-TAIALLMLTALLVHPLWLLRL
+QKRKIQQ-------QLALQ-QYQQKRHK--RP------TS-------SES----------
+------
+>2645836607 Ga0100899_113205 heme exporter protein D [Pseudomonas deceptionensis L10.10]
+------M---------SFASFGDFIAMGH-HAVYVWSA-YGICLAVLALNVALPIAARRR
+YLQHEAR-------RLR-----RENSK---------------------------------
+------
+>2757006226 Ga0215643_1619 heme exporter protein D [Kushneria indalinina DSM 14324]
+------M---------AFDSLTDFWAMNG-YAAYVWPA-FIVVLGALVAFALVSVIEQRR
+LLRHVSA-------LER-----REARRP--GR------SA-------TATVEETS-----
+------
+>2630747057 Ga0069213_107190 heme exporter protein D [Mesorhizobium plurifarium ORS3365]
+--------------------------MSA-HALFVTAA-YAITAVVLAGLVGWILLDQRA
+RKRELAA-------LEA-----AGVRRR--SD------KA---------------VKP--
+------
+>2686678332 Ga0125266_11851 heme exporter protein D [Candidatus Nitrospira inopinata ENR4]
+------M---------YWSSLSEFLEMGG-YGLYVWTS-FIITGLCMAWEILALWRRRAA
+AIAESRG-------IVR-----DIG-----------------------------------
+------
+>2525595843 PseudoWC55_01820 heme exporter protein D [Pseudomonas aeruginosa WC55]
+------M---------SFASFAEFIAMGS-HGPYVWSS-YAIGIAVLALNVALPIVARRR
+YLQDEAR-------RLR-----RERQQ---------------------------------
+------
+>2598718454 Ga0057541_00683 heme exporter protein D [Maribius sp. MOLA 401]
+-----------------------MPDLGK-YALEVGLA-YGLSAVLLAGIVVLSLLRARR
+MARALDR-------AER-----RNG-----------------------------------
+------
+>2598038205 Ga0045912_02782 heme exporter protein D [Erwinia amylovora MR1]
+------MTP-------AFSSWPDFFAMGG-YAFYVWLA-VVFTLLSLAALVGHTCWQRRR
+LLADIRR-------RQA-----REQRMQ--AA------KV-------KTATQAVAGEQA-
+------
+>2505485405 PgyBR1_0060.00001790 heme exporter protein D [Pseudomonas syringae PgyBR1 (Psy13)]
+------L---------NFASFSDFLAMGR-HGLFVWSA-YGLCLLVLLINVAMPLVARQR
+FLKQQAR-------RLK-----RENRW---------------------------------
+------
+>2666301269 Ga0113312_113286 heme exporter protein D [Pseudomonas sp. TTU2014-105ASC]
+------V---------NFSSFAEFIAMGN-HGVYVWTS-YGISLAVLILNVALPVLARRR
+YLQDEAR-------RLR-----REESK---------------------------------
+------
+>637834631 HCH_04366 Heme exporter protein D [Hahella chejuensis KCTC 2396]
+------M---------NFESLNEFFAMGG-HGLYVWLA-YGAGGLVFLYNLAAPKLKRDG
+LVKRLSQ-------QYR-----REKASQ--------------------------------
+------
+>2588205140 F822DRAFT_0494 heme exporter protein D [Nitrosospira briensis C-128]
+------M---------NWTSVADFLDMGG-YGFYVWGS-YLVSVLCIVGEIVLVFNRKRT
+LLRHLSL-------IHQ-----STKQEK--GN------ET-------TS-----------
+------
+>2752804512 Ga0198798_111661 heme exporter protein D [Oceanicoccus sagamiensis NBRC 107125]
+------M---------QFDSLAAFMSMEG-HGIFVWSV-YAIAFVVLATLFLVPLRKNRQ
+FFTEQAM-------LAK-----REQRIQ--QQ------AE-------G------------
+------
+>2631719608 Ga0077792_110337 heme exporter protein D [Pectobacterium carotovorum carotovorum UGC32]
+------MNI-------AFTSWQDFFAMGG-YAFYVWLA-VVLTLLPLSALIGHTLLGRRA
+LLRDIRR-------QQA-----REQRRK--NT------AR-------QSAMEVVQ-----
+------
+>2807336732 Ga0264098_111761 heme exporter protein D [Citrobacter werkmanii FDAARGOS_364]
+------MTP-------AFASWSDFFAMGG-YALYVWLA-VAMSVIPLTVLVLHSALQHRA
+ILRGVAQ-------QRA-----REARMR--AA------QV-------QREAA--------
+------
+>649870841 Mesci_0972 heme exporter protein CcmD [Mesorhizobium ciceri bv. biserrulae WSM1271]
+--------------------------MSA-HALYVTAA-YGITAVVLAGLIGWILLDQRA
+RKRELAE-------LEA-----SGVRRR--SD------KV---------------AKP--
+------
+>2698268754 Ga0131267_1041 heme exporter protein D [Loktanella maricola DSM 29128]
+-----------------------MPDLGD-YAIEVLSA-YAVSILLIGVLIWLSWRRYAK
+VRASLEK-------VEK-----NG------------------------------------
+------
+>2771627140 Ga0244528_101584 heme exporter protein D [Microvirga subterranea DSM 14364]
+--------------------------MSQ-HAFFILSS-YAVTALVVLGLILRAVVDHRA
+QAKALAE-------LEA-----RGIGRR--SR------RG--------------------
+------
+>2739620697 Ga0196855_11422 heme exporter protein CcmD [Roseivivax pacificus DSM 29329]
+-----------------------MPELGK-YAVSVLSA-YGVSLGLLAVLVGLSVARARR
+VKAQLAR-------VED-----RQGRQH--HG----------------------------
+------
+>2520650335 G327DRAFT_00533 heme exporter protein D [Psychromonas ossibalaenae ATCC BAA-1528]
+------M---------AFTSIADFFAMGG-YGFYVWLA-YGISILSLIVLIINTMHKRKM
+VLKTVKQ-------RIA-----REQRIK--NA------SN-------MEGT-------L-
+------
+>2655778642 Ga0100549_18785 heme exporter protein D [Cellvibrio sp. OA-2007]
+------MKF-------QFETIADFIAMNG-HGPYVWAS-YAITFAALIFLLVSPLLQKKN
+FIKQQQK-------LQK-----LAQANP--AA------D---------QSVE--------
+------
+>2524872092 K409DRAFT_02258 heme exporter protein D [Bradyrhizobium japonicum is5]
+------M----------------TMSLGP-YASFIVTS-YAAAALVVAILIGWVMLDYRS
+QTQRLRE-------LEE-----RGITRR--SG------RS-------ATELR--------
+------
+>2590657118 JN20DRAFT_0173 heme exporter protein D [Klebsiella variicola F10Cl]
+------MTP-------AFSSFSAFLAMGG-YALYVWLA-AGATLAVLGLLTLHTLWQRRA
+LFHEITR-------QQA-----RERRIA--AA------RR-------RDKEAADASAS--
+------
+>2635946980 Ga0077751_120340 heme exporter protein D [Vibrio sp. S234-5]
+------M---------YFESLSDFFAMGG-YAAYVWGS-FAITFLAMLALYVSSARRTRA
+LLDEVKA-------KID-----RQARID--AA------KN-------MENT-------L-
+------
+>2694018082 Ga0113281_17813 heme exporter protein D [Pseudomonas syringae ICMP 11168]
+------L---------SFASFSDFLAMGR-HGVFVWSA-YGLCLVVVLINVALPLWARQR
+FLKQQAR-------RLK-----RENRP---------------------------------
+------
+>2506726581 Thith_1422 heme exporter protein D [Thioalkalivibrio paradoxus ARh 1]
+--------------------MMEFLAMGG-YAPYVWGS-YLVMAGLLLVELVQLRYRRRS
+LVGWLKR-------MAR-----LNEQEG--TR----------------------------
+------
+>2707480061 Ga0123986_10133 heme exporter protein D [Neorhizobium galegae bv. orientalis HAMBI 2605]
+---------------------------MS-HTFYIAMS-YAVSAIVILCLIAWTWLDGRA
+RRQELAE-------LEA-----SGIRRR--SA------QP-------KGDA----A----
+------
+>2511714271 KOX_00300 heme exporter protein D [Klebsiella oxytoca KCTC 1686]
+------MSS-------AFTSWSDFLAMGG-YAFYVWLA-VALTVLPLAALVAHSAILHRV
+ILRDIAR-------QRA-----REARRR--AA------REAT------------------
+------
+>2795763124 Ga0310493_103265 heme exporter protein D [Rhodovulum adriaticum DSM 2781]
+------M----------------IPDLGK-YAGAVLSS-YAISLGLLILLVAFSVWRAAR
+VRRQLEE-------VEA-----RRKSDV--------------------------------
+------
+>2690947573 Ga0129130_112889 heme exporter protein D [Methylobacterium sp. MA-22A]
+--------------------MDLGMNLGP-HAAFILGA-YGFTALVILGLVAHAVLDRRA
+QERALAR-------LAK-----EPLKRD--SA------RG-------AL-----------
+------
+>2642423464 Ga0062610_10397 heme exporter protein D [Polynucleobacter necessarius subsp. asymbioticus Tro-8-2-5GRR]
+----------------MWNSPAEFFAMGG-YALYVWCS-FGVCLAVLLFEPLSIRARNKA
+IIRRLKQ-------EQL-----AEQFDK--EG------SQ--------------------
+------
+>2505253635 HyVSDraft_00026620 heme exporter protein D [Hyphomicrobium sp. VS (Draft1)]
+------------------------MDLGQ-HAAFIILS-YLAVAITVAGLIVWLVMDGRK
+QARGLAD-------LQQ-----RGIRRR--PV------GT-------PE-----------
+------
+>2686402076 Ga0115468_112269 heme exporter protein D [Massilia sp. PDC64]
+------M---------IWHTWSDFISMGG-YAPYVWGS-VGATAAGIALEVLALRARRRA
+ALSKGRP-----------------------------------------------------
+------
+>2653837451 Ga0075206_101354 heme exporter protein D [Methylobacterium phyllostachyos BL47]
+------------------------MDLGS-HGGFILAA-FAFTALVMAALIGNAIRDRRA
+QLRALKG---------------FGEDRR--------------------------------
+------
+>2637048132 Ga0069486_113886 heme exporter protein D [Pseudomonas sp. StFLB209]
+------M---------SFESFADFLAMGR-HGLFVWSA-YGLFVLVVLINIALPLLSRRR
+YLQEQAR-------RLR-----REGK----------------------------------
+------
+>637733707 PSHAa0825 heme exporter protein D (Cytochrome c-type biogenesis protein ccmD) [Pseudoalteromonas haloplanktis TAC125]
+------M---------QFDSFSDFIAMGG-YGFYVWLS-FGTCALILLGILFSSLRETKH
+IMASVEQ-------QIA-----REVRIK--NA------KQ-------EQI----------
+------
+>2588256401 G345DRAFT_1428 heme exporter protein D [Nitrosomonas cryotolerans ATCC 49181]
+------M---------NWASWSEFFAMGG-YGAYVWGS-YFVAFVCIIGEIILISHRRRT
+LQKQQGL-------IYE-----SNSKEI--ND------NE-------TAS----------
+------
+>2649122627 Ga0098803_110112 heme exporter protein D [Vibrio splendidus UCD-SED7]
+------M---------YFESLSDFFAMGG-YASYVWSA-FGITFLAMIILLVLSVRRGKQ
+LLSEVQA-------KID-----RQARID--AA------KN-------MENT-------L-
+------
+>2752861494 Ga0165204_102119 heme exporter protein D [Magnetovibrio blakemorei MV-1]
+--------------------MAEFFSMGG-YGTYVWTS-YGLTAVVLVVLLVVSLKSLKS
+TETTFDR-------LRAAV-GPKEMKRM--ET------AN-------GDEA---------
+------
+>2645221463 Ga0102472_12366 heme exporter protein D [Frateuria sp. Soil773]
+--------------------------MGG-YAAYVWPA-YAVFFVVLAADFFAPALRRRR
+NLRELRA-------RLA-----RQSARQ--QR------SASS------------------
+------
+>2524264925 G560DRAFT_02536 heme exporter protein D [Pseudorhodobacter ferrugineus DSM 5888]
+------M----------------MPELGK-YAGAVLGS-YAASIALIVVIVGWSLWRAAK
+VKRALAE-------VEA-----RAATGT--GA------ST-------TTGAGKHG-----
+------
+>2599287494 Ga0056035_01544 heme exporter protein D [Halomonas muralis DSM 14789]
+------M---------AFDSLAALLAMGG-HAPYVWPA-WGVTAALLIGSAWHARAERRQ
+RIRELKR-------RNR-----RERSAA--KR------DAPGDF-SEREADDA-------
+------
+>2786545361 Ga0304781_2945 heme exporter protein D [Stenotrophomonas rhizophila BIGb0145]
+---------------------------MT-HLPYVIAA-YAVFVLVLGSDAIGSWLRLRW
+ARRLAVR-------RQQ-----RQQARA--AA------GSAP---PLAPELTR-------
+------
+>2506770528 DSM7028DRAFT_00031850 heme exporter protein D [Oceanimonas doudoroffii]
+------M---------KFDSWSAFLAMGG-YGFFVWLS-FAVTLLALLGLVVATITTRKR
+LLRQVSQ-------KQA-----RAARRE--AA------RK-------LENT-------L-
+------
+>2563855165 BR48DRAFT_1771 heme exporter protein D [Phyllobacterium sp. UNC302MFCol5.2]
+--------------------------MSS-HAGFIIAA-YGVSFIALAGLIGWVFIDQRL
+QNRALRE-------LES-----RGVRRR--SE------GK-------GAQP---------
+------
+>2559351027 X808_3870 heme exporter protein D [Mannheimia varigena USDA-ARS-USMARC-1296]
+------MTF-------QFQSISDFFAMGG-YGFYVWLS-YALTFIAMGGLIWLSRREHKA
+IFAQAKK-------ELA-----REEKLK--QS------A---------------------
+------
+>2517426479 MetluDRAFT_1882 heme exporter protein D [Methylobacter luteus IMV-B-3098]
+------M------------NWQEFFAMGG-YAFYVWTS-YAVTFIVLLANIIIPIVRRRQ
+FLRQQAL-------KQK-----RQGTL---------------------------------
+------
+>2714531615 Ga0124748_103022 heme exporter protein D [Pseudomonas caricapapayae ICMP 2855]
+------L---------SFASFSDFLAMGR-HGLFVWSA-YGLCLLVLLINVALPLLARRR
+LLKQHAR-------RLK-----RERRP---------------------------------
+------
+>2529734517 EC2875150_2569 heme exporter protein D [Escherichia coli 2875150]
+------MTP-------AFASWNEFFAMGG-YAFFVWLA-VVMTVIPLVVLVVHSVMQHRA
+ILRGVAQ-------QRA-----CEARLR--AA------QQ-------QEAA---------
+------
+>2748105547 Ga0210579_114881 heme exporter protein D [Granulosicoccus antarcticus IMCC3135]
+------M--------------LEFFNMGG-YAFYVWTS-YACALVLLGGIVLWSARSYRS
+VRISAIR-------RAQ-----QHRRKK--------------------------------
+------
+>2676392140 Ga0111709_103515 heme exporter protein D [Nitrosomonas sp. 33 Nm33]
+------M---------NWNSWSEFFSMGG-YGFYVWGS-YLVSVICIAGEIWLLSNRWRT
+LQKSLGQ-------RVE-----STIREK--KN------EA-------TS-----------
+------
+>637008289 HI1092 heme exporter protein D [Haemophilus influenzae Rd (KW20)]
+------M---------FFQTWSDFFNMGG-YGFYVWLS-YAVSLVAVIALIVQSVKQRKT
+VLQNVLR-------EKQ-----REERLQ--QA------NK-------GNTL---------
+------
+>2698718442 Ga0112169_103517 heme exporter protein D [Tateyamaria sp. ANG-S1]
+-----------------------MPDLGK-YAEAVLSA-YAVSIVLLVAIVVLTVWRGRK
+VRAEMEA-------VER-----RSGRNG--------------------------------
+------
+>2521801996 H141DRAFT_02256 heme exporter protein D [Rheinheimera perlucida DSM 18276]
+------V---------HFQSFSEFLAMGG-YGFFVWLS-FGATYLLLSGLIAASVYQHKQ
+FKQQLKA-------TIA-----REQRVK--QY------QE-------QQV----------
+------
+>2618391395 Ga0055084_12328 heme exporter protein D [Nitratireductor basaltis UMTGB225]
+---------------------------MS-HAAYVALA-YGAAVLLIGGLVVWIITDQRA
+RKREIAE-------LEA-----RGVHRR--AR------RK-------GEQP---------
+------
+>2640855452 Ga0098765_10870 heme exporter protein D [Methylobacterium sp. ARG-1]
+------------------------MDLGS-HGGFIVAA-YAFTALVMVGLIGNAIRDRRA
+QLRALRG---------------FGEERR--------------------------------
+------
+>2595305993 FG30DRAFT_00494 heme exporter protein D [Dyella marensis UNC178MFTsu3.1]
+--------------------VSHFLAMGG-YAAYVWPA-YAVFFIVLVADYLAPGIRRRR
+QLRELRA-------RLA-----RQSARQ--QR------NPT----PSS------------
+------
+>2778044692 Ga0248447_1002100 heme exporter protein D [Pseudoruegeria sp. SK021]
+-----------------------MPELGK-YAGEVLSA-YGISLALLAVLVAVSLARGRR
+VRAKLRA-------YED-----RKGAR---------------------------------
+------
+>2780137609 Ga0269805_100437 heme exporter protein D [Escherichia coli MOD1-EC5789]
+------MTP-------AFASWNEFFAMGG-YAFFVWLA-VVMTVIPLVVLVVHSVIQHRA
+ILRGVAQ-------QRA-----REARLR--AA------QQ-------QEAA---------
+------
+>2652844319 Ga0098816_129160 heme exporter protein D [Mesorhizobium sp. 1M-11]
+--------------------------MSA-HALYVTAA-YGITVIALAGLIGWILLDQRA
+RNRELAE-------LEA-----AGVRRR--SD------KT---------------GRS--
+------
+>2733754295 Ga0128942_105415 heme exporter protein D [Pseudomonas psychrotolerans SB18]
+------M---------SGFDWAQVLGMGR-YGLYVWPA-FGLTLAILAGLLWHGRLARRR
+LQRELRQ-------RWR-----RGRQS---------------------------------
+------
+>2693017012 Ga0112167_106188 heme exporter protein D [Leisingera sp. ANG-M7]
+-----------------------MPDLGK-YADTVLSA-YGASLVLLVALVVLTILRGRK
+VRREMET-------LET-----RMKRNG--------------------------------
+------
+>2617355614 Ga0061065_102382 heme exporter protein D [Marinomonas fungiae JCM 18476]
+------M---------AFESIPEFLKMGT-HGIYVWST-YGISLIALVGLFVSTRVSNCK
+LRKQLKK-------RYQ-----REQSR---------------------------------
+------
+>2646507525 Ga0100803_107273 heme exporter protein D [Pantoea agglomerans P10c]
+------MTP-------AFSSWHAFFEMGG-YAFYVWLA-VACTLIPLVGLTLHTLLLRRR
+LLAEIRQ-------HDA-----RERRIR--AA------KS-------KKAAAEAAGEIL-
+------
+>2617965946 Ga0070182_1068 heme exporter protein D [Idiomarina maritima CGMCC 1.7285]
+------M---------AFDSWQEVIWMGG-YGFYVWLA-FGVSILAIAILVVHGLLTRKK
+LAQLAVK-------KQQ-----QQQRIA--RR------KQ-------QERHRSMVTNDST
+S-----
+>640488496 PST_2552 cytochrome c-type biogenesis protein CcmD [Pseudomonas stutzeri A1501]
+------M---------NFSSFADFIAMGN-HGVYVWTA-YGISLAVLILNVALPVLARRR
+YLQDEAR-------RLR-----REESK---------------------------------
+------
+>2737435821 Ga0183472_0055 heme exporter protein D [Litoreibacter ponti DSM 100977]
+-----------------------MPDLGK-YADTVLSS-YAVSIALLAGLVVMSIWQSKR
+AKARLAE-------VEA-----RRKSDA--AR------Q---------------------
+------
+>637824107 Rru_A0037 Heme exporter protein D (CcmD) [Rhodospirillum rubrum S1, ATCC 11170]
+------------------------MDMGG-YGAYVWPA-FGLTALVLIGLLVQTLAERRR
+NRARLEQ-------LRGL----RRDRRD--------------------------------
+------
+>2612193530 Ga0056831_108621 heme exporter protein D [Xanthomonas arboricola pv. Celebensis NCPPB 1630]
+---------------------------MS-YLPYVIAA-YAVFVLVLLWDLIAGRWQLRR
+ALKAAQA-------RRL-----RERKRA-VPS---------------DAELIR-------
+------
+>2699775019 Ga0125402_120937 heme exporter protein D [Thalassobius sp. CECT 5114]
+------M----------------MPDLGK-YAGTVLSA-YGASIILIVGLVWLSVRAAKK
+SKKALDK-------LEQ-----NDG-----------------------------------
+------
+>2585326495 EX05DRAFT_04186 heme exporter protein D [Rhizobium rhizogenes YR147]
+---------------------------MT-HPFYVYGS-YGFAAVMVLAIIAWTWIDGRL
+RRRELAA-------LEA-----SGIRRR--SQ------RA-------PESD----AK---
+------
+>2642691278 Ga0073293_0049 heme exporter protein D [Idiomarina abyssalis KMM 227]
+------M---------AFDSFTDFVAMGG-YGLYVWLS-FFLSFVVLAGVALETLLAKRQ
+LAKKSKQ-------LQQ-----RQERLA--RR------KA-------SRAEVGDGNESKT
+------
+>2631394411 Ga0077301_12218 heme exporter protein D [Kiloniella sp. P1-1]
+------M-----------EQITNFLSMGN-YGAYIWTA-YLLTAVVMLGLLVTTLQRLRK
+NKAELEE-------FQNL----QNSTKQ--SG------HK-------EETARP-------
+------
+>2541826261 CF149_22103 heme exporter protein D [Pseudomonas sp. CF149]
+------M---------SFASFGEFIAMGH-HGVYVWSA-YGICLAVLALNVALPIMARRR
+YLQQEAR-------RLR-----RENVK---------------------------------
+------
+>2776570143 Ga0263761_111820 heme exporter protein D [Pectobacterium polaris NIBIO1392]
+------MNI-------AFTSWQDFFAMGG-YAFYVWLA-VVLTLLPLSALVSHTLLNRRA
+LLSDIRR-------QQA-----REQRKN--TA------RQ-------SETMEVTQ-----
+------
+>2802465178 Ga0310460_3653 heme exporter protein D [Cocleimonas flava DSM 24830]
+--------------------MNEFFHMGG-FGAYIWSA-MGVAALLMVLEPMTLMYRRRA
+VIAQIKR-------TKR-----LEERRT--NN------QK-------N------------
+------
+>2538448824 WYI_02109 heme exporter protein D [Ochrobactrum sp. CDB2]
+--------------------------MGN-HLGFVLAS-YGITVVALAVTIGWILIDQRI
+QKNELKR-------LEA-----QGVRRR--SA------KA-------SGSAK--------
+------
+>2689719692 Ga0115455_105363 heme exporter protein D [Bradyrhizobium sp. OK095]
+------M----------------IMSLGP-YASFIVTS-YAAAALVVVILIGWIVLDYRS
+QTQRLRE-------LDR-----SGVTRR--SG------RS-------AVDTPRTIT----
+------
+>2648363497 Ga0100209_111998 heme exporter protein D [Polynucleobacter rarus MT-CBb6A5]
+------M---------IWGSFSEFISMRG-YALYVWGS-FGMTALLMAWEVLQLRKKKRE
+L--HLGR-----------------------------------------------------
+----DV
+>2522999863 H981DRAFT_05076 heme exporter protein D [Bradyrhizobium sp. URHA0002]
+------------------------MSPGPSYTSFIATS-YALVAAVVLILIVWIAIDYRR
+QKARLRE-------LEA-----SGVTRR--SG------RS-------ATDIR--------
+------
+>2695585592 Ga0123995_114178 heme exporter protein D [Klebsiella pneumoniae ATCC 43816 45T1-2A]
+------MSP-------AFSSFAAFLNMGG-YALYVWLA-VAVALAAFGLLTVHTLWARRA
+LFHEVRR-------QQA-----RERRIA--AA------RE-------HDKEAADASAS--
+------
+>2774818892 Ga0222430_101350 heme exporter protein CcmD [Thalassospira profundimaris PB8B]
+--------------------MSEFFSMGG-YGGYIWAS-YGVTALAMIVLLIATLRGLRS
+SRIEREQ-------LEAV----LQSRRP--RR------TK-------KTQQVS-------
+------
+>2791919354 Ga0308514_102171 heme exporter protein D [Confluentimicrobium lipolyticum CECT 8621]
+------M----------------MPDLGK-YAGAVLSS-YGLSLIALALLVGLSLLKSAS
+VRKQLDA-------AEK-----RREKHG--------------------------------
+------
+>2791608657 Ga0244706_0311 heme exporter protein D [Mesocricetibacter intestinalis DSM 28403]
+------M---------FFDNWSDFFAMGG-YGFYVWLA-YAVSFIALLLLTLQSYRAKKR
+IFAEIRH-------ERQ-----RAQRLQ--TM------KG-------RESL---------
+------
+>2676290782 Ga0116942_106190 heme exporter protein D [Roseospirillum parvum 930I]
+------V-----------DAVQEFLNMGG-YAAYVWPS-YGLAVVLLVGLVVITRQGMRR
+NERLLGQ-------LQAA----REARRA--AS------SP-------SSSAEADHG----
+------
+>2682261405 Ga0104492_1100 heme exporter protein D [Litoreibacter meonggei DSM 29466]
+-----------------------MPDLGK-YADTVLSA-YAISIVILIGLVALSVWQSRR
+ALTRLAE-------IEA-----RRNAAK--SR----------------------------
+------
+>2520200129 A10D4_11359 heme exporter protein D [Idiomarina xiamenensis 10-D-4]
+------M---------AFSDWQAFIHMGG-YGLYVWSA-FALSFLILALLTCYTLWTQRR
+LKRLATQ-------LQQ-----RQQRLA--KR------RQ-------QEVNTP-------
+------
+>2806287129 Ga0310546_1774 heme exporter protein D [Fluviicoccus keumensis DSM 105135]
+------M---------AFESWADFMAMGK-HGPYVWTC-YGLTFLVVFGLLWQARAERAR
+FMREQLA-------QLR-----RDARKN--SA------VS-------GESDDASEA----
+------
+>637633178 XOO3008 hypothetical protein [Xanthomonas oryzae pv. oryzae KACC10331]
+--------------------MSTFLAMGG-YGHYVWTA-YALFVLVLLADLAAPWLRRRR
+LPRALRG-------KLQ-----RQAPRP--AR------DQPA---PVLEREAP-------
+------
+>638416388 Aple02000804 COG3114: Heme exporter protein D [Actinobacillus pleuropneumoniae sv. 1 4074]
+------MQF-------QFESISEFFSMGN-YGFYVWLS-YAVSLLAMGILIWQTQREHKQ
+ILQNIKK-------EQA-----RETQLN--KQ------AR--------------------
+------
+>2617866011 Ga0070171_105105 heme exporter protein D [Halomonas xianhensis CGMCC 1.6848]
+------M---------AFESLTALLAMGG-HAPYVWSA-WGVAAALLIVSVAHARAERRQ
+LIRELQR-------RNR-----RERNLS--ER----------------ETDER-------
+------
+>2616605640 Ga0070514_101205 heme exporter protein D [Pseudovibrio ascidiaceicola DSM 16392]
+------M---------------DFSEFGR-HAEYVIAA-YAMAALVIAVLIIWVRSDKSQ
+LDKEMQA-------LEA-----SGIRRR--ST------RR-------AGPSVSQVVSSGA
+DDKSES
+>2746103609 Ga0133220_11099 heme exporter protein D [Xanthomonas sp. WHRI 8848]
+--------------------MSGFLAMGG-YGQYVWTS-YALFVLVLLADLAAPWLRRRR
+LPRELRG-------QLQ-----RQTPRH--LR------DQPA---PTLERDAP-------
+------
+>2635997042 Ga0081051_104858 heme exporter protein D [Brevundimonas diminuta XGC1]
+------V----------LD-----LDMSP-YGAFVWPA-WGISAVVLAALSARALIAARR
+WKRELAR-------LEA-----ARK-----------------------------------
+------
+>2739228655 Ga0189704_107243 heme exporter protein D [Luteibacter sp. OK325]
+--------------------MSQFLAMGG-YGAYVWTA-FATFLIVLLIDTLAPLARRRR
+NLRELRA-------RLA-----RQENRR--RP------GTP----PSNESNA--------
+------
+>2563453642 CD01DRAFT_3095 heme exporter protein D [Marinobacter sp. HL-58]
+------M---------AFDSFGAFIAMEG-HGPYVWSC-YFVFFVLMGAIAFWSLRQRRF
+VIAQQRR-------RMN-----STQVRN--TS---------------PAGASFTRIEPSQ
+D-----
+>2609648296 Ga0066767_115106 heme exporter protein D [Pseudomonas sp. OK266]
+------M---------SFASFGDFLAMGH-HGLYVWSA-YGICLAVLILNVVVPIAARKR
+YLQQEAR-------RLR-----RENGK---------------------------------
+------
+>2778259712 Ga0248278_11812 heme exporter protein D [Moraxella macacae 0408225]
+------MSF-------YFESFTEFLSMGG-HGVYVWAS-YGISFACLLGVIVYSRSQRQN
+MLKQIHN-------QQI-----RQNQRQ--RT------N---------------------
+------
+>2655197082 Ga0077215_10678 heme exporter protein D [Comamonas testosteroni KY3]
+--------------------------MQD-HAFFIALA-YGVSAMALCIELASIYVRSRR
+LKAEASS--G----LAT-----REN--------------P--------------------
+------
+>2513101679 EBL_c30380 heme exporter protein D [Shimwellia blattae DSM 4481]
+------MTP-------AFASFSAFLAMGG-YGFYVWLS-LGVTLLALLVLLAHSALQRRR
+ILADIRR-------HQA-----RERRIR--AA------RE-------SQSVSGGYHARTP
+------
+>2511416299 PMI19_05728 heme exporter protein D [Pseudomonas sp. GM16]
+------M---------SFASFGDFLAMGH-HGLYVWSA-YGICLAVLVLNVVAPIAARKR
+YLQQEAR-------RLR-----RENGK---------------------------------
+------
+>639713974 AHA_1396 hypothetical protein [Aeromonas hydrophila hydrophila ATCC 7966]
+------M---------HFASFSDFLAMGG-YAFYVWLS-FGLTLLCLVGIVISTRMKTRA
+LLGELRN-------KQA-----REARRK--AA------QQ-------MENT-------L-
+------
+>2539104835 HMPREF9697_02504 heme exporter protein D [Afipia felis felis ATCC 53690]
+-----------------------MSVLGP-YAVFIATS-YALVALVVGGLIAAIVVDYRH
+QQAELRR-------LEA-----SGVMRR--SS------GK-------TSEQP--------
+------
+>2668335037 Ga0102583_11948 heme exporter protein D [Brevundimonas sp. DS20]
+------M----------LD-----LDMAP-YAAFVWPA-WGVSALVLAALTARAVVASRK
+WKRELER-------LEK-----DQSATS--DAAVSPRPQA-------AQSAIGPLK----
+------
+>2707340025 Ga0123929_108225 heme exporter protein D [Mesorhizobium sp. L103C119B0]
+--------------------------MSA-HALYVAAA-YGITVIVLAGLIGWILLDQRT
+RKRELAE-------LEA-----AGVRRR--SD------KA-------GTGASTGASKP--
+------
+>2684553669 Ga0111641_10675 heme exporter protein D [Roseivivax lentus DSM 29430]
+------M----------------MPDLGK-YADTVLSA-YAVSLVLIVALVALSVMRARK
+VRRALDE-------VEG-----RRG-----------------------------------
+------
+>2674524094 Ga0124496_100947 heme exporter protein D [Pseudoalteromonas rubra S2471]
+------M---------QFESLSDFFHMGG-YAFYVWLS-FGSCAFILLGLVWASLNDAKR
+IKREVDA-------QMK-----REARIK--QA------QE-------EAQA---------
+------
+>2515627629 B041DRAFT_03683 heme exporter protein D [Bradyrhizobium sp. WSM4349]
+------M----------------IMSLGP-YASFIVTS-YAAAALVVVILIGWIVLDHRS
+QTQRLRE-------LER-----SGVTRR--SG------RS-------ATDRP--------
+------
+>2681856174 Ga0104716_11239 heme exporter protein D [Azoarcus tolulyticus ATCC 51758]
+------M---------QWESWSAFWDMGG-FAAFVWGS-YGVTLLLVVGELILVVRRRRD
+TVRRLLR-------LRR-----ANAAGA--GG------RRAF-----EEIVE--------
+------
+>2651112846 Ga0098703_11875 heme exporter protein D [Gilvimarinus polysaccharolyticus YN3]
+------MIE------FRFSSLADFMYMGG-HGVYVWSC-AAIALLILALLLVYPIVTAKA
+QLSRIKH-------QQAMQ-KMQQQRHQ--QA------RASSH-----------------
+------
+>2741161993 Ga0074893_11444 heme exporter protein D [Rhodopseudomonas faecalis JCM 11668]
+-----------------------MISLGP-YAGFIVSS-YAVVAVVVALLIFWVMLDYRR
+QKARLRD-------LER-----AGVTRR--SR------QG-------GSEAS--------
+------
+>2776456506 Ga0262603_166399 heme exporter protein D [Colwellia sp. 12G3]
+------M---------QFNSFSDFINMGG-YGFYVWLS-FGAAALILTLLLISSKAGHQK
+IITQIVK-------RKQ-----REDKLR--QA------KE-------LRKKQNEALNEVT
+E-----
+>2545674193 MET2598DRAFT_02270 heme exporter protein D [Methylobacterium sp. WSM2598]
+------------------------VDLGP-HATFILAS-YAFTALVVAALILHAVLDFRA
+QRRALAR-------LQD-----GRDA----------------------------------
+------
+>2517113713 B150DRAFT_00640 heme exporter protein D [Kordiimonas gwangyangensis DSM 19435]
+--------------------MTEFLHMGG-YATFVWTA-YGLTAAALIVLALSSIRGAQK
+TRERVEA----------L----RPRRRK--GE----------------------------
+------
+>2645318735 Ga0102337_10657 heme exporter protein D [Methylobacterium sp. Leaf108]
+------------------------MDLEP-HGGFILGA-YAFTALVIGGLILHALRDARA
+QRRTLAA-------MQD-----ERTDGP--SG------EP--------------------
+-----S
+>2585358738 EI56DRAFT_00858 heme exporter protein D [Nitrosomonas europaea ATCC 25978]
+------M---------KWESVSDFFAMGG-YGLYVWGS-YLVAVLCVIGEIIAIRIRRRT
+LYKHLGL-------RKR-----SILRGE--K-----------------------------
+------
+>2618960070 Ga0055398_187343 heme exporter protein D [Cronobacter pulveris LMG 24059]
+------MNS-------AFHSWGEFFAMGG-YAFYVWLA-VACTLISLALLVGHTLWQRRA
+LLAQVRQ-------QQA-----RERRIQ--AA------RQ-------TKVKEV-------
+------
+>2563628102 M495_17380 heme exporter protein D [Serratia liquefaciens ATCC 27592]
+------MNA-------AFTSWQAFFAMGG-YAFYVWLA-VAVTLLSLLGLVAHTFWQRRQ
+LLDEIGR-------RQA-----RERRIR--HS------QQ-------SKQKTANPREKSL
+------
+>2807426011 Ga0127049_10642 heme exporter protein D [Paracoccus aminovorans HPD-2]
+-----------------------MIELGK-YAGTVLAA-YGISLALLVGVIVQSVLANAR
+ARRELQE-------HER-----RG------------------------------------
+------
+>2805400423 Ga0303542_102263 heme exporter protein D [Methylarcula marina VKM B-2159]
+-----------------------MIDLGK-YAGTVLAA-YGVSLLLLAGIVWQSWAANAR
+ARRELEK-------YEK-----NG------------------------------------
+------
+>2641055438 Ga0082354_115215 heme exporter protein D [Xanthomonas axonopodis DSM 3585]
+--------------------MSTFLAMGG-YGQYVWTA-YAVFVLVLLADLAAPWLRRRR
+LPRELRG-------QLQ-----RQAPRR--AR------DQPA---PALERDAP-------
+------
+>2552180267 B387DRAFT_04677 heme exporter protein D [Salmonella enterica enterica sv. Hartford 06-0676]
+--------------------------MGG-YAFFVWLA-VAMTVAPLALLALHTVLQRRA
+ILRGVAL-------QRA-----REARMR--AA------QA-------QQEAA--------
+------
+>2587402515 EO99DRAFT_00939 heme exporter protein D [Rhizobium sp. MGL06]
+---------------------------MS-HTFYIALS-YGIAALIVALLILWVWLDGRG
+RRRDLEE-------LER-----VGVRRR--SS------VA-------SVDE----AR---
+------
+>2792900340 Ga0309148_11641 heme exporter protein D [Pantoea theicola QC88-366]
+------MTP-------AFSTWHDFLAMGG-YGFYVWLA-VSFTLLSLAALVGHILWQRRQ
+LLKSVQQ-------YQA-----RERRIR--AA------KM-------KQAASEAAGE---
+------
+>2692634146 Ga0118822_15065 heme exporter protein D [Klebsiella pneumoniae S_77RE]
+------MSP-------AFSSFAAFLNMGG-YAVYVWLA-VAVTVAAFGLLTVHTLWAWRA
+LFHEVRR-------QQA-----RERRIA--AA------RE-------HDKEAADASAS--
+------
+>2769259690 Ga0226499_121770 heme exporter protein D [Vibrio sp. Q67]
+------M---------HFDSLSDFLAMGG-YSVYVWSA-FGITFLSMFILLMLSIRRGKA
+LLQDVQA-------KVE-----RQARID--AA------KH-------MENT-------L-
+------
+>642344278 PstuA_020100016155 hypothetical protein [Providencia stuartii ATCC 25827]
+------MSR-------AFASWADFFAMGG-YAFYVWLA-VLLTVTPLLLLCIHTVLQRKM
+IINSITA-------QQA-----REARQK--AA------RA-------RREAE--------
+------
+>2813888954 Ga0177308_100812 heme exporter protein D [Pluralibacter gergoviae 40874]
+------MNC-------AFASWHDFWLMGG-YAFYVWLA-VAFTLAPLLALVLHTRLQRKA
+LLRAIRR-------QQA-----SARRVA--VA------RG-------RASAQGGEV----
+------
+>2617876356 Ga0070549_1315 heme exporter protein D [Halomonas daqiaogenesis CGMCC 1.9150]
+------M---------AFDSLSGFLAMGG-HGVYVWAA-WGVTALLLLGVVLHAHAERRA
+LLRHLRR-------RVR-----REQHHG--ASGGA--TTP-------VSHQEGHARES--
+------
+>2628559804 Ga0072394_105685 heme exporter protein D [Pseudoalteromonas luteoviolacea HI1]
+------M---------QFESLSDFIAMGG-YGFYVWLS-FGSCAVIILGLLFGSLYEGKQ
+LKQQVKS-------QMA-----REERIK--KA------KE-------MEAQ-------V-
+------
+>2516405492 QWE_00268 heme exporter protein D [Agrobacterium albertimagni AOL15]
+---------------------------MT-HGFYVIGS-YVLTAAICLSLAVWIYLDGRA
+RQAELKA-------LEG-----QGIRRR--SA------SA-------GQDTPA-------
+------
+>2548965696 KUCDRAFT_00499 heme exporter protein D [Halomonas boliviensis LC1]
+------M---------AFASFSEFLAMGG-HAPYVWSA-WGVTALLLLATVWHARAEQRL
+LLKGLKR-------RAR-----RENSAR--GS------AQ--------------------
+------
+>2640937605 Ga0098504_13693 heme exporter protein D [Aeromonas fluvialis LMG 24681]
+------M---------HFASFSDFLAMGG-YAFYVWLS-FGLTLLCLVGIVISTRMKTRN
+LLGELRS-------KQA-----REARRK--AA------QQ-------MENT-------L-
+------
+>2776733891 Ga0263869_113111 heme exporter protein D [Halomonas beimenensis NTU-111]
+------M---------AFESVSAFLAMGG-HAPYVWTA-YGATAALLLGVGWHARAERRR
+VIRELRR-------RAR-----RERRQV--ES------TR-------VSTDEGHAR----
+------
+>2707741457 Ga0124108_12739 heme exporter protein D [Yersinia mollaretii 58/02]
+------MKP-------AFDSWAAFFAMGG-YAFYVWLA-VAATLLSLLGVWLHTVWQHKY
+LLADIQR-------RQA-----REQRIR--QH------AA-------HSQEKS-------
+Q-----
+>650988977 CNE_2c07750 heme exporter protein D; cytochrome c-type biogenesis protein CcmD [Cupriavidus necator N-1, ATCC 43291]
+------M------------TLSSLLPYGH-HGIFIAGA-FGVSALLLALELVLLARRCRA
+TRQEAGQ-----------------------------------------------------
+------
+>2792886888 Ga0308893_11587 heme exporter protein D [Serratia oryzae J11-6]
+------MNA-------AFDSWQAFFAMGG-YAFYVWLA-VAATLLPLLGLVLHTFWQRKQ
+LLNEVGR-------RQA-----RERRIR--QS------KQ-------PTAAQPAEQRGK-
+------
+>2776511193 Ga0258206_110987 heme exporter protein D [Psychrobacter sp. Sarcosine-3u-12]
+------MQP-------YFYSVSEFLAMGK-HGVFVWSC-WAITVGMMLAFVIYSRRQRQA
+LIKQLII-------QQA-----RQAQRT--AK------TP-------NSAANTKFKKYD-
+------
+>2593306641 FF93DRAFT_00173 heme exporter protein D [Methylobacterium sp. 174MFSha1.1]
+------------------------MDLGP-HAAFILGA-YGFTALVILGLVAHAFLDRRA
+QERALAR-------LAQ-----EPAPRG--RR----------------------------
+------
+>651456836 XVE_2192 heme exporter protein CcmD [Xanthomonas vesicatoria Maraite, ATCC 35937]
+---------------------------MS-YLPYVIAA-YAVFVLVLLWDLIAGRWQVRR
+ALKTAQA-------RRL-----RERKRS-VPS---------------DAELTR-------
+------
+>2707280526 Ga0123913_100727 heme exporter protein D [Mesorhizobium sp. LNHC252B00]
+--------------------------MSA-HALYVTAA-YGITAVVLIGLIGWILLDQRA
+RKRELAE-------LEA-----AGVRRR--SD------KV---------------AKS--
+------
+>2517432752 MetmaDRAFT_3480 heme exporter protein D [Methylobacterium marinus A45]
+------M------------NWQEFFAMGG-YAFYVWTS-YAVTFIVLLANVIIPIVRRKQ
+FLRQQAL-------KQK-----RQGTL---------------------------------
+------
+>2719379846 Ga0174987_112179 heme exporter protein D [Achromobacter denitrificans USDA-ARS-USMARC-56712]
+M-----M---------HWQSWAAFWHMGG-RAAFVWGS-YGMLALLVLAECVSLARRRRR
+ALRRLAA-------LAS-----ASPTAR-QQS------HDGG---PA-------------
+------
+>2770424510 Ga0222399_0957 heme exporter protein D [Stenotrophomonas sp. AG209]
+---------------------------MT-HLPYVIGA-YAVFVLVLSADAVGSWLRLRV
+ARRLALA-------RQQ-----RQQTRA--GR-----QDAAA---PLSTELER-------
+------
+>2524608045 H570DRAFT_1941 heme exporter protein D [Luteimonas mephitis DSM 12574]
+---------------------------MS-YQNYVIAA-YLVFAAVLLWDYVAPRIRVRQ
+LLRSARL-------LAA-----RRAAAS--SS------DT-----P-AGDLPR-------
+------
+>2685828811 Ga0132156_1173 heme exporter protein D [Rhodopila sp. LVNP]
+------M-------------------TMT-HWPFIVGA-YVIAIGVPLVLGIEAAFRVRS
+ARRRLEA-------IDV-----RRNRGN---A----------------------------
+------
+>2652419562 Ga0082195_106113 heme exporter protein D [Betaproteobacteria bacterium AAP51]
+------M---------NWNSASEFFAMGG-YGFFVWMA-YAVSAAFMLAEPLLARHRHRQ
+ALREAAR-------QDP-----DSEENS--------------------------------
+------
+>2664430019 Ga0104646_104244 heme exporter protein D [Pseudomonas asturiensis sp. nov LMG 26898]
+------V---------SFESLGDFLAMGR-HGLFVWSA-YGLCLLVLLVNVALPVLARRR
+YLHHEAR-------RAR-----REGRR---------------------------------
+------
+>2532512585 PMM47T1_27107 heme exporter protein D [Pseudomonas sp. M47T1]
+------M---------NFASFGDFLAMGH-HGAYVWSA-YGICLVVLANNIATPLLARRR
+YLQEEAR-------RLR-----REKGK---------------------------------
+------
+>2698524076 Ga0114013_0283 heme exporter protein D [Salinivibrio sp. ES.052]
+M-----M---------YFESFSAFWAMGG-YAGYVWSA-FGITAATMVALSIVYHRTHKQ
+RLLAVKQ-------QIM-----REQRIK--EA------QA-------LENTL--------
+------
+>651292197 PMSV_312 heme exporter protein CcmD [Photobacterium leiognathi mandapamensis svers.1.1]
+------M---------HFDSMSDFFAMGG-YAAYVWSS-FGISFIAMLWILFSSMATQRR
+LLGDIKN-------KMA-----REERIK--EA------KK-------LENT-------L-
+------
+>2789954741 Ga0303148_133744 heme exporter protein D [Saccharospirillum sp. MSK14-1]
+------M--------FAFDSLADFFAMGR-HGLYVWTA-YGFAAAVVIYNQLSPYLMQRR
+MVADHRR-------RQR-----REQGTQ--PA------SS-------SGVTPS-------
+------
+>2615926951 Ga0066770_0871 heme exporter protein D [Pseudoxanthomonas sp. CF125]
+---------------------------MT-YLNYVIGA-YAVFAVVMLWDLLVPHLQIRR
+ELRAARM-------RKA-----RDAKRA---E---------------PVELSR-------
+------
+>2656126381 Ga0075247_10487 heme exporter protein D [Aureimonas phyllosphaerae L9-753]
+----------------------VTAMAGS-YVAFVAAA-YGMAAVALGGLGLWVYLDARS
+VRRRLAE-------LET-----VSGRGR--AR----------------------------
+------
+>2671059799 Ga0105853_109184 heme exporter protein D [Martelella mediterranea USBA-857]
+--------------------------MMS-HTFFISAA-YGATALVFAGLVAWLMLDGRA
+RKRELAA-------LEK-----AGARRR--SA------GK-------R------------
+------
+>2587245755 JCM25354DRAFT_00004 Heme exporter protein D (CcmD) [Asaia prunellae JCM 25354]
+----------------------MIHLSFT-HWPYIAAS-YGCTIMAVSALALQLTLRLRR
+ARVRLAL-------LEK-----NDHGMR-PTS----------------------------
+------
+>2585020995 FA91DRAFT_2591 heme exporter protein D [Erwinia sp. 9145]
+------MTP-------AFASWQEFFAMGG-YAFYVWLA-VACTLAALAGLILHTVMQRRA
+LLKAIRQ-------RQS-----RERRLR--AV------KQ-------QQVAGGVQ-----
+------
+>2609480070 VM99_16490 heme exporter protein D [Pseudomonas chlororaphis UFB2 genome sequencing and analysis]
+------M---------SFASFGDFLAMGH-HGLYVWSA-YGICLAVLALNVAVPILARKR
+YLQQEAR-------RLR-----RENGQ---------------------------------
+------
+>2810361118 Ga0325205_11435 heme exporter protein D [Polynucleobacter sp. MG-25-Pas1-D2]
+----------------MWNSASEFLAMGG-YALYVWSS-FGLCAIAFCIEVLMVRSQRKA
+ILRRLKQ-------ELL-----ADQFHQ--EG------QQ--------------------
+------
+>2676342013 Ga0116912_11515 heme exporter protein D [Methylocapsa palsarum NE2]
+------------------------LTEDP-HFGFVVAA-YLVGFLVVGGMTAAVMKDYAN
+LKRALQK-------FAP-----GADADR--SPDGPRPAQG-------ANNAGESSPRT--
+------
+>2612252888 Ga0057439_1077109 heme exporter protein D [Pseudomonas syringae Alf3]
+------L---------SFASLSDFLAMGR-HGVFVWSA-YGLCLVVLLVNVALPLWARQR
+FLKQQAR-------RLK-----RENRP---------------------------------
+------
+>2633398136 Ga0073023_108436 heme exporter protein D [Aeromonas hydrophila M013]
+------M---------HFASFSDFLEMGG-YAFYVWLS-FGLTLLCLVGIVISTRMKTRA
+LLGELRN-------KQA-----REARRK--AA------QQ-------MENT-------L-
+------
+>2806033824 Ga0308623_101749 heme exporter protein D [Noviherbaspirillum massiliense TSA40]
+------M---------NWNSWSDFFAMGG-YALYVWGS-VLMTVLLVAGEVLAVRMRRKT
+IMKLYGR-------WVR-----SNRRES--NE------NE-------A------------
+------
+>2765579730 Ga0198347_112790 heme exporter protein D [Stenotrophomonas maltophilia AA1]
+---------------------------MT-HLPFVIGA-YAVFVLVLLADAIGSWMRLRA
+ARRQAQS-------RQQ-----RQQARQ--TA-----QQAAP---TLSAELER-------
+------
+>645368645 Bmelb3E_010100007960 heme exporter protein CcmD [Brucella melitensis bv. 3 Ether]
+--------------------------MSN-HLGFIIAS-YGITVAALAVTIGWILIDQRI
+QKNELKR-------LEE-----QGVRRR--SA------KA-------PGKAQ--------
+------
+>2677088080 Ga0111579_12124 heme exporter protein D [Pasteurella skyensis DSM 24204]
+------M---------FFQSWSDFFNMGG-YGFYVWLA-YGISFVAILVLGLQSISSKKA
+LFKEIKR-------EQQ-----RKQRQQ--TI------RG-------SL-----------
+------
+>2547485380 NoneDRAFT_00142 heme exporter protein D [Vibrio campbellii DS40M4]
+------M---------HFDSLSELFAMGG-FAGYVWSA-FGITFLSMLILLISSIRRGDA
+LLKEVKA-------KID-----RQARID--AA------KN-------MENT-------L-
+------
+>2791799332 Ga0244673_105175 heme exporter protein D [Samsonia erythrinae DSM 16730]
+------MNI-------AFTSWQAFFAMGG-YAFYVWLA-VALTLLPLGALIGHTLWRRRT
+LLNDIRR-------QQA-----REQRKR--AA------RQ-------SDSVEVTP-----
+------
+>2515258630 A3GADRAFT_01694 heme exporter protein D [Oligella urethralis DSM 7531]
+------M---------HWQSVNEFLTMGG-HGVYVWSV-VLLCVLMLVVEGLSLRQLKQK
+TRKRVRR-------IQR-----LASKKV-FNE----------------------------
+------
+>2563001346 MHB_005539 heme exporter protein D [Pseudomonas fluorescens BBc6R8]
+------M---------SFNSFSDFLAMGH-HALYVWTA-YGIFLAVLALNVAAPILARKR
+YLQQEAR-------RLR-----RETEK---------------------------------
+------
+>2756625862 Ga0215655_13811 heme exporter protein D [Acidovorax defluvii DSM 12644]
+------M---------QWNSLSEFLAMGG-YALYVWGS-FGATALVMLCESLLIRSQRRQ
+IVRNLHN-------GVD-----SHH-----ES----------------------------
+------
+>2685116638 Ga0125381_104916 heme exporter protein D [Pectobacterium carotovorum Polaris 6]
+------MNI-------AFTSWQDFFAMGG-YAFYVWLA-VVLTLLPLSALVSHTLLNRRA
+LLSDIRR-------QQA-----REQRKN--TA------RQ-------SETREVTQ-----
+------
+>2694810066 Ga0131992_0825 heme exporter protein D [Rhodobacter sp. 24-YEA-8]
+------M----------------MPDLGN-YAATVLGA-WGATLLALAGLLVLTLLQSRR
+VALALAE-------AEA-----RAHQAR--AT------EAKE------------------
+------
+>2739716015 Ga0197671_106159 heme exporter protein CcmD [Rhizobium borbori LMG 23925]
+---------------------------MS-HTFYILAS-YLVAGAISLGLCLWVWLDGRA
+RQREIAE-------LEA-----AGHRRR--SA------AK-------TAGGEV--A----
+------
+>2714119034 Ga0124601_111113 heme exporter protein D [Pseudoxanthomonas dokdonensis DSM 21858]
+---------------------------MS-YLGYVIAA-YAVFFVVLLWDLLVPQWQIRR
+QLRAVRL-------RKA-----RQSRRH---Q---------------SVELNR-------
+------
+>2670147920 Ga0112606_12129 heme exporter protein D [Pseudomonas endophytica BSTT44]
+------M---------SFASFSDFVAMGH-HGLYVWSA-YGICLAVLALNVTLPLAARRR
+YLQQEAR-------RLR-----RESSK---------------------------------
+------
+>2718912646 Ga0175183_11116 heme exporter protein D [Granulibacter bethesdensis NIH7.1]
+---------------------------MT-HLPFIIAA-YAIALGLPLIMGLMTATRLAS
+ARNKLAA-------LET-----RPRSAR-HSG------QNT-------------------
+------
+>647657019 NOR53_1366 putative heme exporter protein CcmD [Gamma proteobacterium sp. NOR5-3]
+------M---------YFDSVAAALVMDG-HGPYVWSA-YGITLTVIALLVLLPIVSKRR
+LLRELRG-------EHR-----RNRQSE--SR------SS-------VELS---------
+------
+>2638194737 Ga0077298_135253 heme exporter protein D [Halomonas sp. HG01]
+------M---------AFDSLAEFLAMGG-HAPYVWSA-YGATAALLLAVGWHARAERRR
+VRRDLER-------RVR-----RERRQA--EA------TD-------ASTDERPAR----
+------
+>2725884541 Ga0126235_10068 heme exporter protein D [Neptuniibacter marinus ATR 1.1]
+------V---------SFDSFSDFIAMGG-HGFYVWLS-YAIALVVVVINIVNPALQKKK
+IVSNLVR-------RLR-----RENKSL--------------------------------
+------
+>2694794152 ORS3428_30605 heme exporter protein D [Mesorhizobium sp. ORS3428]
+--------------------------MSA-HALYVTAA-YAITAIVLAGLIGWILLDQRA
+RKRELAA-------LEA-----AGVRRR--SD------KA---------------TKP--
+------
+>2714110008 Ga0124598_10427 heme exporter protein D [Stenotrophomonas humi DSM 18929]
+---------------------------MS-YFKYVAMA-YAVFFIVLAWDFIVPRLQIRQ
+QLREARN-------RVV-----RAKRAA--AT-------------PVEEELSR-------
+------
+>2682187263 Ga0104495_1090 heme exporter protein D [Loktanella rosea DSM 29591]
+-----------------------MPDLGD-YAIEVLSA-YGVSILLLLALVWLSWRRYAK
+VRAALEE-------VEK-----NG------------------------------------
+------
+>2562785496 N878_19610 heme exporter protein D [Pseudomonas sp. EGD-AK9]
+------M---------SFSSFAEFLAMGS-HGAYVWSA-YGISLAVLALNVAWPILARRR
+YLQDEAR-------RLR-----REKSK---------------------------------
+------
+>2512507245 VITU9109_24190 heme exporter protein D [Vibrio tubiashii ATCC 19109]
+------M---------HFESLSDFFAMGG-YAGYVWTA-FGVTFGVMIVLLVLSVRRGQS
+LLGEVQA-------KID-----RQARID--AA------KN-------LENT-------L-
+------
+>2688631098 Ga0133326_131496 heme exporter protein D [Defluviimonas alba cai42]
+------M----------------IPELGK-YAGTVLSA-YAVTLALLAALVAVSLWRGAR
+VKRALEA-------QER-----RMGRGN--G-----------------------------
+------
+>2502377020 Phir01910 heme exporter protein D [Prosthecomicrobium hirschii ATCC 27832]
+-----------------------MAGLGP-HWGFIVAA-YLVTAVVVLGLIVWIRADLAA
+QRRILKD-------LEA-----RGLRRR--SD------AA-------KASAPAEAAMPAE
+AE----
+>2686632583 Ga0133305_111499 heme exporter protein D [Escherichia albertii EC06-170]
+------MTP-------AFASWNDFFAMGG-YAFFVWLA-VVMTVIPLAVLVVHSVMQHRA
+ILRGVAQ-------QRA-----REARLR--AA------QQ-------QEAA---------
+------
+>2745724692 Ga0133105_16933 heme exporter protein D [Achromobacter ruhlandii 6241]
+M-----M---------HWQSWAAFWHMGG-RASFVWGS-YGMLALLVLAECVSLVRRRRR
+ALRRLAA-------LAS-----ANPTAR-QQS------HDGG---PA-------------
+------
+>2583959696 U861DRAFT_03067 heme exporter protein D [Klebsiella oxytoca H1g]
+------MSS-------AFTSWSDFLTMGG-YAFYVWLA-VALTILPLAALVAHSAILHRV
+ILRDIAR-------QRA-----REARRR--AA------REAI------------------
+------
+>2619425485 Ga0062153_155232 heme exporter protein D [Colwellia psychrerythraea ND2E]
+------M---------QFNSFSEFINMGG-YGFYVWLS-FGAAALILACLLISSKAGHQK
+IITQIAK-------RKQ-----REDKLR--QA------KA-------LRKQQNKALNEVT
+E-----
+>2700924578 Ga0132009_01516 heme exporter protein D [Bradyrhizobium erythrophlei GAS478]
+------------------------MSLGP-YASFIVTS-YALVTGVVLILIVWIAIDYRR
+QKERLRD-------LEA-----SGVVRR--SG------RS-------AADI---------
+------
+>2793320697 Ga0309137_1006104 heme exporter protein D [Rhizobium sp. L9]
+---------------------------VT-HAFYVYAS-YGIAALVTIAVILWTWADGRA
+RRRELAS-------LEA-----AGIRRR--SA------RP-------KDGE---------
+------
+>2702918149 Ga0113057_107191 heme exporter protein D [Pseudomonas trivialis DSM 14937]
+------V---------SFASFSDFLAMGH-HGLYVWTA-YGICLAVLALNVGAPILARKR
+YLQQEAR-------RLR-----RETEK---------------------------------
+------
+>2559353574 Z042_03810 heme exporter protein D [Serratia fonticola RB-25]
+------MNA-------AFDSWQTFFAMGG-YAFYVWLA-VAATLLPLLGLVFHTFWQRKQ
+LLDEVSR-------RQA-----REQRIR--QS------QR-------SKQAADAWGKSS-
+------
+>2525708542 G462DRAFT_01054 heme exporter protein D [Aliagarivorans taiwanensis DSM 22990]
+------M---------QFDSFADFVAMGG-YGFYVWLS-FGCTLLTLGAVVVDSILKRQA
+LTRSISQ-------IKA-----KQDRML--AA------RE-------VKER-------L-
+------
+>2689258205 Ga0133400_113019 heme exporter protein D [Stenotrophomonas maltophilia ISMMS3]
+---------------------------MT-HLQYVIGA-YAVFVLVLGADAIGSWLRLRV
+ARRLALA-------RQQ-----RQQTRG--GR-----QDAAA---PLSTELER-------
+------
+>2706250678 Ga0139037_103330 heme exporter protein D [Methylobacter tundripaludum OWC-G53F]
+------M------------TMQEFFAMGG-YAFYVWTS-YGLTFIVLLANIIIPVVQRRQ
+FLRALAL-------KQK-----RQ------------------------------------
+------
+>2582089969 NoneDRAFT_01360 heme exporter protein D [Vibrio sagamiensis NBRC 104589]
+------M---------HFESLSDLFNMGG-YAAYVWSA-FAITFLSMLILAGVSIRRSRT
+LFKEVKL-------KME-----RQARIE--AA------KD-------MENT-------L-
+------
+>2514597185 C357_17540 heme exporter protein D [Citreicella sp. 357]
+------M----------------KLDLGK-YAFEVLTS-YGVSLGLIALLVGVSVARARR
+VRAELAK-------VEK-----RLKPHG--------------------------------
+------
+>2806257157 Ga0310553_11055 heme exporter protein D [Rhodovulum steppense DSM 21153]
+------M----------------IPDLGK-YAGAVLSS-YAISLALLAVLVVLSLWRAAR
+VRRQLEE-------VES-----RRTSDG--------------------------------
+------
+>2621318021 Ga0074067_111913 heme exporter protein D [Martelella endophytica YC6887]
+---------------------------MD-HAPFILAA-YGITALVFASLVIWLIADGRI
+QRHKLEA-------LEK-----AGVSRR--ST------GR-------PQA----------
+------
+>642785665 SeD_A2594 heme exporter protein CcmD [Salmonella enterica sv. Dublin CT_02021853]
+--------------------------MGG-YAFFVWLA-VAMTVAPLALLVLHTVLQRRA
+ILRGVAQ-------QRA-----REARMR--AA------QA-------QQEAA--------
+------
+>2518281620 C786_3787 heme exporter protein D [Serratia plymuthica RVH1]
+------MNA-------AFTSWSAFFAMGG-YAFYVWLA-VAVTLLSLLGLVAHTCWQRRQ
+LLDEVSR-------RQA-----RERRIR--QS------QQ-------SKQKSADPREKSL
+------
+>2776250898 Ga0258207_104452 heme exporter protein D [Psychromonas sp. Urea-02u-13]
+------M---------AFDSFADFFAMGG-YGFYVWLS-YGLTFLALGILIVNSITKKNK
+ILKNVEQ-------RLA-----REQRIK--KA------KD-------MEGT-------L-
+------
+>2638492885 Ga0082204_117210 heme exporter protein D [Afipia sp. AAP120]
+-------------------------MFGR-YAEFIVSS-YAATALVVLLLIGWVVIDYRR
+QKARLRD-------LEA-----RGATRR--SG------RS-------ATDMS--------
+------
+>2503754926 HIMB140_00009270 heme exporter protein D [Candidatus Pelagibacter ubique HIMB140]
+------M-------------INELLFMNG-YAAYVLSA-FGFTLLSFLSLYLVTKVQFMK
+EQNKFVAKFGSLNTEQA-----NSAKSQ--RI-----NKEIL-----ADATNN-------
+------
+>2745634661 Ga0133080_104108 heme exporter protein D [Pseudomonas fluorescens HKI0770]
+------M---------SFASFGDFLAMGH-HGLYVWSA-YGICLAVLAFNVAAPVLARKR
+YLQQEAR-------RLR-----RENGK---------------------------------
+------
+>2595653695 LV81DRAFT_00164 heme exporter protein D [Albidovulum xiamenense DSM 24422]
+------M----------------MPDLGK-YALAVLSA-YGVSLVLIAAIVAQSVLRARR
+VRRELEK-------AEA-----RHRNG---------------------------------
+------
+>646716489 SAR116_1079 hypothetical protein [Candidatus Puniceispirillum marinum IMCC1322]
+--------------------MNSLFEMVQ-FGGFIWAS-YAIAALALMWMFVASWARART
+LAKKLRA-------MMQ-----EDASDN--ND---------------NDKIT--------
+------
+>2599401624 Ga0059017_05198 heme exporter protein D [Pseudomonas sp. NFPP28]
+------M---------SFASFSEFLAMGH-HGLYVWTA-YGICLAVLALNVAAPILARKR
+YLQQEAR-------RLR-----RETEK---------------------------------
+------
+>2743784242 Ga0132652_102282 heme exporter protein D [Luteibacter rhizovicinus L214]
+--------------------MSQFLAMGG-YGSYVWTS-FAAFFIVLLIDTLAPLARRRR
+NLRELRA-------RLA-----RQENRR--RP------GTP----PSNESNA--------
+------
+>643652875 Avi_4192 hypothetical protein [Agrobacterium vitis bv. III S4]
+---------------------------MK-YAFYIGTA-YGLTAAAILFMVFWIWLEGRA
+RQKELKA-------LEA-----AGIRRR--SD------PS-------TEKAL--------
+------
+>2727367505 Ga0126916_111974 heme exporter protein D [Gluconobacter oxydans LMG 1764]
+-----------------------MMHLPN-HWPYIAAS-YGLTLGCSLVLGVGAALRLRK
+SKARLAA-------VEG-----HARRRE-RSA------S---------------------
+------
+>2623469458 Ga0069989_100116 heme exporter protein D [Pseudoruegeria lutimaris DSM 25294]
+------M----------------MPELGK-YAAEVLSA-YAVTIALMVALLLISLRHSAR
+TRRALRD-------VEA-----ARKNRS--GK------GS-------ATDG---------
+------
+>2618810170 Ga0055298_112114 heme exporter protein D [Pantoea sp. FF5]
+------MTP-------AFSSLSAFFAMGG-YAFYVWLA-VICTLIPLGGLLLHTLLQRRR
+LLAEIRQ-------RQS-----RERRIR--SA------KM-------KQAAGEAAGDPM-
+------
+>2701199104 Ga0131176_10150 heme exporter protein D [Roseovarius marisflavi DSM 29327]
+-----------------------MPDLGK-YAEAVLSS-YAISIAIIIGLIVVSVMRANR
+VNKQLQE-------IEN-----KVKNNG--------------------------------
+------
+>2632899135 Ga0081026_10422 heme exporter protein D [Gammaproteobacteria bacterium Q1]
+------MG--------AFDSFAEFISMNG-YADYVWSS-YGIAALLIVGLVFWSKHKRKQ
+LIEEIKQ-------QDE-----IKKRRS--QH------TN-------SEMSL--------
+------
+>2585246883 EJ62DRAFT_2454 heme exporter protein D [Kaistia soli DSM 19436]
+-----------------------MSGFGE-HAGYIIGA-YGLAALIVFGVVAWVLVDGRA
+QRRRLKE-------LEA-----RGIRRR--SA------AR-------RGETP--------
+------
+>2521439547 G374DRAFT_2996 heme exporter protein D [Agrobacterium sp. 719_389]
+---------------------------MT-HAFYIGMS-YAATGLVVLCLIAWVVVDGQA
+RKRELKE-------LEA-----SGVRRR--VR------AG-------SAGD----AQ---
+------
+>2505182755 TW2DRAFT_00028050 heme exporter protein D [Pseudoalteromonas sp. Tw-2 (Draft assembly 1)]
+------M---------QFNSLAEIIAMGG-YGAYVWSS-VGIVFVVLLALVIHSATARNR
+TLRLLRI-------EQQ-----RAEKIA--QA------KI-------KSSLQQANK----
+------
+>2734479403 Ga0180961_1580 heme exporter protein D [Alteromonas sp. DSM 26665]
+------M---------QFDSFAAFINMGG-YAFYVWLS-FGVTFVAMGIIAIQSFFKHQN
+LLKQVVV-------EQE-----RKARIK--RA------RK-------QQQAST-------
+------
+>2535540884 HMPREF1118_1465 heme exporter protein D [Haemophilus parainfluenzae HK262]
+------M---------FFQSWSDFINMGG-YGFYVWLS-YGISLVAMIILAIQSVKGRKI
+VLKEVLR-------EQQ-----REARLN--QT------NK-------GNTL---------
+------
+>2532640293 C662_05817 heme exporter protein D [Thauera sp. 28]
+------M---------QWESWSAFWDMGG-AAIFVWGS-YAVTFGLLALELVLVFQRRRD
+TTRRLLR-------WRR-----AVGKEV--GK------HDGGEFEPALESER--------
+------
+>2584232388 CR65DRAFT_05266 heme exporter protein D [Pseudomonas otitidis]
+------M---------SFESFGDFLAMGH-HGPYVWSA-YGISLLVLAINVAEPLLARRC
+YLQEEAR-------RLR-----REAQQ---------------------------------
+------
+>2628557241 Ga0077638_11326 heme exporter protein D [Xanthomonas gardneri SM234-10]
+--------------------MNTFLAMGG-YGHYVWTA-YALFVLVLLADLAAPWLRRRR
+LPRELRG-------QLQ-----RQTPRR--AR------DQPV---PTLERDAP-------
+------
+>2580500183 U124DRAFT_01498 heme exporter protein D [Escherichia coli FCH1]
+------MTP-------AFASWNEFFAMGG-YAFFVWLA-VVMTVIPLMVLVVHSVMQHRA
+ILRGVAQ-------QRA-----REARLR--AA------QQ-------QEAA---------
+------
+>643597955 Mnod_0179 heme exporter protein CcmD [Methylobacterium nodulans ORS 2060]
+------------------------MDFGP-HATFIIGA-YGFTALVVGAMILHAILDHRA
+QRRALDR-------LQG-----GRGA----------------------------------
+------
+>2563809928 BP38DRAFT_00866 heme exporter protein D [Fodinicurvata fenggangensis DSM 21160]
+------M-----------DGLFSFLSMGG-YGAYVWPS-YGLALLVMGGLFLQARRDLRH
+SEQRLLD-------LKQ-----RDASQQ--GG------RDG------KDNPEASR-----
+------
+>2574520753 A37EDRAFT_0907 heme exporter protein D [Xanthobacter sp. 91]
+---------------------------MT-HTVFIAAS-YGVSLLGLGLLALWLVLDYRS
+QRRTLSE-------LEA-----RGVGRR--RA------NR-------TGEAE--------
+------
+>2753462454 Ga0165187_11456 heme exporter protein D [Ensifer shofinae CCBAU 251167]
+--------------------------MMS-HAAYVIAS-YAVACATVAGLVFWVIGDGRA
+RRRELKS-------LEA-----AGIRRR--SA------EA-------PGGE----AQ---
+------
+>2562556290 P773DRAFT_1176 heme exporter protein D [Candidatus Pelagibacter ubique HTCC7217]
+------M-------------INELLFMNG-YGVYVLSA-FSFTLLSFSALYLITKIQFVK
+EQNKFVAKFGSLNSKKA-----KSAKTQ--RI-----NKEIL-----ADAIKN-------
+------
+>2708082817 Ga0151585_111446 heme exporter protein D [Pseudomonas sp. LE5C2]
+------V---------SFASFSEFLAMGH-HGLYVWSA-YGICLAVLALNVAAPLLARRR
+YLQEEAR-------RLR-----RENNQ---------------------------------
+------
+>2504820625 RosLE17_00007200 heme exporter protein CcmD [Roseobacter sp. LE17 (first submission)]
+------M----------------MPDLGK-YALEVNSS-YALSLLALAAITGLYLRRSRA
+VKRALAA-------QEA-----AQDA----------------------------------
+------
+>2568946873 K760DRAFT_02592 heme exporter protein D [Afipia sp. NBIMC_P1-C1]
+------M--------------SLLTSLGP-YASFIVTS-YALVAFVVVALIVWIALDFRR
+QTQTLRK-------LEA-----SGITRR--SA------QP-------PGKPS--------
+------
+>2647260723 Ga0081963_1243 heme exporter protein D [Ensifer adhaerens SD006]
+--------------------------MMS-HAAYVFAS-YGIATLTVVGLCLWVIADGRA
+RQRELRE-------LEA-----SGVRRR--SA------EA-------TTGE----PR---
+------
+>2708782905 Ga0138986_0299 heme exporter protein D [Pseudoxanthomonas indica P15]
+---------------------------MN-YLGYVIGA-YAVFAAVLLWDVIVPQLQIRR
+ELRAARL-------RAA-----RDARSAPPAE---------------PLELNR-------
+------
+>2718538743 Ga0174837_11489 heme exporter protein D [Halolamina sediminis Hb3]
+------M---------AFDSLSAFLAMGG-HGAYVWSA-WGLTGLLLVGVVVHARAERRA
+LLRDLRR-------RAR-----REQRRG--AS------TP-------VSHQEGHARES--
+------
+>2648751667 Ga0100786_12535 heme exporter protein D [Vibrio hepatarius DSM 19134]
+------M---------HFESLSDFFAMGG-YAGYVWSA-FGITFLSMLILLFVSVRRGDA
+LLKEVQS-------KID-----RQARIE--AA------KN-------LENT-------L-
+------
+>2553193752 D180DRAFT_02294 heme exporter protein D [Xanthomonas sp. SHU166]
+--------------------MSGFWAMGG-YAVYVWSA-YALALLVLILDSVLPRRRQRR
+LLADIRA-------QVA-----REQARR--AR------GNVA---TNGARNASHP-----
+------
+>2545623809 L884DRAFT_04190 heme exporter protein D [Shewanella fidelis ATCC BAA-318]
+------M---------QFDSINEFINMGG-YGFYVWLA-YGVTFFSLGTLIVLSVRQKRK
+VLVEIAK-------KIQ-----REERLK--ET------RS-------NK-----------
+------
+>2635889650 Ga0080759_11791 heme exporter protein CcmD [Salmonella enterica enterica sv. Agona 65.H.72]
+------VSP-------AFSSWSDFFAMGG-YAFFVWLA-VAMTVAPLALLALHTVLQRRA
+ILR---------------------------------------------------------
+------
+>2621134858 Ga0056871_10359 heme exporter protein D [alpha proteobacterium MA2]
+--------------------MAEFFHMGG-YAPFIWPS-FALWALVMTGLALWGLADKRR
+QMAKAKE-------LEEK----LGGRRR--VS------GSMA---P-GPGAANSGETGGR
+------
+>2631842286 Ga0070853_116389 heme exporter protein D [Pseudoalteromonas sp. PLSV]
+------M---------QFESVSAFINMGG-YGFYVWLS-FGVSLMALAVLAFDAVRQKKV
+LFNAVEK-------EQA-----RKTRIK--AA------KA-------TAATQASLQNEEV
+NK----
+>651451749 PaTRP_010100005174 hypothetical protein [Paracoccus sp. TRP]
+-----------------------MTELGK-YASTVLTA-YGASLVLLAALIVQTVLANAR
+ARRALEE-------HER-----RG------------------------------------
+------
+>639758308 Rmag_0660 hypothetical protein [Candidatus Ruthia magnifica Cm]
+------M---------ILAEYFSFLPYGK-YAFYIWFS-YLTTLIVIATLFIRTHSIHKN
+AIKQLRI-------KYL-----RERQS---------------------------------
+------
+>2632359472 Ga0069313_113729 heme exporter protein D [Gynuella sunshinyii YC6258]
+------VG--------QFESFSAFLQMGH-HAKYVWLS-YGSFAIGVVYLIVAPKIRQRQ
+FVKQQLQ-------KYR-----REES----------------------------------
+------
+>2799422565 Ga0310589_106209 heme exporter protein D [Dokdonella fugitiva A3]
+--------------------MNDFLAMGG-YGAYVWGS-YAVFFVVLAIEALAPRATRRR
+VLTELRG-------RLR-----RREQRN--EP------SA--------------------
+------
+>2549612330 KW9DRAFT_00909 heme exporter protein D [Pseudomonas syringae pv. actinidiae CFBP 7286]
+------L---------NFESFSDFLAMGR-HGLFVWSA-YGLCLLVLLINVTLPVLARRR
+YLQQQAQ-------RLK-----RESRP---------------------------------
+------
+>2623241501 Ga0070217_10140 heme exporter protein D [Roseovarius marinus DSM 25228]
+------M----------------MPDLGK-YASDVLAA-YGITFVLLGGLIILSLRKSAK
+IKKRLKS-------AEE-----RRKSNG--------------------------------
+------
+>644865703 PC1_2421 heme exporter protein CcmD [Pectobacterium carotovorum carotovorum PC1]
+------MNI-------AFTSWQDFFAMGG-YAFYVWLA-VVLTLLPLSALVGQTLWHRRT
+LMNDIRR-------QQA-----REQRKS--TA------RQ-------SKAVEVTP-----
+------
+>2508547368 MetalDRAFT_1020 heme exporter protein D [Methylomicrobium album BG8]
+------M------------SLQEFFAMGG-YAFYVWAA-YGITLAVLAANILIPVMQRKQ
+WLRRQLS-------KHK-----RKEG----------------------------------
+------
+>2511133860 PMI03_02615 heme exporter protein D [Rhizobium sp. AP16]
+---------------------------MT-HPFYVYGS-YGFAAAMIIAVIAWTWIDGRL
+RRKEMAV-------LEA-----SGIRRR--SQ------SA-------PKDK----AQ---
+------
+>2513590528 YU1DRAFT_01601 heme exporter protein D [Azorhizobium doebereinerae UFLA1-100]
+---------------------------MS-HAAFIAAA-YGVAALGLGALALALVLDNRA
+QRRALAD-------LEA-----RGIRRR--AS------QG--------------------
+------
+>2624838941 JAB3_29260 heme exporter protein D [Janthinobacterium sp. HH101 (JAN3)]
+------M---------IWDSWNDLIAMGG-YAKYVWGS-FAVVALVLAGEQAALALRRRA
+ALKAARS-------AQA-----PGTRA---------------------------------
+------
+>2742224514 Ga0131037_130239 heme exporter protein D [Sulfitobacter sp. HI0054]
+-----------------------MPDLGK-YAAEVLSA-YAVSLLLLAALIGLTLWRGRA
+ARRALEE-------TEQ-----EAGRRG--------------------------------
+------
+>2550348087 UOKDRAFT_02299 heme exporter protein D [Cronobacter sakazakii E764]
+------MT----------AALTSFFLMGG-YAFYVWLA-VAMTVIPLAMLIAHTRLARRA
+LRRDIAK-------RQA-----RERRRQ--GA------EV-------SR-----------
+------
+>2790416756 Ga0302675_141076 heme exporter protein D [Aminobacter sp. MSH1]
+--------------------------MSA-HALYVAAA-YGVSALAIAGLIIWILADQRA
+RKREMAE-------LEA-----AGHRRR--SD------RS-------GTAS---------
+------
+>648636706 AfiDRAFT_3746 heme exporter protein CcmD [Afipia sp. 1NLS2]
+-----------------------MSALGP-YAVFIGTS-YALVVLVVGGLIAAIAADYRR
+QQTELRR-------LEA-----SGVTRR--SG------KA-------SEQT---------
+------
+>2629780663 Ga0077373_106313 heme exporter protein D [Xanthomonas vesicatoria 15b]
+--------------------MSGFLAMGG-YGQYVWTS-YALFVLVLLADLAAPWLRRRR
+LPRELRG-------QLR-----RQTPRR--LR------DQPA---PTLERDAP-------
+------
+>2623182586 Ga0070585_102540 heme exporter protein D [Tropicibacter naphthalenivorans DSM 19561]
+------M----------------MPELGK-YAGVVLSS-YAVSIGLIAVLVGASILRARK
+VRAELER-------IEE-----RIKRGD--------------------------------
+------
+>639130155 PU1002_04941 Heme exporter protein D [Candidatus Pelagibacter ubique SAR11 HTCC1002]
+------M-------------INEIISMNG-YGAYVWSA-FSFTLISFTALYFVTKLQLSK
+EQKRFTSKFGSLNVEKA-----KAARSQ--NI-----NREIL-----SNTSNI-------
+------
+>2728748448 Ga0127053_102433 heme exporter protein D [Bradyrhizobium sp. BR 10303]
+------------------------MSLGP-YAPFIVTS-YALVAAVVLLLIVWIVADYRR
+QQARLRE-------LEA-----SGVTRR--SG------RS-------AGDVR--------
+------
+>2512022188 SPUL_0640 heme exporter protein D [Salmonella enterica enterica sv. Gallinarum RKS5078]
+--------------------------MGG-YAFFVWLA-VAMTVAPLVLLALHTVLQRRA
+ILRGVAQ-------QRA-----REARMR--AA------QA-------QQEAA--------
+------
+>2776229451 Ga0125688_110771 heme exporter protein D [Luteimonas abyssi XH031]
+---------------------------MS-YLQYVVAA-YLVFVAVLLWDFVAPRIRIRR
+LLRGVRL-------LAA-----RRAGKP--HA---------------TGELTR-------
+------
+>2733943939 Ga0128999_121320 heme exporter protein D [Bradyrhizobium valentinum LmjM3]
+-----------------------VTSLGP-YASFVVTS-YALVAAIVLILIGWVALDYRR
+QKERLRE-------LEA-----SGVTRR--SG------RQ-------ATDIR--------
+------
+>643380556 VSAL_I2278 cytochrome c-type biogenesis protein CcmD [Aliivibrio salmonicida LFI1238]
+------M---------HFETLSDFFAMGG-YAAYVWGA-FGATFLSLFWILFSSLGKRRQ
+LLKEIEQ-------RMA-----REERIK--KA------KT-------MENT-------L-
+------
+>2766064282 Ga0216320_129268 heme exporter protein D [Rhizobium sp. WYCCWR10014]
+---------------------------VT-HAFYVYAS-YGFAALVTIVVTVWTWADGRA
+RRRELAA-------LEA-----AGIRRR--SA------RP-------KDSVGD--GE---
+------
+>2806174115 Ga0309975_14656 heme exporter protein D [Providencia heimbachae ATCC 35613]
+------MNS-------AFASWADFFAMGG-YGFYVWLA-VALTLIPLLLLCLHTYIQRKM
+IISAIIQ-------QQA-----REARQK--AA------RA-------RREGV--------
+------
+>2585119482 EJ71DRAFT_03865 heme exporter protein D [Marinomonas polaris DSM 16579]
+------M---------AFNSLSEFLMMGT-HGVYVWSA-YGFSTLTLVWLVWNTLATRRK
+TRDTLRK-------RFL-----RNQTR---------------------------------
+------
+>2770369255 Ga0222396_3606 heme exporter protein D [Rhizobium sp. AG855]
+---------------------------MS-HAFYVIGS-YLLTAGICFGLTTWVYLDGRA
+RQAELKA-------LEA-----QGIRRR--SA------QP-------SSAQD---SKA--
+------
+>2523462886 G517DRAFT_00235 heme exporter protein D [Oceanospirillum maris DSM 6286]
+------M---------YFDSFSEFLNMGG-HGLYVWLA-YGLSAVLIVINVVLPVMHKRQ
+LIKEQAR-------KQR-----REQQSS--------------------------------
+------
+>2682677735 Ga0128985_102425 heme exporter protein D [Salmonella enterica arizonae 63:g,z51:- So 20/20]
+------VST-------AFASWSDFFAMGG-YAFYVWLA-VAMTVVPVAILVVQSAMQHRA
+ILRHVAQ-------QRA-----REARMR--AA------QA-------QQEAV--------
+------

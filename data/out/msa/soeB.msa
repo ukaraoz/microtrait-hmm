@@ -1,0 +1,2100 @@
+>lab:LA76x_0799 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) nrfC; nrfC protein (A)
+------------------------------------------------------------
+----------MTDLP---P-PSKKKLGLVIDLDTCVGCHACAVSCKEWNAGGFAAPLTDE
+QPYGKDPS----GIWFNRVHSYEVAA-------SEAAPANARAEAMPLADPVRGCG----
+-------EVAAPQPAMTLHFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVDEDKCIGC
+KLCSWACPYGAREYSPVEGVMKKCTLCIDR-----------IYNENLDESE-RQPACVQA
+CPTRARHFGDLGDPESKVSKLVAERGGVDLMAQ-LGYQPTNKYLPPRPRRAGP------A
+--------------------------D------D---AAPRKEALD--------T-QQLP
+S-ALRWLDRVLSR-----------------------------------------------
+--
+>laq:GLA29479_3967 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) nrfC; nrfC protein (A)
+------------------------------------------------------------
+----------MTDLP---L-PSKKKLGLVIDLDTCVGCHACAVSCKEWNAGGFAAPLTDE
+QPYGKDPS----GIWFNRVHSYEVAA-------SETAPASARAEAMPLADPVRGCG----
+-------EVAAPQPAMTLHFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVDEDKCIGC
+KLCSWACPYGAREYSPVEGVMKKCTLCIDR-----------IYNENLDESE-RQPACVQA
+CPTRARHFGDLGDPESKVSKLVAERGGVDLMAQ-LGYQPTNKYLPPRPRRAGP------A
+--------------------------D------D---ATPRKEALD--------T-QQLP
+S-ALRWLDRVLSR-----------------------------------------------
+--
+>lcp:LC55x_4702 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) nrfC; nrfC protein (A)
+------------------------------------------------------------
+----------MTGLP---P-PSKKKLGLVIDLDTCVGCHACAVSCKEWNAGGFSAPLTDE
+QPYGKDPS----GVWFNRVHSYEVEA-------TAVAA-------LPIADPVRGCGSAAA
+-------VDTAPQPAMTLHFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVDEDKCIGC
+KLCSWACPYGAREYSPVEGVMKKCTLCIDR-----------IYNENLEESE-RQPACVQA
+CPTRARHFGDLADPESKVSKLVAERGGVDLMAS-LGYQPTNKYLPPRARRAGA------A
+--------------------------E----------PAPAAETLD--------T-QALP
+T-VLRWLDRVLSR-----------------------------------------------
+--
+>lgu:LG3211_4495 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) nrfC; nrfC protein (A)
+------------------------------------------------------------
+----------MTGLP---P-PSKKKLGLVIDLDTCVGCHACAVSCKEWNAGGFAAPLTDE
+QPYGKEPS----GVWFNRVHSYEVAA-------QAAPV-----ESLPMADPVRSCGTASA
+AAPACGSANAAPQPAMTLHFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVDEDKCIGC
+KLCSWACPYGAREYSPVEGVMKKCTLCIDR-----------IYNENLEESE-RQPACVQA
+CPTRARHFGDLGDPESAVSKLVAERGGVDLMAS-LGYQPTNKYLPPRPRRDGG------G
+--------------------------N---GDGD---NAPAAETLD--------S-KALP
+P-VLRWLDKVLSR-----------------------------------------------
+--
+>lez:GLE_4547 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) dmso reductase chain B (A)
+------------------------------------------------------------
+----------MTALP---P-PSKKKLGLVIDLDTCVGCHACAVSCKEWNAGGFAAPLTDE
+RPYGEDPS----GVWFNRVHSYELAA-------QDAPAGG-------------GCG----
+-------VADAPQPAMTLHFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVDEDKCIGC
+KLCSWACPYGAREYSAVEGVMKKCTLCVDR-----------IYNENLSEAE-RQPACVQA
+CPTRARHFGDLGDPESAVSKLVAERGGVDLMAQ-LGYQPTNKYLPPRPRRAGQ------A
+--------------------------Q-----AD---APQREEALD--------P-QALP
+T-VLRWLDRVLSR-----------------------------------------------
+--
+>lem:LEN_0671 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) DMSO reductase chain B (A)
+------------------------------------------------------------
+----------MTALP---P-PSKKKLGLVIDLDTCVGCHACAVSCKEWNTGGIAAPLTDE
+RPYGEDPS----GVWFNRVHSYELAA-------EPAST---------------GCGGGGG
+-----GDAAVAAQPAMTLHFPRSCLHCEEPACVTVCPTGASFKRAEDGIVLVDEDKCIGC
+KLCSWACPYGAREYSAVEGVMKKCTLCIDR-----------IYNENLSEAE-RQPACVQA
+CPTRARHFGDLGDPDSAVSKLVAERGGVDLMPQ-LGYRPTNKYLPPRPRRAEE------A
+--------------------------A----------APPPQETLD--------P-QALP
+G-VLRWLDKVLSR-----------------------------------------------
+--
+>lmb:C9I47_0440 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) hypothetical protein (A)
+------------------------------------------------------------
+----------MTALP---P-PSKKKLGLVIDLDTCVGCHACAVSCKEWNAGGFAAPLTDE
+QPYGKEPS----GVWFNRVHSYEVAA-------TDA------------------------
+------------QPAMTLHFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVDEDKCIGC
+KLCSWACPYGAREYSEVEGVMKKCTLCIDR-----------IYNQNLDERE-RQPACVQA
+CPSRARHFGDLADPDSAVSKLVAERGGVDLMPE-LGYKPTNKYLPPRPRRAGQ-------
+---------------------------------D---AAAADEPLD--------T-AALP
+P-VLRWLDRMLSR-----------------------------------------------
+--
+>dko:I596_518 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+----------MTMLP---P-PAQKKLGLVIDLDTCVGCHACAVACKEWNDGGDFGPLEDT
+DAYGAKPD----GVWFNRVHSYEVAA-------DTGPT-----LAQTVLAAAAEAGVAPV
+RSGGGTGSGCGAAAAMTVHFPRSCLHCEKPACVTVCPTGASFKRVEDGIVLVNEDTCIGC
+QLCAWACPYGAREFSTRHGTMQKCTLCIDR-----------IYNESLAPED-RQPACVKA
+CPTRARHFGDLGDPESAVSRLVAERQGYALMPE-LGYQPVNRYLPPRPRRAGA------V
+--------------------------A---EEAV---ASDAGEAFD--------A-ASLP
+P-LLRWLDRVLSR-----------------------------------------------
+--
+>xba:C7S18_19475 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------MTDLP---V-RTEKKLGLLIDLDICVGCHACAVACKEWNDGGQFGPLTDE
+DPYGAEPM----GVWFNRVHSYTVDPAVPQ---ESG-----------------HCGASS-
+-----PPAGPAGRLGLSLHFPRSCLHCEQAACVTVCPTGASYKRAEDGIVLVDYDRCIGC
+KLCSWACPYGAREYDQAQGVMKKCTLCVDR-----------IYNESLPEAD-RQPACVLA
+CPTGARAFGDFADPSSVVSTRSAGRDPQALMPE-LGYEPTNRYLPPRPRRDQT------P
+--------------------------E---AKAD--DTLNP---------------AELP
+T-VLRWLDRMLSR-----------------------------------------------
+--
+>blep:AL038_09730 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+-----------------------MKLGLVIDLDVCVGCHACSVACKQWNTSGTTGALTDY
+NPYGKDPS----GVWFNRVRQYEVGD-------FP-------------------------
+-------------HNKTVNFPMSCMHCEVAACVTVCPTGASYKRAEDGIVLVDQDKCMGC
+NYCSWACPYGARELDAVDGTMKKCTLCIDR-----------IYDTALSPED-RQPACVVT
+CPAHARYFGDFADENSKVSQLVSERAGYQLMPE-MGYQPTNHYLPPRQRKPIA------T
+-------------------------DD---VQQ----SLL-------------------N
+T-VKTWINKAIIR-----------------------------------------------
+--
+>alv:Alvin_2490 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGWAGPLVDQ
+NPYEGSPT----GTFFNRVQTFEIGT-------FP-------------------------
+-------------NTETVHFPKSCLHCEEPPCVPVCPTGASYKRPDNGVVLVDYDKCIGC
+KYCSWACPYGARELDAQQKVMKKCTLCIDR-----------ITDAKLSERD-RKPSCVLA
+CPANARLFGDVHDPDSEVSIAIRERGGYQLMPE-WGTKPANHYLPRRKTRMHI------D
+-------------------------PE---ELTR---VDNPWRKEDLTDYTG--E-ETLD
+D-VA-W------------------------------------------------------
+--
+>tvi:Thivi_4532 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase subunit (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGWAGPMVDQ
+HPYDGSPT----GTFFNRVQTFEVGV-------YP-------------------------
+-------------KTETVHFPKSCLHCEEPPCVPVCPTGASYKRPDNGVVLVDYDKCIGC
+KYCSWACPYGARELDEQQQVMKKCTLCIDR-----------ITDPKLSDRD-RKPACVLA
+CPTSARLFGDVHDPDAEVSIAIRERGGYQLMPE-WGTKPANHYLPRRKMVMHI------D
+-------------------------QD---ELTR---VDNPLRKEDLTTYTG--E-ETLD
+D-VA-W------------------------------------------------------
+--
+>tmb:Thimo_1581 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase subunit (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCQACVTSCKQWNTSGWAGPLVDQ
+NPYDAEPS----GTFFNRVQTFEIGS-------FP-------------------------
+-------------DTETVHFPKSCLHCEEPPCVPVCPTGASYKRADNGVVLVDYDKCIGC
+KYCSWACPYGVREVDVQQRVMKKCTLCIER-----------ITDESLTERE-RKPACVLA
+CPTSARLFGDVHDPNSAVSVAIREEGGYQLMSE-WGTKPSNHYLPRRKIRRHL------D
+-------------------------PD---EIIR---VDNPLRKEDLTTYTD--E-ETLD
+D-VT-W------------------------------------------------------
+--
+>mpur:MARPU_14900 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGAAGPLVDE
+HPYDGSPS----GTFFNRVQTFEVGT-------FP-------------------------
+-------------DTETVHFPKSCLHCEDPPCVPVCPTGASYKRADNGVVLVDYDKCIGC
+KYCSWACPYGARELDAQERVMKKCTLCIDR-----------ITDDSLPERD-RQPACVLA
+CPTSARLFGDVHDPDSEVSVAIRERGGYALMAE-WGTKPANHYLPRHKTRMHI------A
+-------------------------PE---DLER---VDNPLRREDLTDYTG--E-ESVD
+D-VA-W------------------------------------------------------
+--
+>tsy:THSYN_16375 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKQWNTSGWAGPLVDE
+NPYDADPT----GTFFNRVQTFEVGT-------FP-------------------------
+-------------DTETVHFPKSCLHCEEPPCVQVCPTGASYKRADNGVVLVDYDKCIGC
+KYCSWACPYGAREVDEQQRVMKKCTLCIDR-----------ITDLTLPERE-RRPACVLA
+CPASARLFGDVHDPDSEVSIAIRERGGYQLLPE-CGTHPANHYLPRRKTRIYI------D
+-------------------------PE---ELLR---ADNPLHKEDLTTYQG--E-ETLD
+D-VT-W------------------------------------------------------
+--
+>aeh:Mlg_1676 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin, iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+-----------------------MKLGLVIDTDTCVGCHACAVACKQWNTSGTLGPLTDY
+QPWGEAPS----GVWFNRVRTYEEGD-------YP-------------------------
+-------------HCKTVNLPMSCMHCEDPVCVTVCPTGASYKREEDGIVLIDQDKCMGC
+NYCAWACPYGARELDRATGTMKKCTLCVDR-----------IYDESLPEAE-RQPACVLA
+CPARARHFGDLNDPDSDVSRLVRERRGQGLMNE-LGYRPVNRYLPPRNPQATP------T
+-------------------------VE---PKP----GLG-------------------D
+R-LRNWVNRVVHR-----------------------------------------------
+--
+>hha:Hhal_1935 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin, iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACVVACKQWNTSGTVGPLTDY
+HPYGEAPS----GVMLNRVRHYEEGT-------YP-------------------------
+-------------NSKTVNVPVSCMHCDDPPCVDVCPTGASYKRDADGIVLVDETKCMGC
+NYCAWACPYGCRELDGASGTMKKCTLCIDR-----------IYDDRLPEDE-RQPACVLS
+CPARARHFGDLDDPDSRVSQLVRERRGFVMLPE-MGCQPVNHYLPLRPPQASRPLP--EA
+-------------------------AD---PPRQ---AAADP-----------------A
+T-VQHWTNRVVHR-----------------------------------------------
+--
+>hhc:M911_01475 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACAVACKQWNTSGTTGPLTDI
+AAYGAEPS----GVWFNRIRHYEVGD-------YP-------------------------
+-------------NNKTVNMPMSCMHCEDADCVTVCPTGASYKRKEDGIVLVDQDKCMGC
+NLCAWACPYGARELDPVDGVMKKCTLCIDR-----------IYDETLEPED-RQPACVIT
+CPAHARFFGDLDDPDSQVSRLTRERAGQTLMPE-LGYKPTNTYLPPRVTRPVP------T
+-------------------------DD---VRRK---SLI-------------------S
+S-VKEWVNQAIVR-----------------------------------------------
+--
+>tgr:Tgr7_0339 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) putative iron-sulfur cluster-binding protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGGAGPLVDQ
+RPYDEDPT----GTFFNRVQTFEVGE-------YP-------------------------
+-------------NTETVHFPKSCLHCEEPPCVPVCPTGASYKRPEDGIVLVDYDKCIGC
+KYCSWACPYGVREIDESRKEMTKCTLCVDR-----------IHNPTFEEAD-RLPACVKA
+CPTNARLYGDIHDPNSVVSVAIREAGGYQLMPE-WGTKPANHYLPRRKTRITI------R
+-------------------------EE---ELER---SDNPLKIDSKLPRPGRDE-PSLD
+D-VTSW------------------------------------------------------
+--
+>tkm:TK90_0058 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGDAGPLVDQ
+NPYDADPT----GTFFNRVQSFEVGE-------YP-------------------------
+-------------NTETVHFPKSCLHCEEPPCVPVCPTGASYKRESDGIVLVDYDKCIGC
+KYCSWACPYGVREVDAERKVMTKCTLCVDR-----------IYNEELPEWD-RKPACVRA
+CPTNARLYGDIHDPESVVSKAIREAGGYQLMPE-WGSKPANHYLPRRKTQLTI------R
+-------------------------ED---EVER---ADNPLKIDSQLPKPGQDE-PSLD
+D-VTSW------------------------------------------------------
+--
+>tni:TVNIR_3619 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGDAGPLVDL
+NPYAADPT----GTFFNRVQTFEVGE-------YP-------------------------
+-------------NTETVHFPKSCLHCEEPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCSWACPYGVREVDAQRKVMTKCTLCVDR-----------IYDDALPEWD-RKPACVRA
+CPTHARLFGDIHDPDSEVSQAIRENGGYQLMPE-WGTKPANHYLPRHKTRITV------R
+-------------------------ED---ELER---ADNPLKIDSKLPKPGRDE-PSLD
+D-VTSW------------------------------------------------------
+--
+>tti:THITH_01375 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGDAGPLVDL
+NPYAADPT----GTFFNRVQTFEVGE-------YP-------------------------
+-------------NTETVHFPKSCLHCEEPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCSWACPYGVREVDAQRKVMTKCTLCVDR-----------IYDDALPEWD-RKPACVRA
+CPTHARLFGDIHDPDSEVSQAIRENGGYQLMPE-WGTKPANHYLPRHKTRITV------R
+-------------------------ED---ELER---ADNPLKIDSKLPKPGRDE-PSLD
+D-VTSW------------------------------------------------------
+--
+>tvr:TVD_12920 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDMDTCVGCHACAVACKQWNTSGTTGPLTDY
+RPYGEDPS----GVWFNRIRHYEVGD-------YP-------------------------
+-------------NNKTVNIPMSCMHCEHADCVNVCPTGASYKRPEDGIVLVDQDKCMGC
+NYCAWACPYGARELDREDGVMKKCTLCVDR-----------IYDEQLPPEE-RQPACVIT
+CPAHARFFGDFDDDASEVSRLVRERGGVKQMPE-LGYKPVNTYLPPRITRSIP------T
+-------------------------DD---VRAN---TLI-------------------T
+S-VKDWVNKMVAR-----------------------------------------------
+--
+>ebs:ECTOBSL9_1832 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACAVACKQWNTSGTTGPLTDI
+AAYGAEPS----GVWFNRIRHYEVGD-------YP-------------------------
+-------------NNKTVNMPMSCMHCQDADCVTVCPTGASYKRKEDGIVLVDQDKCMGC
+NLCAWACPYGARELDPVDGVMKKCTLCIDR-----------IYDETLEPED-RQPACVIT
+CPAHARFFGDLDDPDSQVSRLTRERAGQTLMPE-LGYKPTNTYLPPRVTRPVP------T
+-------------------------DD---VRRK---SLI-------------------S
+S-VKEWVNQAIVR-----------------------------------------------
+--
+>aprs:BI364_02445 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACAVACKQWNTSGTTGPLTDY
+RPYGADPS----GVWFNRIRHYEVGE-------YP-------------------------
+-------------NSKTINFPMSCMHCEDADCVTVCPTGASYKRKEDGVVLIDQTKCMGC
+NYCSWACPYGARELDRESGTMKKCTLCIDR-----------IYDETLAEID-RQPACVIT
+CPAHARFFGDFDDQNSEVSRLVRERDGMQLMPE-LGYNPTNRYLPPRINTPIP------T
+-------------------------ED---VRRD---SLA-------------------G
+K-VKEWVNKAVAR-----------------------------------------------
+--
+>gai:IMCC3135_05375 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ttrB; Tetrathionate reductase subunit B (A)
+------------------------------------------------------------
+-----------------------MKLGLVIDLDTCVGCHACAVACKQWNTSGTTGPLSDY
+DPYGKEPS----GVWFNRVRHYEVDD-------FP-------------------------
+-------------NNKTINAPMSCMHCEDAACVTVCPTGASYKREEDGIVLVDQSKCMGC
+NLCAWACPYGARELDENEGVMKKCTLCVDR-----------IHDQKLPEEE-RQPACVLT
+CPTHARFFGDFDDPDSQVSTLVRERGGYAMMPE-LGYEPTNKYLPPRQRPAAP------T
+-------------------------VE---KQAE---ASGE------------------S
+L-IGKWMKRQKEAFNSLGKGAR--------------------------------------
+--
+>mars:A8C75_20815 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+-----------------------MKLGLVVDLDTCVGCHGCATACKQWNTSGTIGPLSDK
+DPYGRDPS----GTWLNRVRTYEVGD-------TP-------------------------
+-------------NSKTVHMPMSCMHCEDAACVTVCPTGASYKRKEDGIVLVDQDKCMGC
+NLCSWACPYGARELDPQEGTMKKCTLCVDR-----------IYDEKLPEAE-RQPACVLT
+CPTSSRVFGDFDDPDSEVSRLTRERSGQQLMPE-LGYNPVNTYLPPRNKKVVE------T
+-------------------------YQ---LKP----SLG-------------------A
+T-LKQWVNKVITR-----------------------------------------------
+--
+>gbi:PG2T_12175 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------MTTVS--RT-TTGRKLGLVIDLDTCVGCHACAVACKEWNDGGHMAPLTDE
+DPYGKEPF----GVWFNRVHAFETRP-------KSG------------------CG----
+---------AGPATTRTVHFPRSCLHCEQPDCVTVCPTGASYKRAQDGIVLIDEDKCIGC
+KLCSWACPYGAREYDSHSGTMKKCTLCVDR-----------IYNTNLPPAE-RQPACVMV
+CPTSARHFGDLGDADSDVSRLVADRGGVDLLPD-LGYRPVNKYLPPRERRAAA------D
+-------------------------------TAP---LDDAPGGAD-------IG----Q
+R-LLGWVDRLLSR-----------------------------------------------
+--
+>slim:SCL_0522 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGAAGYMSDD
+RPYGEDPT----GNFFNRVQTFEVGE-------FP-------------------------
+-------------NTETVHFPKSCLHCEDPPCVPVCPTGASYKRPEDGIVLVDYDKCIGC
+KYCAWACPYGVREIDEHQKVMKKCTLCVDR-----------IYDATLPEAE-RKPACVMA
+CPTSARLFGDVHDPNSAVSIAISENGGYALMPE-WGTKPANHYLPRRKTRIRI------H
+-------------------------PD---ELVR---ADNPLKKEGVQPKPDFRE-PSLD
+D-VTSW------------------------------------------------------
+--
+>sva:SVA_2736 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGAAGYLSDD
+RPYGEDPT----GCFFNRVQTFEVGE-------FP-------------------------
+-------------NTDTVHFPKSCLHCEDPPCVPVCPTGASYKRPEDGIVLVDYDKCIGC
+KYCSWACPYGVREIDEHQKVMKKCTLCVDR-----------IYDESLPEDR-RKPACVLA
+CPTNARLFGDVHDPESQVSVAIRENGGYALMPE-WGTKPANHYLPRRKQRITI------H
+-------------------------KD---ELVR---ADNPLKKEGVQPKPSITE-PSLD
+D-VTSW------------------------------------------------------
+--
+>acii:C4901_09685 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACATACKQWNTSSITAPLTDY
+DPYGKEPS----GVWFNRIRHYEIGE-------YP-------------------------
+-------------NNKTINFPMSCMHCENAECVTVCPTGASYKRPEDGIVLVDQDKCMGC
+NYCSWACPYGARELDRESGTMKKCTLCVDR-----------IYDETLPVED-RQPACVLA
+CPAHARLFGDLDDPESSTSRAVRERGGYALMPE-LNYNPTNHYLPPRTRPAIP------T
+-------------------------SD---LPRG---SLA-------------------R
+K-VKEWVNRVIER-----------------------------------------------
+--
+>tbn:TBH_C0692 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) dmsB; anaerobic dimethyl sulfoxide reductase subunit B (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGWAGPLTDH
+RPYDKDPT----GTFFNRVQTFEVGE-------FP-------------------------
+-------------RTETVHFPKSCLHCEEPPCVPVCPTGASYKREDNGVVLVDYDKCIGC
+KYCSWACPYGMRELDEYQKVMKKCTLCIDR-----------IANDALPEAE-RKPACVLA
+CPTSARLFGDVHDPDSEVSMAIREQGGYQLMPE-WGTKPANHYLPRRKTRIQI------F
+-------------------------ED---ELER---ADNPLRKEAPLPAAE--G-ETLD
+D-VT-F------------------------------------------------------
+--
+>seds:AAY24_15935 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNSSGWAGPMPDE
+NPYGADPS----GVFFNRVQTYEVGC-------YP-------------------------
+-------------DTETVHFPKSCLHCEDPPCVPVCPTGASYKREDNGIVLVDYDKCIGC
+KYCSWACPYGAREIDAQNKVMKKCTLCVDR-----------VTDESLPESE-RKPACVLA
+CPTSARIFGDIHDPQSEASVAIREQGGYQLQPE-WGTQPANHYLPRRRSQMQI------H
+-------------------------KD---ELIR---ADNPLRKEEVEMPIE-QG-DTLD
+D-VA-W------------------------------------------------------
+--
+>ttc:FOKN1_0491 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGTAGYMSDE
+NPYGQDPT----GTFFNRVQTFEVGV-------YP-------------------------
+-------------NTETVHFPKSCLHCEDPPCVPVCPTGASYKRDSDGIVLVDYDKCIGC
+KYCSWACPYGVREIDEQQKVMKKCTLCVDR-----------IYDESLPEAE-RQPACVMA
+CPTNARLFGDVHDAESEVSVAIRERGGYQLMPE-WGTKPANHYLPRRKARIQI------H
+-------------------------ED---ELER---VDNPLKKEGIHKGRVIDE-PTLD
+D-VTSW------------------------------------------------------
+--
+>enm:EBS_0906 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) molybdopterin oxidoreductase, iron-sulfur subunit (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGWAGPMVDQ
+RPYDADST----GTFFNRVQTFEVGE-------YP-------------------------
+-------------NTETVHFPKSCLHCEEPPCVPVCPTGASYKRKDNGVVLVDYDKCIGC
+KYCSWACPYGVRELDEMQKVMKKCTLCIDR-----------ITDESKPESE-RKPACVLA
+CPTSARLFGDVHDPDSEASVAIRERGGYQLMPE-WGTQPANHYLPRRKTRIQI------F
+-------------------------ED---ELER---VDNPLDKEHPLPAAS--G-ETLD
+D-VT-F------------------------------------------------------
+--
+>bma:BMAA2048 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (RefSeq) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bmv:BMASAVP1_1072 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) iron-sulfur cluster-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bml:BMA10229_1356 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) iron-sulfur cluster-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREENGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bmn:BMA10247_A2339 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) iron-sulfur cluster-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREENGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bmal:DM55_3760 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREENGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bmae:DM78_4419 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bmaq:DM76_4457 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREENGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bmai:DM57_05900 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bmaf:DM51_3717 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bmaz:BM44_3718 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREENGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bmab:BM45_4495 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREENGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bps:BPSS2300 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (RefSeq) iron-sulfur cluster protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGVLSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGSDGSGGGGCGSGAACACRPADA----------KPAPASAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpm:BURPS1710b_A1446 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) iron-sulfur cluster-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpl:BURPS1106A_A3107 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) putative molybdopterin oxidoreductase, iron-sulfur binding subunit (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGSDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpd:BURPS668_A3222 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) putative molybdopterin oxidoreductase, iron-sulfur binding subunit (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpse:BDL_5776 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGSDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpsm:BBQ_3804 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpsu:BBN_5796 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpsd:BBX_4944 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGSDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpz:BP1026B_II2478 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) iron-sulfur cluster-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpq:BPC006_II3053 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) putative molybdopterin oxidoreductase, iron-sulfur binding subunit (A)
+------------------------------------------------------------
+----------MRRNAVDEE-DAMTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGSDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpk:BBK_5081 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGSDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpsh:DR55_5428 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpsa:BBU_3689 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGNDGSGGGGCSSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bpso:X996_5198 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGSDGSGGGGCGSGAACACRPADA----------KPAPASAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>but:X994_4748 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGDAGALSDL
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKREEDGLVLVDYDKCIGC
+KYCTWACPYGARELDEVRKEMTKCTLCADR-----------IHDETLPERD-RKPACVLA
+CPTSARLFGDIHDPNSTVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------S
+GGGGGSDGSGGGGCGSGAACACRPADA----------KPAPVSAGDALAHGQ----PNLA
+A-LAKRI----------------------------------------------------R
+SE
+>bok:DM82_4036 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGALSDA
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDYDKCIGC
+KYCAWACPYGARELDEARKEMTKCTLCADR-----------IHNDALPERD-RKPACVLA
+CPTSARLFGDIHDPESVVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------G
+GGGG----------GGGDACSCRSAGE----------EPALASAGSELAHEQ----VHLA
+A-LAKRV-----------------------------------------------------
+--
+>boc:BG90_3991 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTHMALVIDLNVCVGCHACVTSCKEWNTSGEAGALSDA
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDYDKCIGC
+KYCAWACPYGARELDEARKEMTKCTLCADR-----------IHNDALPERD-RKPACVLA
+CPTSARLFGDIHDPESVVSQAIRERGGYQLMPE-WGTRPANHYLPRRTTTACG------G
+--------------GGGDACSCRSAGE----------EPALASAGSELAHEQ----VHLA
+A-LAKRV-----------------------------------------------------
+--
+>bur:Bcep18194_B2000 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADM
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCADR-----------IDNQALPERD-RKPACVLA
+CPTSARLFGDVHDPESEVSRAIRERGGYQLMPE-WDTRPSNHYLPRVKTESSC------G
+-------------CGSSGGCGSGSNGR---DE--------DASFEARAARGD----IDLV
+S-LATQR-----------------------------------------------------
+--
+>bcj:BCAM1175 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) putative dimethyl sulfoxide reductase subunit (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADL
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASFKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCADR-----------IDNEALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRDRGGYALMPE-WGTRPSNHYLPRVKTEASC------G
+-------------CGSSGGCGSASNGR---D---------DESFEARAARGD----IDLV
+S-LATPR-----------------------------------------------------
+--
+>bcen:DM39_3845 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADL
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCADR-----------IDNQALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRERGGYALMPE-WGTRPSNHYLPRVKTEASC------G
+-------------CGS-GGCGSASDGR---AA--------DDSFEARAARGD----LDLV
+S-LATQR-----------------------------------------------------
+--
+>bceo:I35_5022 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADL
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASFKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCADR-----------IDNEALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRDRGGYALMPE-WGTRPSNHYLPRVKTEASC------G
+-------------CGSSGGCGSASNGR---D---------DDSFEARAARGD----IDLV
+S-LATPR-----------------------------------------------------
+--
+>bmu:Bmul_4523 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADV
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEARKEMTKCTLCADR-----------IDNAALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRERGGYTLMPE-WDTRPSNHYLPRVTTQPSC------G
+-------------CGSGGACGSASSAG---E---------DDSFEARAARGD----IDLV
+A-LAASR-----------------------------------------------------
+--
+>bmk:DM80_3692 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADV
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEARKEMTKCTLCADR-----------IDNAELPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRERGGYTLMPE-WDTRPSNHYLPRVTTQPSC------G
+-------------CGSGGACGSASSAG---Q---------DDSFEARAARGD----IDLV
+A-LAASR-----------------------------------------------------
+--
+>bmul:NP80_4097 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADV
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEARKEMTKCTLCADR-----------IDNAALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRERGGYTLMPE-WDTRPSNHYLPRVTTQPSC------G
+-------------CGSGGGCGSASSAG---D---------DDSFEARAARGD----IDLV
+A-LAASR-----------------------------------------------------
+--
+>bced:DM42_3916 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADL
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASFKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCADR-----------IDNEALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRDRGGYALMPE-WGTRPSNHYLPRVKTEASC------G
+-------------CGSSGGCRSASNGR---D---------DESFEARAARGD----IDLV
+S-LATPR-----------------------------------------------------
+--
+>bcep:APZ15_18855 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADL
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCADR-----------IDNDALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRERGGYALMPE-WGTRPSNHYLPRVKTEASC------A
+-------------CGSGGTCGSGSTGR---DE--------SDSFEARAARGD----IDLV
+S-LATQR-----------------------------------------------------
+--
+>bcon:NL30_06745 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADL
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCADR-----------IDNEALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRERGGYALMPE-WGTRPSNHYLPRVKTEASC------G
+-------------CGNGGGCGSASNGI---GE--------DDSFEARATRGD----IDLV
+S-LATQR-----------------------------------------------------
+--
+>bpsl:WS57_08255 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADL
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCADR-----------IDNQALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRERGGYALMPE-WGTRPSNHYLPRVKTEASC------G
+-------------CGS-GGCGSASDGR---AA--------DDSFEARAARGD----LDLV
+S-LATQR-----------------------------------------------------
+--
+>bstl:BBJ41_18855 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADL
+RPYDDDPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------MTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCADR-----------IDNEALPERD-RKPACVLA
+CPTSARLFGDVHDPESDVSRAIRERGGYALMPE-WGTRPSNHYLPRVKTEASC------G
+-------------CGSGGGCGSTSGGR---DA--------DESFESRAARGD----IDLV
+S-LATQR-----------------------------------------------------
+--
+>byi:BYI23_A014900 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain-containing protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADQ
+RPYDADPS----GTFFNRVQTYEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDKCIGC
+KYCAWACPYGARELDEARQEMTKCTLCADR-----------IYNEALPERD-RKPACVLA
+CPTSARLFGDIHDPESVVSKAIEERGGYQLMPE-WETRPANHYLPRRPVNACS------G
+----------------DSQCGCHDNDT--------------------AAHGD----LNLA
+A-MAVRV-----------------------------------------------------
+--
+>buo:BRPE64_ACDS15320 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) nrfC; 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+-------------------------MALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADQ
+HPYDADPS----GTFFNRVQTYEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDKCIGC
+KYCAWACPYGARELDEARKEMTKCTLCADR-----------IYNEALPERD-RKPACVLA
+CPTSARLFGDIHDPESVVSKAIAERGGYQLMPE-WETRPANHYLPRQPVNAVN------G
+-------------C-GSGSCGCKSTEA------------DHASLEA---HGD----LNLA
+A-MAVRV-----------------------------------------------------
+--
+>bue:BRPE67_ACDS15380 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain-containing protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADQ
+RPYDADPS----GTFFNRVQTYEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDKCIGC
+KYCAWACPYGARELDEARQEMTKCTLCADR-----------IYNEALPERD-RKPACVLA
+CPTSARLFGDIHDPESVVSKAIEERGGYQLMPE-WETRPANHYLPRRPVNACG------G
+----------------DSQCGCHDNDS--------------------AAHGD----LNLA
+A-MAVRV-----------------------------------------------------
+--
+>buz:AYM40_24710 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCQACVTSCKEWNTSGESGSLADL
+NPYDADPS----GTFFNRVQSFEAGS-------YP-------------------------
+-------------NAETIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDKCIGC
+KYCAWACPYGARELDEARKEMTKCTLCVDR-----------IHDENLSERD-RQPACVLA
+CPTSARLFGDIHDPESVVSKAIEERGGYQLMPE-WNTRPANHYLPRVTTSASG------C
+---------------GSQGCSCKDTGT---ATEV------PESLDARLERGE----LHLA
+S-MATRI-----------------------------------------------------
+--
+>bxe:Bxe_B1742 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) iron-sulfur cluster-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGESGSLADL
+NPYDADPS----GTFFNRVQSFEAGS-------FP-------------------------
+-------------NAETIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDRCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCVDR-----------IHDQNLSERD-RQPACVLA
+CPTSARLFGDIHDPESVVSKAIEERGGYQLMPE-WNTRPANHYLPRVPTEAAS------C
+---------------GSGSCSCKTSGS---VADP---AQSPESLDAQLERGE----LHLA
+S-MATRI-----------------------------------------------------
+--
+>bxb:DR64_7047 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGESGSLADL
+NPYDADPS----GTFFNRVQSFEAGS-------FP-------------------------
+-------------NAETIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDRCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCVDR-----------IHDQNLSERD-RQPACVLA
+CPTSARLFGDIHDPESVVSKAIEERGGYQLMPE-WNTRPANHYLPRVPTEAAS------C
+---------------GSGSCSCKTSGS---VADP---AQSPESLDAQLERGE----LHLA
+S-MATRI-----------------------------------------------------
+--
+>bph:Bphy_6213 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLSDQ
+RPYDADPS----GTFFNRVQTYEAGE-------FP-------------------------
+-------------LVDTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDYDRCIGC
+KYCSWACPYGAREIDEERKEMTKCTLCADR-----------IYNEALPERD-RKPACVLA
+CPTSARLFGDIHDPESVVSKAIRERGGYQLMPE-WGTRPSNHYLPRQKVTSCG------S
+-----------------GACSCKTSDG---DEAV------SASVETQVKRGE----LHLA
+S-IATRV-----------------------------------------------------
+--
+>bpy:Bphyt_4941 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGESGSLADL
+NPYDADPS----GTFFNRVQSFEAGS-------FP-------------------------
+-------------NAETIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDRCIGC
+KYCAWACPYGARELDESRKEMTKCTLCVDR-----------IHDENLSERD-RQPACVLA
+CPTSARLFGDIHDPESVVSKAIEERGGYQLMPE-WNTRPANHYLPRVPTEAAG------C
+---------------GSGSCSCKSSGS---LQEP---SASPESLDAQFERGE----LHLA
+S-MATRI-----------------------------------------------------
+--
+>bfn:OI25_4144 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCQACVTSCKEWNTSGESGSLADL
+NPYDADPS----GTFFNRVQSFEAGS-------YP-------------------------
+-------------NADTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDKCIGC
+KYCAWACPYGARELDEARKEMTKCTLCVDR-----------IHDENLSERD-RQPACVLA
+CPTSARLFGDIHDPESVVSKAIEERGGYQLMPE-WNTLPANHYLPRITTPASG------C
+---------------GSGSCSCKDAGT---ALEA---PDSHESLESRLERGE----LHLA
+S-MATRI-----------------------------------------------------
+--
+>para:BTO02_21370 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLSDA
+RPYDADPS----GTFFNRVQTFEAGE-------FP-------------------------
+-------------LADTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDRCIGC
+KYCAWACPYGARELDEERKEMTKCTLCADR-----------IHNEAFSERD-RKPACVLA
+CPTSARLFGDIHDPESVVSKAIRERGGYQLMPE-WGTRPANHYLPRQKTTACG------S
+-----------------GSCSCGSDAG---SADH--EGHSHTAGTAGLEHGT----VDLA
+S-MATRV-----------------------------------------------------
+--
+>parb:CJU94_21015 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGESGSLADL
+NPYDADPS----GTFFNRVQSFEAGS-------FP-------------------------
+-------------NAETIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDFDRCIGC
+KYCAWACPYGARELDEGRKEMTKCTLCVDR-----------IHDENLSERD-RQPACVLA
+CPTSARLFGDIHDPQSVVSKAIEERGGYQLMPE-WNTRPANHYLPRVPTEAAG------C
+---------------GSGACSCKSSGS---MSEP---AQSPESLDARLERGE----LHLA
+S-MATRI-----------------------------------------------------
+--
+>phs:C2L64_21235 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADF
+RPYDADPS----GTFFNRVQTYEAGE-------FP-------------------------
+-------------LTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDYDRCIGC
+KYCAWACPYGAREIDEQRKEMTKCTLCADR-----------IYNEALPERD-RKPACVLA
+CPTSARLFGDIHDPESVVSKAIRERGGYQLMPE-WGTRPANHYLPRQKVSACG------G
+-----------------EACSCKTSPE----------GDEVASVETQVERGE----LHLA
+S-IATRV-----------------------------------------------------
+--
+>pter:C2L65_41000 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADF
+RPYDADPS----GTFFNRVQTYEAGE-------FP-------------------------
+-------------LTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDYDRCIGC
+KYCAWACPYGAREIDEKRKEMTKCTLCVDR-----------IHNEALPERD-RKPACVLA
+CPTSARLFGDIHDPESVVSKAIRERGGYQLMPE-WGTRPANHYLPRQKVSTCS------G
+-----------------GSCSCKTPSE----------SDEIASVETQVERGE----LHLA
+S-VATRV-----------------------------------------------------
+--
+>pgp:CUJ91_31945 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADF
+RPYDDDPS----GTFFNRVQTFEAGE-------YP-------------------------
+-------------LTDTIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGLVLVDYDRCIGC
+KYCAWACPYGAREIDEERKEMTKCTLCSDR-----------INNEALPERD-RKPACVLA
+CPTSARLFGDIHDPESVVSKAIRERGGYQLMPE-WDTRPANHYLPRQKTGGCA------S
+-----------------SSCSCGSTEA---EAAGV-PLSSADPIESQLERGM----LNLV
+S-AAKRI-----------------------------------------------------
+--
+>ptx:ABW99_06650 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADF
+SPYDADPC----GTFFNRVQTFEAGE-------FP-------------------------
+-------------DTETVHFPKSCLHCEDPPCVPVCPTGASFKRKEDGLVLIDYDKCIGC
+KYCAWACPYGVREIDEKRQEMTKCTLCSDR-----------IHNEALPERD-RKPACVLA
+CPTSARLFGDIHDPESEVSKAIQERGGYQLMPE-WGTQPANHYLPRRKTQVQV------R
+-------------------------AE---EVER---ADNALQLERQFERGE----INLA
+A-MARQ------------------------------------------------------
+--
+>bbro:BAU06_12380 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADE
+RAYDADPS----GNFFNRVQTYEAGE-------FP-------------------------
+-------------LTETIHFPKSCLHCEDPPCVPVCPTGASYKREADGLVLVDYDKCIGC
+NYCAWACPYGARELDPQRKEMTKCTLCSDR-----------IHNEALPERD-RKPACVLA
+CPTSARLFGDIHDPESEVSQAIRDRGGYQLMPE-WGTRPANHYLPRRKTEAQG------C
+---------------GSAACSCGSAQA----------SAAPADIEAQLDRGQ----LDLA
+A-VASSH-----------------------------------------------------
+--
+>bfz:BAU07_14100 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADE
+RAYDADPS----GNFFNRVQTYEAGE-------FP-------------------------
+-------------LTDTIHFPKSCLHCEDPPCVPVCPTGASYKREADGLVLVDYDKCIGC
+NYCAWACPYGARELDPKRKEMTKCTLCEDR-----------IHNEALPERD-RKPACVLA
+CPTSARLFGDIHDPDSEVSQAIRERGGYALMPE-WDTRPANHYLPRRKTEAQG------C
+---------------GSSSCSCGPAAQ----------AAPAADLEAQLASGQ----LDLA
+A-AARAH-----------------------------------------------------
+--
+>boh:AKI39_11595 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCHACVTSCKEWNTSGEAGSLADE
+RAYDADPS----GNFFNRVQTYEAGE-------FP-------------------------
+-------------LTDTIHFPKSCLHCEDPPCVPVCPTGASYKRESDGLVLVDYDKCIGC
+NYCAWACPYGARELDPQRKEMTKCTLCSDR-----------IDNPALPERD-RKPACVLA
+CPTSARLFGDIHDPDSEVSQAIRDRGGYQLMPE-WDTKPANHYLPRRKTEAQG------C
+---------------GSSSCSCGSAGD----------GASKGNIEAQLERGQ----LDLA
+A-VASSH-----------------------------------------------------
+--
+>pig:EGT29_21355 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLDVCVGCHACVTSCKQWNTSGSAGPLEDA
+NPYGESPS----GTFFNRVQTFEVGE-------FP-------------------------
+-------------LTETLHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCSWACPYGARELDEGRKVMTKCTLCVDR-----------VHNEALPESE-RKPACVMA
+CPTNARLFGDVHDEDSEVSRAIRERDGYTLMPE-WGTRPANHYLPRRSRP----------
+------------------------------------------------------------
+------------------------------------------------------------
+--
+>vei:Veis_3995 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin, iron-sulfur binding domain protein (A)
+-----------MQWLRDLLGQI--------GQIGGAGR----------------------
+--STGRH-AGPDATP--AK-PPARQLALVIDLNVCVGCHACVTSCKQWNTSGSAGPLTDE
+RPYAADPS----GTFFNRVQTYEAGV-------FP-------------------------
+-------------HTETIHLPKSCLHCADPPCVPVCPTGASYKRQQDGIVLVDYDKCIGC
+KYCAWACPYGAREFDEQRQVMTKCTLCVDR-----------IHDQQLPEQE-RKPACVQA
+CPTGARIFGDVQDPDSEASRAIRERGGYPLMPE-WATRPANRYLPRRITPSTT------P
+-------------------------ST---ASST---ASSTT-----------------A
+S-IAPPIG---------------------------------------------------A
+PE
+>vap:Vapar_3814 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+-----------------------------------------------MRAAAP---SPQP
+SPASGRG-SSIRAEP--GE-TLAKQLALVIDLNVCVGCHACVTSCKQWNTSGSAGPLADA
+QPYGANPS----GTFFNRVQTYEAGT-------FP-------------------------
+-------------ATQTVHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCAWACPYGARELDEERQVMTKCTLCVDR-----------IYDEHLPKED-RKPACVKA
+CPTGARLFGDVKDPDSEVSRAIRERGGYQLMPE-WETSPANQYLPRRVTQQTT------P
+-------------------------SI---EARE--------------------------
+------------------------------------------------------------
+--
+>vpe:Varpa_4399 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+----------MMQWLKDLMAPVS-LPPL-PGEGWGGGTAAFIEARHPVEAPLP---PPQP
+SPGRGGSNTSKRAEP--GE-TLAKQLALVIDLNVCVGCHACVTSCKQWNTSGSAGPLADE
+RPYAANPT----GTFFNRVQTYEAGA-------FP-------------------------
+-------------ATETVHLPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCAWACPYGARELDEERQVMTKCTLCVDR-----------IYDELLPKED-RKPACVKA
+CPTGARLFGDVKDPDSEVSKAIRERGGYQLMPE-WETNPANQYLPRRITQSTD------A
+-------------------------QG---------------------------------
+------------------------------------------------------------
+--
+>vpd:VAPA_1c39260 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) putative molybdopterin oxidoreductase, iron-sulfur binding subunit (A)
+----------MMQWLKDLMAPVSALPPLPPGEGWGEGGGARIGTSAVMRAAAP---SPQP
+SPASGRGSQSVRAEP--GE-TLAKQLALVIDLNVCVGCHACVTSCKQWNTSGSAGPLADA
+QPYGANPT----GTFFNRVQTYEAGT-------FP-------------------------
+-------------ATQTVHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCAWACPYGARELDEERQVMTKCTLCVDR-----------IYDEHLPKED-RKPACVKA
+CPTGARLFGDVKDPDSEVSRAIRERGGYQLMPE-WETSPANQYLPRHVTQQTT------P
+-------------------------SI---ETQE--------------------------
+------------------------------------------------------------
+--
+>vam:C4F17_26275 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+-----------------------------MDLNVCVGCHACVTSCKQWNTSGSAGPLADE
+RPYAANPT----GTFFNRVQTYEAGA-------FP-------------------------
+-------------VTETIHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCAWACPYGARELDEERQVMTKCTLCVDR-----------IYDEQLPKED-RKPACVKA
+CPTGARIFGDVKDPDSEVSKAIRERGGYQLMPE-WETSPANQYLPRHITQPAD------A
+-------------------------KE---------------------------------
+------------------------------------------------------------
+--
+>hyb:Q5W_20305 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------MSQLPNEPQ-TLAIQLALVIDLNVCVGCHACVTSCKEWNTSGAAGPMTDL
+DAYGEQPT----GTFFNRVQTFEADS-------YP-------------------------
+-------------DTQTVHFPKSCLHCEEPPCVPVCPTGASYKRKSDGIVLVDYDKCIGC
+KYCSWACPYGAREFDEERKVMTKCTLCVDR-----------IYDELLPPQD-RKPACVKA
+CPTGARLFGDVKDPDSEVSQAIRERGGYALMPE-WKTQPANQYLPRRGTKQPP------S
+-------------------------DA---ARAE---KDRP-------------------
+------------------------------------------------------------
+--
+>mpt:Mpe_A0859 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) iron-sulfur cluster protein (A)
+----------MIQWLKDLM-------------------------KSELVAEAPARRSDTP
+SARRGDG-----DEP--PE-TLAKQLALVIDLNVCVGCHACVTACKQWNTSGSAGPLADE
+NAYAASPT----GTFFNRVQTYEAGV-------FP-------------------------
+-------------GTDTVHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCSWACPYGARELDEERQVMTKCTLCVDR-----------IYDERLPKAD-RRPACVMA
+CPTGARLFGDVKDPDSDVSRAIRERGGYALMPE-WETQPANQYLPRRITEVAG------Q
+--------------RPDGAPGPAGTAH---------------------------------
+------------------------------------------------------------
+--
+>metp:C1M51_13340 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+---------------------MAKQLALVIDLNVCVGCHACVTACKQWNTSGSAGPLADE
+NAYAASPT----GTFFNRVQTYEAGV-------FP-------------------------
+-------------GTDTVHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCSWACPYGARELDEERQVMTKCTLCVDR-----------IYDERLPKAD-RRPACVMA
+CPTGARLFGDVKDPDSDVSRAIRERGGYALMPE-WETQPANQYLPRRITEVAG------P
+--------------RPDGAPGPAGTAH---------------------------------
+------------------------------------------------------------
+--
+>har:HEAR3343 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Putative iron-sulfur cluster ferredoxin (A)
+------------------------------------------------------------
+----------------------MTQMALVIDLNVCVGCQACVTSCKSWNTSGIAGTLADD
+RPYGENPT----GTFFNRVQTYEVGR-------FP-------------------------
+-------------ATDTVHFPKSCLHCEEPPCVPVCPTGASYKRESDGLVLVDYDKCIGC
+NYCAWACPYGARELDEHRQEMSKCTLCADR-----------IDNPSLPPQD-RQPACVMA
+CPTSARLFGDIHDPESIVSVAIREQGGYQLMPE-WGTKPSNHYLPRRKVEIKL------H
+-------------------------ED---QLER---IENPLHIDGKLPKPGLYE-PSLD
+D-VASW------------------------------------------------------
+--
+>tin:Tint_1305 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKQWNTSGTAGHLSDH
+EPYGENPL----GVFFNRVQTYEVGQ-------FP-------------------------
+-------------QTQTVHFPKSCLHCEEPPCVPVCPTGASYKRQEDGIVLVDSDKCIGC
+KYCSWACPYGAREYDEDRGVMTKCTLCVDR-----------IYDESIPQAQ-RRPACVNA
+CPTNARLFGDVHDPESEVSRAIRERGGYALMPE-LGTRPANHYLPRQLPQGAA-------
+----------------------------------------PANAEAASPHQTTAR-PQAA
+A-VRPAPSEAALEVEARGLFAKLFGAFS------KPSQTHA----GHKTAEVTQL----E
+AR
+>thi:THI_1629 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) putative Iron-sulfur cluster ferredoxin (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKQWNTSGTAGHLSDH
+EPYGENPL----GVFFNRVQTYEVGQ-------FP-------------------------
+-------------QTQTVHFPKSCLHCEEPPCVPVCPTGASYKRQEDGIVLVDSDKCIGC
+KYCSWACPYGAREYDEDRGVMTKCTLCVDR-----------IYDESIPQAQ-RRPACVNA
+CPTNARLFGDVHDPDSEVSRAIRERGGYALMPE-LGTRPANHYLPRQLPHGAA-------
+----------------------------------------PANAEAASPHQTTAR-PQAA
+A-VRPAPSEAVLEVEARGLFAKLFGAFS------KPSPARA----GHKTVEITQL----E
+AR
+>shd:SUTH_02760 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCQACVTSCKEWNTSGSAGPMGDQ
+NPYGADPT----GTFFNRVQTFEVGE-------FP-------------------------
+-------------TTETVHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVNYDKCIGC
+KYCSWACPYGARELDEQQQVMKKCTLCVDR-----------IYDMTMAEAD-RKPSCVKA
+CPTSARLFGDVHDPESAVSVAIRESGGYALMPE-WGTHPANHYLPRRKTRIKI------H
+-------------------------ED---ELER---ADNPLKVDRQLPKPAMDE-PTLD
+D-VTTW------------------------------------------------------
+--
+>tbd:Tbd_0571 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) DMSO reductase chain B (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDVCVGCHACAIACKEWNASGTIGPLSDY
+QPYGAEPS----GVWFNRIRHYEMDE-------YP-------------------------
+-------------NNKTVNFPMSCMHCEDADCVTVCPTGASYKRAEDGIVLIDQDKCMGC
+NYCSWACPYGARELDRSSGTMKKCTLCVDR-----------IYDENLPVEE-RQPSCVLT
+CPAHARMFGDFDDPDSAVSRVVRERGGYPLMPE-LNYNPTNTYLPIRRKPVIG------V
+-------------------------ET---KPKG---GLK-------------------E
+S-IKQFANRLVRR-----------------------------------------------
+--
+>slt:Slit_1710 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGSAGPLCDE
+NPYAADPT----GTFFNRVQTFEVGT-------YP-------------------------
+-------------LSETVHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCTWACPYGAREIDEKQKVMKKCTLCVDR-----------IYDMSMPEID-RKPSCVKA
+CPTSARLFGDIHDPESAVSQAIREEGGYALMPE-WGTQPANHYLPRRKTKLKI------H
+-------------------------ED---ELER---ADNPLKVDGHLPKPGKGE-SSMD
+D-VSAW------------------------------------------------------
+--
+>sdr:SCD_n01210 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTSCKEWNTSGSAGAMSGD
+RPYGADPT----GTFFNRVQTFEVGS-------FP-------------------------
+-------------NTETVHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCSWACPYGVREIDEHQKVMKKCTLCVDR-----------IYDQSLPEAE-RKPACVLA
+CPTSARLFGDVHDSESVVSVAIRESGGYALMPE-WGTKPANHYLPRRKTQIRI------H
+-------------------------AD---ELMR---ADNPLKKERLLPQPDKSE-PSLD
+D-VTSW------------------------------------------------------
+--
+>sulf:CAP31_01815 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDVCVGCHACAIACKEWNASGATAPLTDY
+QPYGAEPS----GVWFNRIRSYEVGE-------YP-------------------------
+-------------NNKTINFPMSCMHCEDADCVTVCPTGASYKRAEDGIVLVDQTKCMGC
+NYCSWACPYGARELDRESGTMKKCTLCIDR-----------IYDTMMPVEE-RQPACVLT
+CPAHARMFGDMDDANSAVSVVIRERGGYQLMPE-LGYNPTNHYLPVRKATPIS------T
+-------------------------EN---LGKV---GFK-------------------G
+R-LKGIVNRIVKR-----------------------------------------------
+--
+>fam:OYT1_ch1939 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Tetrathionate reductase subunit B (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNVCVGCHACVTNCKQWNTSGAAGSLVDL
+NPYEAEPN----GTFFNRVQTFEVGC-------FP-------------------------
+-------------NTETVHFPKSCLHCEDPPCVPVCPTGASYKRKEDGIVLVDYDKCIGC
+KYCSWACPYGVREFDEERKVMTKCTLCVDR-----------IYDEKLPEDR-RKPSCVLA
+CPPGARLFGDVHDPDSEVSVAIRERGGYALMPE-AATKPSNHYLPRRKTTIPV------R
+-------------------------AD---ELYR---ADNPHKIDGAPFDKNL-P-PTTE
+E-LN--------------------------------------------------------
+--
+>mlo:mll5613 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) DMSO reductase chain B (A)
+------------------------------------------------------------
+----------MTCLP---S-QSGKKLGLVIDLDTCVGCQACVTACKEWNTGGHMAPLTDI
+DPYGGHVD----GVWFNRVHSYEHTT-------EM-------------------------
+-------------GGRTVNFPRSCLHCETPACVTVCPTGASYKRASDGIVLIDEDKCIGC
+KLCSWACPYGAREFDTDVGVMKKCTLCVDR-----------IYNDNLAEED-RVPACVAA
+CPTSARHFGDLGDPHSAVSQLVAERGGVDLMAE-LGYHPTNKYLPPRAHTQRA------A
+--------------------------S---VPAK---ALEPVRAE--------------G
+G-FLGWVDRMLSN-----------------------------------------------
+--
+>mln:A9174_33510 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------MTCLP---A-QTDKKLGLVIDLDTCVGCQACVTACKEWNTGGHMAPLTDI
+DPYGGHVD----GVWFNRVHSYEHTT-------EM-------------------------
+-------------GGRTVNFPRSCLHCETPACVTVCPTGASYRRASDGIVLIDEDKCIGC
+KLCSWACPYGAREFDTDVGVMKKCTLCIDR-----------IYNDNLAEED-RVPACVAA
+CPTSARHFGDLGDPQSAVSQLVAERGGVDLMPE-LGYHPTNKYLPPRAHTQRA------A
+--------------------------S---VPAK---VLEPVRAE--------------G
+G-FLGWVDRMLSN-----------------------------------------------
+--
+>mci:Mesci_6014 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (RefSeq) DMSO reductase subunit B (A)
+------------------------------------------------------------
+----------MTCLP---S-QSGKKLGLVIDLDTCVGCQACVTACKEWNTGGHMAPLTDI
+DPYGGHVD----GVWFNRVHGYEHTT-------EM-------------------------
+-------------GGRTVNFPRSCLHCETPACVTVCPTGASYKRASDGIVLIDEDKCIGC
+KLCSWACPYGAREFDTDVGVMKKCTLCVDR-----------IYNDNLAEED-RVPACVAA
+CPTSARHFGDLGDPLSAVSQLVAERGGVDLMPE-LGYRPTNKYLPPRAHTARP------A
+--------------------------S---VAAP---ALEPVRAD--------------G
+G-FLGWVDRMLSN-----------------------------------------------
+--
+>mop:Mesop_6661 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------MTCLP---T-HTDKRLGLVIDLDTCVGCQACVTACKEWNTGGHMAPLTDI
+DPYGGHAD----GVWFNRVHSYEHTT-------EM-------------------------
+-------------GGRTVNFPRSCLHCETPACVTVCPTGASYKRASDGIVLIDEDKCIGC
+KLCSWACPYGAREFDTDVGVMKKCTLCVDR-----------IYNDNLAEED-RVPSCVAA
+CPTSARHFGDLGDPQSAVSQLVAERGGVDLMPE-LGYHPTNKYLPPRAHTQRA------A
+--------------------------S---VPAK---ALEPVRAE--------------G
+G-FLGWVDRMLSN-----------------------------------------------
+--
+>mam:Mesau_06056 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase subunit (A)
+------------------------------------------------------------
+----------MTCLS---N-PGGKKLGLVIDLDTCVGCQACVTACKEWNTGGHMAPLTDI
+DPYGGHVD----GVWFNRVHSYEHIT-------EM-------------------------
+-------------GGRTVNFPRSCLHCETPACVTVCPTGASYKRASDGIVLIDEDKCIGC
+KLCSWACPYGAREFDGDVGVMKKCTLCVDR-----------IYNDNLAEGD-RVPACVAA
+CPTSARHFGDLGDPQSPVSQLVAERGGVDLMPE-LGYRPTNKYLPPRAHTQRA------A
+--------------------------S---VTAP---ALEPLRAE--------------G
+G-FLGWVDRMLSS-----------------------------------------------
+--
+>mamo:A6B35_07825 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------MTCLP---A-HTDKRLGLVIDLDTCVGCQACVTACKEWNTGGHMAPLTDI
+DPYGSNVD----GVWFNRVHSYEHIT-------EM-------------------------
+-------------GGRTVNFPRSCLHCETPACVTVCPTGASYKRASDGIVLIDEDKCIGC
+KLCSWACPYGAREFDTDVGVMKKCTLCVDR-----------IYNDNLVEED-RVPACVAA
+CPTSARHFGDLGDPASAVSQLVADRGGVDLMPE-MGYHPTNKYLPPRAHTQRA------A
+--------------------------S---VAAP---ALEPVRAE--------------G
+G-FLGWVDRMLSN-----------------------------------------------
+--
+>meso:BSQ44_17455 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTSLP---SLPTEKKLGLVIDLDVCVGCHACVVNCKEWNTGGYGAALSDQ
+DPYGADVS----GAWLNRVHTFEVVPQGGEVVGEAG------------------------
+-------------DARIVHFPKSCLHCEDAPCVTVCPTGASYKRAADGIVLVDEDKCIGC
+GLCAWSCPYGAREMDLAAGVMKKCTLCIDR-----------IYNETLEEVD-RVPACVRT
+CPTNARHFGDLADPSSSVSRMVAERGGMDLMPE-QGTRPVNKYLPPRPRKPLA------D
+--------------------------S---ARGL---PLAENTEGA-------------R
+G-FFSWLDGMLERL----------------------------------------------
+--
+>mesw:A9K65_032260 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------MTCLP---S-QSGKKLGLVIDLDTCVGCQACVTACKEWNTGGHMAPLTDI
+DPYGGHVD----GVWFNRVHGYEHTT-------EM-------------------------
+-------------GGRTVNFPRSCLHCETPACVTVCPTGASYKRASDGIVLIDEDKCIGC
+KLCSWACPYGAREFDTDVGVMKKCTLCVDR-----------IYNDNLAEED-RVPACVAA
+CPTSARHFGDLGDPLSAVSQLVAERGGVDLMPE-LGYRPTNKYLPPRAHTARP------A
+--------------------------S---VAAP---ALEPVRAD--------------G
+G-FLGWVDRMLSN-----------------------------------------------
+--
+>mesm:EJ066_11260 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+----------MTCLP---T-HTDRKLGLVIDLDTCVGCQACVTACKEWNTGGHMAPLTDI
+DPYGGNVD----GVWFNRVHSYEHTT-------EM-------------------------
+-------------GGRTVNFPRSCLHCETPACVIVCPTGASYKRASDGIVLVDEDKCIGC
+KLCSWACPYGAREFDTDVGVMKKCTLCVDR-----------IYNENLAEED-RVPACVAA
+CPTSARHFGDLGDPSSAVSQLVDERGGVDLMPE-LGYRPTNKYLPPRAQTQRA------A
+--------------------------S---VPAP---ALGPVRAE--------------G
+G-FLGWVDRMLSH-----------------------------------------------
+--
+>mesp:C1M53_24610 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTSLP---A-PTAKKLGLVIDLDVCVGCHACVVNCKEWNTGGYGAALSDQ
+EPYGADVS----GAWLNRVHSFEVVPEGGEIVGEAG------------------------
+-------------DARIVHFPKSCLHCEDAPCVTVCPTGASYKRAEDGIVLVDEEKCIGC
+GLCAWSCPYGAREMDLAAGVMKKCTLCIDR-----------IYNETMEEVD-RQPACVRT
+CPANARHFGDLGDPSSTVSIMVAERGGIDLMPE-QGTRPVNKYLPPRPRKPLA------A
+--------------------------S---AGQM---ARGEDTSGA-------------T
+G-FFAWLDGMLDRI----------------------------------------------
+--
+>hoe:IMCC20628_04119 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase subunit (A)
+------------------------------------------------------------
+----------MTSLP---A-STDKRLGLVIDLDTCVGCHACAVSCKEWNTSAGASPLSDV
+DAYGADVS----GAWLNRIHTFEVTP-------ENA------------------------
+-------------PAQIVHFPKSCLHCDDAPCVTVCPTGASYKRSADGIVLVDEDMCIGC
+GLCAWACPYGAREMDPVENVMKKCTLCVDR-----------IYSETLAEED-RIPACVRT
+CPSSARHFGDFNDPESNVSQLVAERGGIDLMPE-MGTSPVNKYLPPRPKIHSQ------P
+A---------------------APLAN---VASA---RVPAPVPKA-------------D
+G-FLGWLDAALDKLG---------------------------------------------
+--
+>aak:AA2016_3065 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTSLP---SLPTPKKLGLVIDLDVCVGCHACVISCKEWNTGGYGAALSDQ
+DPYGADVS----GTFLNRIHTFEVVPEGGQVIGEAG------------------------
+-------------EARIVHFPKSCLHCEDAPCVTVCPTGASYKRAEDGIVLVDESKCIGC
+GLCAWSCAYGAREMDLAAGVMKKCTLCIDR-----------IYNETLKEVD-RVPSCVRT
+CPANARHFGDLGDASSEVSRMVAERGGYDLMPE-QGTRPTNKYLPPRPLKPLA------A
+--------------------------S---AGSA---VLAENTDGA-------------K
+G-FFAWLDGMLDRI----------------------------------------------
+--
+>amih:CO731_03035 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ttrB; Tetrathionate reductase electron transport protein (A)
+------------------------------------------------------------
+----------MTLLP---SSPTPRKLGLVIDLDVCVGCHACVISCKEWNTGGYGAALSDQ
+DPYGADVS----GTFLNRIHTFEVLPEGGQVIGEAG------------------------
+-------------EARIVHFPKSCLHCEDAPCVTVCPTGASYKRAEDGIVLVDESKCIGC
+GLCAWSCAYGAREMDLAAGVMKKCTLCVDR-----------VYNETLKEID-RVPSCVRT
+CPANARHYGDLGDPTSDVSRMVAERGGYDLMPE-QGTRPTNKYLPPRARKPLA------A
+--------------------------S---AGSA---VLAENTDGA-------------K
+G-FFAWLDGMLDRI----------------------------------------------
+--
+>pht:BLM14_05650 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTSLP---QNRTAKRLGLVIDLDVCVGCHACVISCKEWNTGGYGNALSDQ
+DPYGEDVS----GTFLNRIHSFEVVPEGGKIIGEAG------------------------
+-------------DARVVHFPKSCLHCEDAPCVTVCPTGASYKRAEDGIVLVDEDKCIGC
+GLCAWACAYGAREMDLAAGVMKKCTLCVDR-----------IYNETLKQED-RAPSCVRT
+CPVNARHFGDLGDPNSDVSIMVAERGGFDLMPE-QETRPTNKYLPPRPRTSLS------N
+--------------------------S---VPMI---PLAENTEGA-------------H
+G-FFAWLDKTLDRI----------------------------------------------
+--
+>fil:BN1229_v1_3567 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) DMSO reductase chain B (A)
+------------------------------------------------------------
+----------MTMLP---E-TTERKLGLVIDLDTCVGCQACATSCKEWNTGGYSAPLSDQ
+DPYGADPH----GAWLNRIHAYEVDD-------GA-------------------------
+-------------EGRTVHFPRSCLHCETPACVTVCPTGASYKRDEDGIVLVNPDTCIGC
+KLCSWACPYGAREYDYAHGVMKKCTLCVDR-----------IYNEHLAEED-RIPACVRA
+CPTGARHFGDLGDPNSDVSQLVAERGGYDLLPE-MNYKPVNKYLPPRPKRNSA------T
+--------------------------S---TQSY---TAPPPAKTD--------G-SVTE
+R-LFAWADQMLSR-----------------------------------------------
+--
+>fiy:BN1229_v1_2357 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) DMSO reductase chain B (A)
+------------------------------------------------------------
+----------MTMLP---E-TTERKLGLVIDLDTCVGCQACATSCKEWNTGGYSAPLSDQ
+DPYGADPH----GAWLNRIHAYEVDD-------GA-------------------------
+-------------EGRTVHFPRSCLHCETPACVTVCPTGASYKRDEDGIVLVNPDTCIGC
+KLCSWACPYGAREYDYAHGVMKKCTLCVDR-----------IYNEHLAEED-RIPACVRA
+CPTGARHFGDLGDPNSDVSQLVAERGGYDLLPE-MNYKPVNKYLPPRPKRNSA------T
+--------------------------S---TQSY---TAPPPAKTD--------G-SVTE
+R-LFAWADQMLSR-----------------------------------------------
+--
+>rhz:RHPLAN_04090 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) DMSO reductase subunit B (A)
+------------------------------------------------------------
+----------MTSLP---E-QTTKKLGLVIDLDTCVGCHACATSCKEWNASGYPKPLTDQ
+DAHGADPH----GSWLNRVHSYEVGT-------GA-------------------------
+-------------QSRTVHFPRSCLHCETPACVTVCPTGASYKRASDGIVLVNPDTCIGC
+KLCSWACPYGAREYDYDDGTMKKCTLCVDR-----------IYNETFAPED-RIPACVRA
+CPTGARHFGDLGDPSSAVSELVKERQGFDLLPE-MGFKPVNKYLPPRPRRDQT------A
+--------------------------A---LPQA---PAEQPVTSS--------G-SLAD
+R-FFAWADRTLSR-----------------------------------------------
+--
+>mmed:Mame_01877 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ttrB_1; Tetrathionate reductase electron transport protein (A)
+------------------------------------------------------------
+----------MTCLP---E-KTDRKLGLAIDLDTCVGCNACVTSCKEWNAGGHMAPLTDL
+NPYADKVD----GVFFNRVHTYEQDT-------PK-------------------------
+-------------GGSTIHFPRSCLHCETPACVTVCPTGASYKRASDGIVLVDEDKCIGC
+KLCSWACPYGAREFDVDVGVMKKCTLCVDR-----------IYNENLAEED-RVPACVAA
+CPTGARHFGDFGDPDSAISKLSEERGGVALMPE-LGYNPTNRYLPPRPRRDAA------T
+--------------------------A---TDAL---PLEDASPE--------------G
+G-FLGWVDRMLSR-----------------------------------------------
+--
+>rbm:TEF_05310 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTGLP---E-STDKKLGLVIDLDTCVGCHACAVNCKEWNTGGDLVPLADA
+DPYGAAVS----GAWLNRIHSFECRQ-------GE-------------------------
+-------------DTRLVHFPKSCLHCDDAPCVTVCPTGASLKRAEDGIVLVDEDRCMGC
+GLCAWACPYGAREMDPAAGVMKKCTLCVDR-----------IYSEDLPEED-RIPACVRT
+CPANARHFGDLADPDSDVSRLVAERGGIDLMAE-MGTRPVNKYLPPRRRETPP------P
+------------------------------VPAP-----AETGEGL-------------T
+G-FWKWLDGALEKLG---------------------------------------------
+--
+>sil:SPO3558 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) soeB; Sulfite dehydrogenase iron-sulfur cluster-binding subunit SoeB; cytosolic protein (A)
+MPRKFVEFSCVCPWL--LERD---------------------------------------
+----------MTELP---Q-KTDRKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGADPS----GTFLNRVHSYEVQP-------PEG------------------------
+-------------HAQLVHFPKSCLHCEDAPCVTVCPTGASYKRSEDGIVLVNESDCIGC
+GLCAWACPYGARELDLAEGVMKKCTLCVDR-----------IYNENLPEED-RVPSCVRT
+CPAGARHFGDLGDPDSAVSHLVAERGGMDLMPE-MGTRPVNKYLPPRPKDQIE------A
+------------------------QID---ILAP---LLAPVADEP-------------K
+G-FMAWLDKALEKL----------------------------------------------
+--
+>rua:D1823_17095 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+----------MTQLP---N-STDRKMGLVIDLDTCVGCHACVVSCKGWNTENYGAPLSDQ
+DAYGANPS----GTFLNRVHSYEVQP-------ADG------------------------
+-------------HAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNEIDCIGC
+GLCAWSCPYGARELDMAEGVMKKCTLCVDR-----------IYNENLPEVD-RIPSCVRT
+CPAGARHFGDLGDPDSDVSQLVAERGGMDLMPE-MGTKPVNKYLPPRPKDTVE------D
+------------------------QID---ILAP---LLAPIADEP-------------K
+G-FLGWLDKTLEKL----------------------------------------------
+--
+>rsq:Rsph17025_0768 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin, iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------M---------TGRRKLALVIDLDTCVGCHACTIACKGWHARDPATVLGDR
+DSHGAAPE----GAFLTRVHCYEIEP-------VTG------------------------
+-------------PAQILHFPRVCQHCEDPPCVPVCPTGASQLRP-DGVVAIDDARCLGC
+GLCAWACPYGARELDPVAGVMRKCTLCLDL-----------PPDHSRPEDD-RLPACVRA
+CPTDARQAGDLGDPESALSRLVAERGGFDLLPE-LGTRPVGRYLPPRPKDAAP------A
+--------------------------------VP---PLSPIAPG--------------Q
+G-VRGWLDRLTGGR----------------------------------------------
+--
+>rbl:B6K69_03555 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTCLP---G-KVDRKLGLVIDLDTCVGCQACVTACKGWNDQGYGVPLSDQ
+DAYGAAPS----GVFLNRVHSYQVTP-------DEG------------------------
+-------------PAAIVNFPRSCLHCDNAPCVTVCPTGASYKRAEDGIVLVNEDACIGC
+GLCAWACPYGARELDAAAGVMKKCTLCVDR-----------IYNDNLPEED-RMPACVRT
+CPTGARHYGDLSDPDSAVSRLVADRGGYALMPE-METQPVNRYLPPRRKGAVE------A
+--------------------------------GP---LTPLVDVQA-------------T
+G-FAGWLDRVLGKI----------------------------------------------
+--
+>jan:Jann_1442 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding protein (A)
+------------------------------------------------------------
+----------MTQLP---T-STQKKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DAYGANPT----GTFLNRVHSYEVQPLATST-KPHP------------------------
+-------------AAQTIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNETDCIGC
+GLCAWACPYGARELDQDEGVMKKCTLCVDR-----------IYNENLEEVD-RVPSCVRT
+CPAGARHFGDLGDPDSDVSILVKDRGGIDLMPE-QGTKPVNQYLPPRPKDDLP-------
+------------------------EFD---VLAP---YLEPVTETP-------------G
+G-FIGWLDRALEKI----------------------------------------------
+--
+>rde:RD1_0974 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S binding domain protein (A)
+------------------------------------------------------------
+----------MTTLP---A-KTDKKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+NAYGADNS----GTFLNRVHSYEVQP-------DVG------------------------
+-------------AAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGARELDQAEGVMKKCTLCVDR-----------IYNENLPEED-REPACVRT
+CPSNARHFGDLGDPDSAVSQLVAERGGMDLMPE-QGTKPVNQYLPPRPKDTLP------D
+A---------------------GHEFD---VLAP---FLEPIATEP-------------K
+G-FLSWLDKTLEKF----------------------------------------------
+--
+>rli:RLO149_c001830 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) anaerobic dimethylsulfoxide reductase chain B-like protein (A)
+------------------------------------------------------------
+----------MTTLP---A-KTDKKLGLVIDLDTCVGCHACVISCKGWNTEYYGAPLSDQ
+NAYGADNS----GTFLNRVHSYEVQP-------DVG------------------------
+-------------AAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGARELDQAEGVMKKCTLCVDR-----------IYNENLPEED-REPACVRT
+CPSNARHFGDLGDPDSAVSQLVAERGGMDLMPE-QGTKPVNQYLPPRPKDTLP------D
+A---------------------GPEFD---VLAP---FLEPIATEP-------------K
+G-FLSWLDKTLEKL----------------------------------------------
+--
+>dsh:Dshi_1237 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) dmsB; 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------MTALP---S-HTEKKLGLVIDLDTCVGCHACVVACKGWNDQAYGAPLSDQ
+DPYGADPT----GSFLNRVHSYEVTP-------ASG------------------------
+-------------PAQLVHFPKSCLHCEDAPCVTVCPTGASYKRAEDGIVLVNEDACIGC
+GLCAWACPYGAREMDAAAGVMKKCTLCVDR-----------IYNEALPEED-RQPACVRT
+CPAGARHFGDLGDPDSEVSQLVAARGGVDLMPE-QGTKPVNKYLPPRPRDEVP-------
+------------------------EFD---VLAP---YLEPVATEP-------------Q
+G-FLGWLDRTLDRI----------------------------------------------
+--
+>pga:PGA1_c28890 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) polysulfide reductase chain B-like protein (A)
+------------------------------------------------------------
+----------MTELP---T-KTDRKMGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+NAYGADPS----GTFLNRVHSYEVQPSPCAS-QPNP------------------------
+-------------AAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESNCIGC
+GLCAWSCPYGARELDLAEGVMKKCTLCVDR-----------IYNENLEEVD-RVPSCVRT
+CPAGARHFGDLGDPDSDVSKLVAERGGMDLMPE-MGTKPVNKYLPPRPKDQIE------D
+------------------------QID---ILAP---LLAPVAEDP-------------K
+G-FLGWLDKALDKLPGQTSGGAS-------------------------------------
+--
+>pgl:PGA2_c26820 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) polysulfide reductase chain B-like protein (A)
+------------------------------------------------------------
+----------MTELP---T-RTDRKMGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+NAYGADPS----GTFLNRVHSYEVQPSPCAS-QPNP------------------------
+-------------AAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNEDNCIGC
+GLCAWSCPYGARELDLAEGVMKKCTLCVDR-----------IYNENLEEVD-RVPSCVRT
+CPAGARHFGDLGDPDSDVSKLVAARGGMDLMPE-MGTKPVNKYLPPRPKDQIE------D
+------------------------QID---ILAP---LLAPVAEDP-------------K
+G-FLGWLDKALDKLPGQTSGGAS-------------------------------------
+--
+>pgd:Gal_00540 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase component 1 (A)
+------------------------------------------------------------
+----------MTELP---T-KTDRKMGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+NAYGADPS----GTFLNRVHSYEVQPSPCAS-QPNP------------------------
+-------------AAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESNCIGC
+GLCAWSCPYGARELDLAEGVMKKCTLCVDR-----------IYNENLPEVD-RVPSCVRT
+CPAGARHFGDLGDPDSDVSKLVAERGGMDLMPE-MGTKPVNKYLPPRPKDQIE------D
+------------------------QID---ILAP---LLAPVAEEP-------------K
+G-FLGWLDKALDKLPGNSAEETS-------------------------------------
+--
+>php:PhaeoP97_00616 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) polysulfide reductase chain B-like protein (A)
+------------------------------------------------------------
+----------MTELP---T-RTDRKMGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+NAYGADPS----GTFLNRVHSYEVQPSPCAS-QPNP------------------------
+-------------AAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESNCIGC
+GLCAWSCPYGARELDLAEGVMKKCTLCVDR-----------IYNENLEEVD-RVPSCVRT
+CPAGARHFGDLGDPDSDVSKLVAERGGMDLMPE-MGTRPVNKYLPPRPKDQIE------D
+------------------------QID---ILAP---LLAPVAEDP-------------K
+G-FLGWLDKALDKLPGQTSGGAS-------------------------------------
+--
+>ppic:PhaeoP14_02661 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) polysulfide reductase chain B-like protein (A)
+M------FS----WFRNLHRGY--------------------------------------
+---------AMTELP---T-QTDRKMGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+NAYGADPS----GTFLNRVHSYEVQPSRCAS-QPNP------------------------
+-------------AAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESNCIGC
+GLCAWSCPYGARELDLAEGVMKKCTLCVDR-----------IYNENLEEVD-RVPSCVRT
+CPAGARHFGDLGDPDSDVSKLVAERGGMDLMPE-MGTKPVNKYLPPRPKDQIE------D
+------------------------QIN---ILAP---LLAPVAEEP-------------K
+G-FLGWLDKALDKLPGNSAEETS-------------------------------------
+--
+>phq:D1820_09145 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+----------MTELP---T-KTDRKMGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+NAYGADPS----GTFLNRVHSYEVQPSPCAS-QPNP------------------------
+-------------AAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESNCIGC
+GLCAWSCPYGARELDLAEGVMKKCTLCVDR-----------IYNENLEEVD-RVPSCVRT
+CPAGARHFGDLGDPDSDVSKLVAERGGMDLMPE-MGTKPVNKYLPPRPKDQIE------D
+------------------------QID---ILAP---LLAPVAEEP-------------K
+G-FLGWLDKALDKLPGHSEGGSN-------------------------------------
+--
+>oat:OAN307_c06180 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) hypothetical protein (A)
+------------------------------------------------------------
+----------MTTLP---T-STAKKLGLVIDLDTCVGCHACVISCKGWNTENYGEPLSDQ
+DPYGADPT----GTFLNRVHSYEIQPPDLGL--GAA------------------------
+-------------PAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNEQDCIGC
+GLCAWACPYGAREMDAEAKVMKKCTLCVDR-----------IYNENLPEID-REPACVRT
+CPSNARHFGDFADPESNVSKLTAERGGMDLMPE-MGTKPVNKYLPPRVKDRDQ------S
+-----------------------QDVD---ILAP---FLDPIATET-------------T
+G-FLGWLDKALDAMPSSSNGTSKT----------------G-GKN---------------
+--
+>oar:OA238_c35920 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) anaerobic dimethylsulfoxide reductase chain B-like protein (A)
+------------------------------------------------------------
+----------MTTLP---T-STAKKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGENPT----GTFLNRVHSYEIQPPDLGQ--GAA------------------------
+-------------PAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNEQDCIGC
+GLCAWACPYGAREMDAEAKVMKKCTLCVDR-----------IYNENLPERD-REPACVRT
+CPSNARHFGDFADPDSNVSKLTAERGGMDLMPE-MGTKPVNKYLPPRVKDRDR------S
+-----------------------QDVD---ILAP---FLEPIATET-------------T
+G-FLGWLDKALESMPGSSKGNTK-----------------G-GSN---------------
+--
+>otm:OSB_27990 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ttrB; Tetrathionate reductase subunit B precursor (A)
+------------------------------------------------------------
+----------MTTLP---T-STDRKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGEDPT----GTFLNRVHSYEIQP-------KEA------------------------
+-------------PAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNEQDCIGC
+GLCAWACPYGAREMDQEEKVMKKCTLCVDR-----------IYNENLPEED-REPACVRT
+CPAGARHFGDFADPDSNVSILTAERGGMDLMPE-MGTKPVNKYLPPRPKDRDR------S
+-----------------------EDVD---ILAP---FLEPVATET-------------T
+G-FLGWLDKALDAMPGSSKGDKN-------------------------------------
+--
+>lmd:METH_14920 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTELP---A-KTDRKMGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGSDPS----GTFLNRVHSYEVKPTPCSS-QPDP------------------------
+-------------AAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNEDHCIGC
+GLCAWSCPYGARELDLAAGVMKKCTLCVDR-----------IYNENLPEVD-RVPSCVRT
+CPAGARHFGDLGDPDSDVSKLVAERGGIDLMPE-MGTKPVNKYLPPRPKDTIE------D
+------------------------EID---ILAP---LLAPIAEEP-------------Q
+G-FLGWLDKALDKIPGQSSGTSS-----------------G-GAN---------------
+--
+>lej:ETW24_16540 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+----------MTELP---A-KTDRKMGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGSDPS----GTFLNRVHSYEVKPSPCSS-QPDP------------------------
+-------------AAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNEDHCIGC
+GLCAWSCPYGARELDLAAGVMKKCTLCVDR-----------IYNENLPEVD-RVPSCVRT
+CPAGARHFGDLGDPGSDVSKLVAERGGMDLMPE-MGTKPVNKYLPPRPKDTIE------E
+------------------------EID---ILAP---LLAPVAEEP-------------Q
+G-FLGWLDKALDKIPGQSSGRSS-----------------G-GAN---------------
+--
+>ptp:RCA23_c01660 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) dmsB; DMSO reductase chain B (A)
+------------------------------------------------------------
+----------MTTLP---E-TSAKKLGLVIDLDTCVGCHACVVSCKGWNTENYGAALSDQ
+DPYGADPS----GTFLNRVHSYEVQP-------ETG------------------------
+-------------PAQLIHFPKSCLHCEDAPCVTVCPTGASYKRSEDGIVLVNEDACIGC
+GLCAWACPYGAREMDQAAGVMKKCTLCVDR-----------IYNENLPEED-RVPSCVRT
+CPSGARHFGDLGDESSEVSQLVAARGGMDLMPE-LGTKPVNKYLPPRPKDVPA-------
+------------------------DLD---ILAP---YLEPVSGTQ-------------K
+G-FLGWLDKALEKL----------------------------------------------
+--
+>malg:MALG_01803 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase component 1 (A)
+------------------------------------------------------------
+----------MTTLP---E-MTDKSLGLVIDLDICVGCHACVTSCKEWNTGGYSAPLTDQ
+EPYGADPH----GAFLNRVHSYEVDN-------DH-------------------------
+-------------WKGTVHFPRSCLHCETPDCVTVCPTGASYKREEDGIVLVNPDTCIGC
+KLCSWACPYGAREYDYDEGVMKKCTLCVDR-----------IYNETIPEED-RVPACVKA
+CPTGARAFGDLADPNSAVSQNVAARDGFNLLDE-FGYKPVNKYLPPRKASDRT------P
+--------------------------------QI---AAEPQAEAT--------G-SALE
+K-LFAWADRALSR-----------------------------------------------
+--
+>rhc:RGUI_4093 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+----------MTSLP---K-TTGRKLGLAIDLDICVGCQACVTSCKEWNTGGYSAPLSDH
+DPYGADPS----GAWLNRVHSFEVEA-------DG-------------------------
+-------------WSRTLHFPRSCLHCETPDCVTVCPTGASFKREEDGIVLVNPDTCIGC
+KLCSWACPYGAREYDHDDGVMKKCTLCVDR-----------IYNETIPEED-RIPACVRA
+CPTGARAFGDYSDPTSAVCAAAEDRGGVSLLEA-FGYKPVNRYLPPRHGPTPQ-LRHHQP
+GHP-----------------ASADAAE---RVAP--LSASPAPQPD--------KTVTLE
+K-FFAWVDRALSN-----------------------------------------------
+--
+>hat:RC74_03955 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTALP---Q-KTERKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DAYGADPQ----GTFLNRVHTFEVQP-------EVG------------------------
+-------------TAKTVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNEDSCIGC
+GLCAWACPYGARELDKAAGVMKKCTLCVDR-----------IYNENLPEED-REPACVRT
+CPAGARHFGDFADETSAVSQLVAERGGFDLMPE-MGTKPVNKYLPPRPKDTGT-------
+------------------------EID---ILAP---FLTPIAVEP-------------K
+G-FLGWLDKTLEKL-------------------------------------------V--
+--
+>labr:CHH27_20715 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTQLP---D-RTEKKLGLAIDLDTCVGCHACVISCKGWNTENYGAPLSDI
+DAYGGDPV----GTFLNRVHSYEVQP-------ASG------------------------
+-------------AAQTVHFPKSCLHCDNAPCVTVCPTGASYKRSEDGIVLVNEDACIGC
+GLCAWACPYGARELDQAAGVMKKCTLCIDR-----------IYNENLEEVD-RVPACVRT
+CPAGARHFGDFADPNSNVSRLVAERGGIDLMPE-QGTQPVNKYLPPRPKDRLV------D
+------------------------RAE---TDA----HMKPVAETP-------------K
+G-FLAWLDKTLEAL----------------------------------------------
+--
+>yan:AYJ57_07160 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTDHP---D-HTHRQLGLVIDLDTCVGCHACVVACKGWNTQSQPSPLSDQ
+DPYGADPS----GTFLNRVHSYEVTP-------EAG------------------------
+-------------PTQLVHFPKSCLHCADAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGAREMDPAAGVMKKCTLCVDR-----------IYNETLPEED-REPACVRT
+CPAGARHFGDLADPESEVSLLVEERGGIELMPE-QGTKPVNRYLPPRPRDAWQ------G
+------------------------EVD---VLAP---FLAPVAEEP-------------R
+G-LLGWIDRTLARL----------------------------------------------
+--
+>ypac:CEW88_00075 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTNLP---S-HTERQLGLVIDLDTCVGCHACVVACKGWNTQSQPSPLSDQ
+DPHGAAPS----GTFLNRVHAYEVVP-------QSG------------------------
+-------------PAQVVHFPKSCLHCADAPCVTVCPTGASFKRIEDGIVLVNEAECIGC
+GLCAWACPYGAREMDMAEGVMKKCTLCVDR-----------IYNETLPEED-RVPACVRT
+CPAGARHFGDLSDPESAVSLLVEARGGMDLMPE-QGTRPANKYLPPRPRDAWQ------D
+------------------------EVD---VLAP---WLEPVAEEP-------------R
+G-LLGWIDRTLARL----------------------------------------------
+--
+>suam:BOO69_01235 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTSLP---E-RTEKKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DAYGGDPS----GTFLNRVHSYEVQP-------EEG------------------------
+-------------HAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGAREMDAEEKVMKKCTLCVDR-----------IYNENLPEVD-RTPACVRT
+CPAGARHFGDLGDPESAVSRLVAERGGVDLMPE-QGTKPVNKYLPPRPKDKMP-------
+------------------------EID---ILAP---YLEPVAEEP-------------K
+G-FLGWLDKALEKL----------------------------------------------
+--
+>spse:SULPSESMR1_03477 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ttrB; tetrathionate reductase subunit B (A)
+------------------------------------------------------------
+----------MTQLP---A-NTERKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGSAPS----GTFLNRVHSYEVQPLATSS-KVQP------------------------
+-------------PAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGAREKDEAEGVMKKCTLCVDR-----------IYNENLEEVD-RVPTCVRT
+CPSGARHFGDFADPDSHVSRLTAERGGMDLMPE-QGTRPVNKYLPPRPKDALP-------
+------------------------EID---VLAP---YLAPVDETP-------------G
+G-FLGWLDKTLEKL----------------------------------------------
+--
+>sulz:C1J03_21170 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTQLP---T-STAKKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGADPS----GTFLNRVHSYEVQP-------PVG------------------------
+-------------EAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGAREMDQAEGVMKKCTLCVDR-----------IYNENLPEVD-RVPTCVRT
+CPSGARHFGDLGDPYSDVSILVANRGGVDLMPE-QGTKPVNKYLPPRPKDTLS------G
+T---------------------DEQLD---ILAP---FLEPIDTEP-------------K
+G-FLGWLDKTLEKL----------------------------------------------
+--
+>suli:C1J05_19105 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTELP---T-RTEKKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGADPS----GTFLNRVHSYEVQP-------ATG------------------------
+-------------PAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGAREMDAAAGVMKKCTLCVDR-----------IYNENLPEDD-RQPACVRT
+CPSNARHFGDLGDPDSEVSKLVADRGGMDLMPE-QGTKPVNKYLPPRPKDSYE-------
+------------------------QFD---VLAP---FLDPVIEEP-------------K
+G-FLGWLDKTLEKL----------------------------------------------
+--
+>suld:B5M07_15845 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTTLP---Q-QTDRKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DAYGADPS----GTFLNRVHSYEVQP-------EAG------------------------
+-------------AAQLVHFPKSCLHCDDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGAREMDQAAGVMKKCTLCVDR-----------IYNENLPEED-RQPACVRT
+CPAGARHFGDLGDPESAVSQLVAERGGVDLMPE-QGTKPVNKYLPPRPRDQLQ------A
+PE-------------------DSGDID---VLAP---FLAPIDSGP-------------K
+G-FLGWLDRTLEKL----------------------------------------------
+--
+>tpro:Ga0080559_TMP2009 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase subunit (A)
+------------------------------------------------------------
+----------MTALP---D-RTDRKLGLVIDLDTCVGCHACVVACKGWNDQGYGAPLSDQ
+EPYGADPS----GTFLNRVHSYEIKP-------ATG------------------------
+-------------GAQHVHFPKSCLHCEDAPCVPVCPTGASYKRAEDGIVLVNEDACIGC
+GLCAWACPYGARELDLAAGVMKKCTLCVDR-----------IYNEALPEED-REPACVRT
+CPANARHFGDLGDPDSAVSQLVAERGGIDLMPE-QGAKPVNKYLPPRPRDAWE------G
+------------------------EAD---VLAP---YLALVAEEP-------------Q
+G-FLGWLDRTLGKI----------------------------------------------
+--
+>tom:BWR18_14660 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTTLP---T-STDRKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLADT
+DAYGSDPS----GTFLNRVHSYEVQP-------AQG------------------------
+-------------EAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGAREMDAVEKVMKKCTLCVDR-----------IYNENLPEED-REPACVRT
+CPAGARHFGDFADPDSNVSKLTAERGGMDLMPE-QGTKPVNKYLPPRPKDTLS------E
+G---------------------AGDID---ILAP---YLEPVAQEA-------------K
+G-FLGWLDKTLEKL----------------------------------------------
+--
+>paby:Ga0080574_TMP219 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase subunit (A)
+------------------------------------------------------------
+----------M-----------SAKWTLTVDLDLCVNCHNCVLATKDEHIGN------DF
+PGYSAAQS--GAGVDTIRIDKHQRGS-------GT-------------------------
+-------------QVELTYVPRMCSHCDDAPCLKADSTGALRKRA-DGIVLLDPEKAHAP
+ELEA-LCPFGMIRRDAGTGAAHLWS-----------------FDAHLLDAGWEMPRAVQA
+CPTSALQCAKLDN--DALAQRVA-RDGLEGFPGMEAAKPRVYYKNMRRLTHAL-V----A
+GTVLQ---------------ETDGRPD---CAAGITVALHEDGKERARTVTNGFGEFAFA
+E-IPPQADRIELRLS----TPD-------GAEKTVPL-------------ELSHPHPVEI
+RL
+>paby:Ga0080574_TMP2154 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase subunit (A)
+------------------------------------------------------------
+----------MTDLP---Q-HSEKKLGLVIDLDTCVGCHACVVACKGWNDQAYGAPLSDS
+EPYGADPS----GAFLNRVHSYEVLP-------ETG------------------------
+-------------PAQHVHFPKSCLHCEDAPCVPVCPTGASYKRVEDGIVLVNEDACIGC
+GLCAWACPYGAREMDPSAGVMKKCTLCVDR-----------IYNDALPEED-REPACVRT
+CPANARHFGDLGDPESAVSQLVAERGGIDLMPE-QGTRPVNKYLPPRPRDGWG------G
+------------------------DTD---VLAP---YLEPVAEEP-------------Q
+G-FLGWLDRTLGKL----------------------------------------------
+--
+>rmm:ROSMUCSMR3_02448 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ttrB; tetrathionate reductase subunit B (A)
+------------------------------------------------------------
+----------MTTLP---A-STTRKLGLVIDLDTCVGCHACVVSCKGWNTENYGAPLSDQ
+QPYGADPS----GTFLNRVHSYEVQPLATYD-MPHP------------------------
+-------------AAQLIHFPKSCLHCDDAPCVTVCPTGASYKRVEDGIVLVNETDCIGC
+GLCAWACPYGAREMDQAEGVMKKCTLCVDR-----------IYNENLPEVD-RVPACVRT
+CPAGARHFGDFADPESNVSKLTAERGGLDLMPE-QGTKPVNKYLPPRPKDRLD------Q
+PK-------------------PVGEID---ILAP---FLAPVIEEP-------------K
+G-FLGWLDKTLEKL----------------------------------------------
+--
+>rok:RAK1035_0735 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+----------MTTLP---A-STTRKLGLVIDLDTCVGCHACVVSCKGWNTENYGAPLSDQ
+QPYGADPS----GTFLNRVHSYEVQPLATSA-MPHP------------------------
+-------------AAQLIHFPKSCLHCDDAPCVTVCPTGASYKRVEDGIVLVNETDCIGC
+GLCAWACPYGAREMDQAEGVMKKCTLCVDR-----------IYNENLPEVD-RVPACVRT
+CPAGARHFGDFADPESNVSKLTAERGGLDLMPE-QGTKPVNKYLPPRPKDRLD------Q
+PK-------------------PVGEID---ILAP---FLAPVIEEP-------------K
+G-FIGWLDKTLEKL----------------------------------------------
+--
+>lvs:LOKVESSMR4R_02325 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ttrB; tetrathionate reductase subunit B (A)
+------------------------------------------------------------
+----------MTQLP---A-STAKKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DAYGADPS----GTFLNRVHSYEVQP-------EMG------------------------
+-------------SAQLIHFPKSCLHCDDAPCVTVCPTGASYKRAEDGIVLVNESACIGC
+SLCAWACPYGARELDAKAGVMKKCTLCVDR-----------IYNENLPEED-REPACVRT
+CPAGARHFGDLGDETSDVSQLVAARGGFDLMPE-QGTKPVNKYLPPRPKDVMP-------
+------------------------DYD---VLAP---FLEPVATDG-------------K
+G-FAHWLDKALSALPGGAK-----------------------------------------
+--
+>aht:ANTHELSMS3_00852 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) nitrate reductase subunit beta (A)
+------------------------------------------------------------
+----------MTVLP---E-TTDRKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+HPYGADPS----GTFLNRVHSYEVQP-------QDA------------------------
+-------------PAQLIHFPKSCLHCEDAPCVTVCPTGASYKRTEDGIVLVNETDCIGC
+GLCAWACPYGARELDLAAGVMKKCTLCVDR-----------IYNENLPEED-RTPACVRT
+CPAGARHFGDLGDPDSDVSQLVAERGGMDLMPE-QGTKPVNKYLPPRPKDAWQ------G
+------------------------EVD---VLAP---FLEPVAEEP-------------K
+G-FLAWIDKTLEKL----------------------------------------------
+--
+>rbg:BG454_17315 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTSLP---P-PSTRKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDM
+DAYGESPE----GTFLNRVHSFEVTR-------DAA------------------------
+-------------PPMVVHFPKSCLHCDDAPCVTVCPTGASYKRVEDGIVLVNETDCIGC
+GLCAWACPYGAREMDGAEKVMKKCTLCVDR-----------IYNDNLPEQD-REPACVRT
+CPAGARHFGDLGDPDSAVSQLVAERGGFDLMPE-QGTRPVNKYLPPRGRDTLQ------M
+-------------------------PD---LASL---CETPSSSGA--------SEAKAA
+G-FLGWLDRALEKL----------------------------------------------
+--
+>sagu:CDO87_10945 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTQLP---G-QTDRTLGLVIDLDTCVGCHACVVACKGWNTQSQPSPLSDS
+DPYGADPS----GTFLNRVHSYEVTP-------EQG------------------------
+-------------TAQLVHFPKSCLHCEDAPCVTVCPTGASYKRTEDGIVLVNESDCIGC
+GLCAWACPYGARELDAAEGVMKKCTLCVDR-----------IYNDNLPEED-RVPACVRT
+CPAGARHFGDLSDPDSPVSLLVVERGGIDLMPE-QGTKPVNKYLPPRPRDTWE------A
+------------------------ETD---VLAP---WLAPVAEEP-------------R
+G-FLGWLDKALDKL----------------------------------------------
+--
+>thas:C6Y53_15130 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTDLP---G-TTDRKLGLVIDLDTCVGCHACVVACKGWNTQNYGAPLSDQ
+APYGDLPS----GTFLNRVHSYEVVP-------DEG------------------------
+-------------AAQLVHFPKSCLHCDDAPCVTVCPTGASYKRAEDGIVLVNESDCIGC
+GLCAWACPYGAREMDAAEGVMKKCTLCVDR-----------IYNDNLPEAD-RIPACVRT
+CPAGARHFGDLGDPDSAVSQLVAERGGFDLMPE-QGTKPVNKYLPPRPKDRLD------E
+------------------------SID---VLAP---LLAPVAEEP-------------R
+G-FIAWLDKALERF----------------------------------------------
+--
+>thaa:CFI11_18030 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTQLP---A-STDKKLGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGGDPT----GTFLNRVHSYEVQP-------EQG------------------------
+-------------PAQLIHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWACPYGAREMDGAEKVMKKCTLCVDR-----------IYNENLSEED-REPACVRT
+CPAGARHFGDLGDPGSAVSQLVAERGGMDLMPE-QGTKPVNKYLPPRPKDTLD------T
+------------------------DID---VLAP---LLQPVAEEP-------------K
+G-FLGWLDKALEKI----------------------------------------------
+--
+>geh:HYN69_11725 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) (Fe-S)-binding protein (A)
+------------------------------------------------------------
+----------MTALP---S-HTEKKLGLVVDLDTCVGCHACVTACKGWNDQGYGAPLSDQ
+NPYGADPS----GTFLNRVHSYSVQP-------EAG------------------------
+-------------PAQTINFPRSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNEDACIGC
+GLCSWACPYGAREMDAAAGVMKKCTLCVDR-----------IYNETLPEED-REPACVRT
+CPTGARHFGDFADPDSKVSRLTAERGGYALMPE-MGTKPVNRYLPPRKKDAPQ------D
+-------------------------AS---LLAP---LLDIKA----------------T
+G-FAGWLDRVLGKIG---------------------------------------------
+--
+>taw:EI545_18700 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+----------MTALP---H-ATDKKLGLVIDLDTCVGCQACVTACKGWNDQGDG--LSDQ
+DAHGADPS----GTFLNRVHSYQVTL-------PDA------------------------
+-------------PPQIVNFPRSCLHCEDAPCVTVCPTGASYKRAEDGIVLVNPDSCIGC
+GLCAWACPYGAREMDADQGVMKKCTLCVDR-----------IYNDTLPEED-REPACVRT
+CPTNARHFGDFADPDSKVSRLVAERGGYDLMPG-MGTKPTNKYLAPRKKGPGE-------
+-------------------------AS---LLAP---LLDIKA----------------T
+G-VAGWLDRMLGKI----------------------------------------------
+--
+>sedi:EBB79_18570 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S dicluster domain-containing protein (A)
+------------------------------------------------------------
+----------MTELP---L-ATTRKMGLVIDLDTCVGCHACVISCKGWNTENYGAPLSDQ
+DPYGGDPS----GTFLNRVHSFEVQPPACDS-QPAP------------------------
+-------------AAQLVHFPKSCLHCEDAPCVTVCPTGASYKRVEDGIVLVNESDCIGC
+GLCAWSCPYGARELDLAAGVMKKCTLCVDR-----------IYNDNLPEED-RIPSCVRT
+CPSGARHFGDLGDPESDVSKLVAEREGFDLMPE-MGTKPVNKYLPPRPKDQIE------D
+------------------------QID---ILAP---LLAPVAEQG-------------D
+G-FLGWLDKALDKLPGGAN-----------------------------------------
+--
+>aep:AMC99_00791 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+----------MTSLP---K-TTARKLGLVVDLDICVGCHACAVNCKEWNTAGKMAPLTDY
+DPYGKKPD----GVWFNRVHTYETTD-------EEG------------------------
+-------------RGQTVHFPRSCLHCEDAPCVTVCPTGASYKREEDGIVLVNENTCIGC
+KLCSWACPYGAREYDEHEGVMKKCTLCVDK-----------IYNENLPEES-RVPACVST
+CPAGARSFGDLGDPDSEVSKLVAAREGYALMPE-QETKPVNRYLPPRPRQRGD------D
+------------------------------GKAPR-MLDHADTSSD--------G----A
+GLIARWVDKMFS------------------------------------------------
+--
+>acr:Acry_2645 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin, iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------MTSLPQ-SQ-PGARRLGLVIDLDTCVGCHACAVNCKEWNTEGHHAPLPDY
+DPHGADPD----GVWFNRIHSYEAKG-------SGG------------------------
+-------------CGKTVNFPRSCLHCENPLCVTVCPTGASYKRAEDGIVLVNTDICIGC
+KLCSWACPYGAREFDEHDGVMKKCTLCIDR-----------IYNESLPEAE-REPACVAT
+CPSRARHFGDLADPGSRVSKLVAERGGVDLMAE-LGYRPTNKYLPPRQTRIET------R
+--------------------------P---VEMP---ASAPGGLG--------------G
+A-LLALVDKVLSR-----------------------------------------------
+--
+>amv:ACMV_29710 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) hypothetical protein (A)
+------------------------------------------------------------
+----------MTSLPQ-IQ-PGAKRLGLVIDLDTCVGCHACAVNCKEWNTEGHHAPLPDY
+DPHGADPD----GVWFNRIHSYEAEG-------SGG------------------------
+-------------CGKTVNFPRSCLHCENPLCVTVCPTGASYKRAEDGIVLVNTDICIGC
+KLCSWACPYGAREFDEHDGVMKKCTLCIDR-----------IYNESLPEAE-REPACVAT
+CPSRARHFGDLADPGSRVSKLVAERGGVDLMAE-LGYRPTNKYLPPRQTRIET------R
+--------------------------P---VEMP---ASAPGGLG--------------G
+A-LLALVDKVLSR-----------------------------------------------
+--
+>mag:amb3542 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase components 1 (A)
+------------------------------------------------------------
+--------------------MSKKQLALVIDLNVCVGCHACVTSCKEWNTSGWAGPLPDL
+NPYGADPN----GVFFNRVQTYECGT-------FP-------------------------
+-------------DTETIHFPKSCLHCEEPPCVPVCPTGASYKREEDGIVLVDYDKCIGC
+KYCSWSCPYGAREFDPVQGVMKKCTLCVDR-----------IYDKTLEEDR-RKPACVLA
+CPASARIFGDINDPNSEAAKAIRDNGGFQLMPE-WGSKPANHYLPRRKTTTTL------H
+-------------------------PD---ELVR---VDNPLKAEGEKPRPAFTT-PTID
+G-ASSW------------------------------------------------------
+--
+>mgy:MGMSRv2__0155 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) dmsB; Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+----------M---------ANEKQLALVIDLNVCVGCHACVTSCKEWNTSGWAGPMPDQ
+QPYGKDPD----GVFFNRVQTFECGT-------FP-------------------------
+-------------NTETVHFPKSCLHCEDPPCVPVCPTGASYKRESDGIVLVDYDKCIGC
+KYCSWNCPYGAREFDEVTGVMKKCTLCVDR-----------IYDQTLEPER-RKPACVLA
+CPASARIFGDIKDPESEASRAIRDNGGYQLMPE-AGTNPANHYLPRRKTNAQV------H
+-------------------------DD---QLQR---ADNPLSREAEPPKFG--G-PTID
+D-ASQW------------------------------------------------------
+--
+>mgry:MSR1_20440 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ttrB_1; Tetrathionate reductase subunit B precursor (A)
+------------------------------------------------------------
+----------M---------ANEKQLALVIDLNVCVGCHACVTSCKEWNTSGWAGPMPDQ
+QPYGKDPD----GVFFNRVQTFECGT-------FP-------------------------
+-------------NTETVHFPKSCLHCEDPPCVPVCPTGASYKRESDGIVLVDYDKCIGC
+KYCSWNCPYGAREFDEVTGVMKKCTLCVDR-----------IYDQTLEPER-RKPACVLA
+CPASARIFGDIKDPESEASRAIRDNGGYQLMPE-AGTNPANHYLPRRKTNAQV------H
+-------------------------DD---QLQR---ADNPLSREAEPPKFG--G-PTID
+D-ASQW------------------------------------------------------
+--
+>magx:XM1_4704 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) dmsB; Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+--------------------MSKKQLALVIDLNVCVGCHACVTSCKEWNTSGWAGPLTDQ
+NPYGADPT----GVFFNRVQTYECGT-------FP-------------------------
+-------------NTETIHFPKSCLHCEEPPCVPVCPTGASYKREEDGIVLVDYDKCIGC
+KYCSWSCPYGAREFDPVQGVMKKCTLCVDR-----------IYDQTIEEAR-RKPACVLA
+CPAGARIFGDVNDPNSEAAQAIRDNGGFQLMPE-WGTRPANHYLPRRKTTTTL------H
+-------------------------PD---ELVR---VDNPLKAEGEKPRPAFTT-PTID
+G-VSSW------------------------------------------------------
+--
+>magn:WV31_16085 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------M---------SNKKQLALVIDLNVCVGCHACVTSCKEWNTSGWAGPLTDQ
+NPYGADPC----GVFFNRVQTYECGT-------FP-------------------------
+-------------NTETIHFPKSCLHCEEPPCVPVCPTGASYKREEDGIVLVDYDKCIGC
+KYCSWSCPYGAREFDPVQGVMKKCTLCVDR-----------IYDQTIEEDR-RKPACVLA
+CPASARIFGDVSDPNSEAARAIRDNGGFQLMPE-WGTKPANHYLPRRKTTNTL------H
+-------------------------AD---ELVR---VDNPLKAEGEKPRPAFTT-PTID
+G-VSSW------------------------------------------------------
+--
+>abs:AZOBR_p480050 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin, iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------MTSLPN-RE-PGAPRLGLVIDLDTCVGCHACAVACKQWNAGGHMAPLTDY
+DAYGSGPD----GVWFNRIHSFEAGT-------GES-----------------GC-----
+-------------ESRTTNFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVNEDLCIGC
+KLCSWACPYGAREFDQDVGVMKKCTLCIDR-----------IHNETLDEAE-RVPACVMV
+CPTSARHFGDLADPTSAVSKLVAERGGYDLMPE-LGYEPTNKYLPPRPRPTLA------L
+-------------------------DE----------RVTRDSAND--------D-LPLH
+G-LLKWADRILAR-----------------------------------------------
+--
+>abq:ABAZ39_29980 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------MTSLPN-RE-PGAPRLGLVIDLDTCVGCHACAVACKQWNAGGHMAPLTDT
+DAYGAGPD----GVWFNRIHSFEAGS-------DQG-----------------GC-----
+-------------GSRTTNFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVNEDLCIGC
+KLCSWACPYGAREFDQDVGVMKKCTLCIDR-----------IHNETLAETE-RVPACVMV
+CPTSARHFGDLADPASAVSKLVAERGGYDLMPE-LGYEPTNKYLPPRPRPTLA------L
+-------------------------DE----------RVTRDSAND--------D-LPLH
+G-LLKWADRILAR-----------------------------------------------
+--
+>abf:AMK58_25705 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------MTSLPN-RE-PGAPRLGLVIDLDTCVGCHACAVACKQWNDGGHMAPLTDY
+DAYGAGPD----GVWFNRIHSFEAGT-------GES-----------------GC-----
+-------------GSRTTNFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVNEDLCIGC
+KLCSWACPYGAREFDQDVGVMKKCTLCIDR-----------IHNETLAESE-RVPACVMV
+CPTSARHFGDLADPASAVSKLVAERGGYDLMPE-LGYEPTNKYLPPRPRPTLT------L
+-------------------------DE----------RVTGDSAND--------D-LPLH
+G-LLKWADRILAR-----------------------------------------------
+--
+>azt:TSH58p_19715 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------MTSLPN-RE-PGAPRLGLVIDLDTCVGCHACAVACKQWNDGGHMAPLTDY
+DAYGAGPD----GVWFNRIHSFEAGT-------GDS-----------------GC-----
+-------------GARTTNFPRSCLHCEQPACVTVCPTGASYKRAEDGIVLVNEDLCIGC
+KLCSWACPYGAREFDQDVGVMKKCTLCIDR-----------IHNETIAESE-RVPACVMV
+CPTSARHFGDLADPSSAVSKLVAERGGYDLMPE-LGYQPTNKYLPPRPRPALA------L
+-------------------------DD----------RVAEDSAND--------D-LPLH
+G-LLKWADRILAR-----------------------------------------------
+--
+>magq:MGMAQ_1845 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) DMSO reductase chain B (A)
+------------------------------------------------------------
+----------MTSLP---EYPSGRRLGLVIDLDICVGCHGCAVHCKEWNTGGHPAPLTDQ
+DAYGADPV----GVWLNRIHTFEAGE-------GD-------------------------
+-------------DCRTIHFPKSCLHCENAQCVTVCPTGASYKREEDGIVLVNEDWCIGC
+KLCSWACPYGAREFDESEGVMKKCTLCVDR-----------IYNEHMQEID-RQPSCVVT
+CPAGARHFGDLGDPRSEVSRLVAERGGYDLMPE-LGYKPTNKYLPPRPRKDRA------R
+--------------------------D---IGAP--RRLVPMGKTE-------------R
+L-LARWLDKLFTR-----------------------------------------------
+--
+>mgm:Mmc1_1800 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin, iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MTQLALVIDLNICVGCHACVTSCKSWNTSGWAGPLTDV
+NPYGEDPH----GTFFNRVQTFEAGT-------FP-------------------------
+-------------DTETIHFPKSCLHCEDAPCVPVCPTEASYKREEDGIVLVDYDKCIGC
+KYCSWNCPYGMREFDPGEKVMKKCTLCVDR-----------IYDVKLPEAE-RKPTCVMA
+CPAGARVFGDIHDPASKASQQIRENGGFQLMPE-LGTQPANHYLPRRRNHAHF------N
+-------------------------EA---DVTR---LDNPMAEEK----------SSL-
+------------------------------------------------------------
+--
+>apb:SAR116_2106 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) DMSO reductase chain B (A)
+------------------------------------------------------------
+----------MTSLP---A-TTKKKLGLVIDLDTCVGCQGCVTSCKEWNTSGYSAPLTDI
+DPYGQDPQ----GAWLNRVHGFELGE-------GL-------------------------
+-------------ESRTVHFPRSCLHCEEPACVTVCPTGASYKREEDGIVLVNPDTCIGC
+KLCSWACPYGAREYDPSHGVMKKCTLCVDR-----------IYNENLEPED-RQPACVRA
+CPTGARHFGDLGDPESDVSQLVAEREGFNLLEE-FGYKPVNKYLPPRKRRDAV------T
+--------------------------S---QPAA---LKETVGASD--------G-TKTE
+K-FFAWADRKLSR-----------------------------------------------
+--
+>acu:Atc_2358 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACAVACKEWNTSGTTGALTDY
+QPYGAKPS----GVWFNRIRHYEIGD-------YP-------------------------
+-------------HNKTVNFPMSCMHCENAECVTVCPTGASYKRAEDGIVLVDQSKCMGC
+NYCSWACPYGARELDRASGTMKKCTLCIDR-----------IYDMEIPEEE-RQPACVLT
+CPAHARMFGDFDDPESPVSRAVRERGGYQLMPE-LNYNPSNHYLPPRVHAPIP------T
+-------------------------EG---MRKK---AA--------------------A
+K-VKAWVNRVVER-----------------------------------------------
+--
+>acu:Atc_1607 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACAVACKEWNTSGTTGALTDY
+QPYGAKPS----GVWFNRIRHYEIGD-------YP-------------------------
+-------------HNKTINFPMSCMHCENAECVTVCPTGASYKRAEDGIVLVDQSKCMGC
+NYCSWACPYGARELDRASGTMKKCTLCIDR-----------IYDMEIPEEE-RQPACVLT
+CPAHARMFGDFDDPESPVSRAVRERGGYQLMPE-LNYNPSNHYLPPRVHAPID------T
+-------------------------ER---MRQK---GL--------------------R
+A-VKDWIHRAVER-----------------------------------------------
+--
+>acz:Acaty_c2201 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACAVACKEWNTSGTTGALTDY
+QPYGAKPS----GVWFNRIRHYEIGD-------YP-------------------------
+-------------HNKTVNFPMSCMHCENAECVTVCPTGASYKRAEDGIVLVDQSKCMGC
+NYCSWACPYGARELDRASGTMKKCTLCIDR-----------IYDMEIPEEE-RQPACVLT
+CPAHARMFGDFDDPESPVSRAVRERGGYQLMPE-LNYNPSNHYLPPRVHAPIP------T
+-------------------------EG---MRKK---AA--------------------A
+K-VKAWVNRVVER-----------------------------------------------
+--
+>acz:Acaty_c1365 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Anaerobic dimethyl sulfoxide reductase chain B (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACAVACKEWNTSGTTGALTDY
+QPYGAKPS----GVWFNRIRHYEIGD-------YP-------------------------
+-------------HNKTINFPMSCMHCENAECVTVCPTGASYKRAEDGIVLVDQSKCMGC
+NYCSWACPYGARELDRASGTMKKCTLCIDR-----------IYDMEIPEEE-RQPACVLT
+CPAHARMFGDFDDPESPVSRAVRERGGYQLMPE-LNYNPSNHYLPPRVHAPID------T
+-------------------------ER---MRQK---GL--------------------R
+A-VKDWIHRAVER-----------------------------------------------
+--
+>afi:Acife_2482 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain-containing protein (A)
+------------------------------------------------------------
+-----------------------MRLGLVIDLDTCVGCHACAVACKEWNTSGTTAPLTDY
+DPYGAKPS----GVWFNRIRHFEVGD-------YP-------------------------
+-------------HNKTINFPMSCMHCENAECVTVCPTGASYKRAEDGIVLVDQNKCMGC
+NYCSWACPYGARELDRVSGTMKKCTLCIDR-----------IYDMEIPEEE-RQPACVLT
+CPAHARMFGDVDDPESPVSRAVRDRGGYQLMPE-LDYNPTNHYLPPRVHAPIP------T
+-------------------------EE---LKKK---AV--------------------R
+K-VKEWVNRVVER-----------------------------------------------
+--
+>sap:Sulac_0104 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain-containing protein (A)
+------------------------------------------------------------
+-----------------------MQLTIVTDLNKCVGCKSCQVSCKEHNTAGSYGPLPDM
+DPY-QDPD----GMWWNRIVMMEAGD-------FP-------------------------
+-------------NTSVLYLPKACMHCYDAPCVPVCPTGASYKRADNGVVLVDYDACIGC
+QLCMWACPYGVREFDEHEGVVKKCTLCIDR-----------IEDESLPESE-RIPACVQS
+CPTHARTFGDLDDPTSQVAKLVAERQGFGLLPE-LGARPAIHYLPRRPAPSVV------H
+-------------------------AE---EVDE---VLE--------------------
+-------ERY--------------------------------------------------
+--
+>aae:aq_1232 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (RefSeq) dmsB1; DMSO reductase subunit B (A)
+------------------------------------------------------------
+----------------------MPQYALVIDLNTCVGCHACATNCKEWNTQAAFGPLSDY
+DPYGREAS----GVWYNRIFTYETGE-------FP-------------------------
+-------------ETQVFHLPKSCLHCQDAPCVPVCPTGASYKREQDGIVLVNYDDCIGC
+KLCSWACPYGCREFDEADKVMKKCTLCIDR-----------IYDETLPPEH-RQPACVLT
+CPARARFFGDIEDPNSEVYKLIKERNGFVLFPD-MGTNPANHYLPRQETRINL-------
+-------------------------EEFEKHILK---PDNPLFLEVMRRHHTSSK----A
+Q-AQETPQEEVTHSEEL---------------------------------------P---
+--
+>hth:HTH_1741 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) sreB; sulfur reductase subunit B (A)
+------------------------------------------------------------
+----------------------MAQFALVIDLNTCVGCHACATNCKEWNTQASFGPLSDF
+DPYGREPQ----GVWYNRIMTYEVGE-------FP-------------------------
+-------------NTQVFHLPKSCLHCQDAPCVPVCPTGASYKREQDGIVLVNYDDCIGC
+KLCSWSCPYGCREFDEADKVMKKCTLCIDR-----------IYDETLPPEH-RKPACVLT
+CPARARFFGDIEDPSSEAYKVIKERNGFVLFPD-MGTNPANHYLPRTETKVHI-------
+-------------------------DE---HLLK---PENPLFLEVVQRHYKGG------
+------------------------------------------------------------
+--
+>hte:Hydth_1723 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) sulfur reductase beta subunit (A)
+------------------------------------------------------------
+----------------------MAQFALVIDLNTCVGCHACATNCKEWNTQASFGPLSDF
+DPYGREPQ----GVWYNRIMTYEVGE-------FP-------------------------
+-------------NTQVFHLPKSCLHCQDAPCVPVCPTGASYKREQDGIVLVNYDDCIGC
+KLCSWSCPYGCREFDEADKVMKKCTLCIDR-----------IYDETLPPEH-RKPACVLT
+CPARARFFGDIEDPSSEAYKVIKERNGFVLFPD-MGTNPANHYLPRTETKVHI-------
+-------------------------DE---HLLK---PENPLFLEVVQRHYKGG------
+------------------------------------------------------------
+--
+>tal:Thal_0839 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MAQFALVIDLNTCVGCHACATNCKEWNTQASFGPLSDF
+DPYGREPE----GVWYNRIMTYEMGE-------FP-------------------------
+-------------NTQVFHLPKSCLHCQDAPCVPVCPTGASYKREQDGIVLVNYDDCIGC
+KLCSWSCPYGCREFDEADKVMKKCTLCIDR-----------IYDESLPPEQ-RKPACVLT
+CPARARFFGDIEDPNSEAYRMIKERNGFVLFPD-MGTNPANHYLPRTETKIHI-------
+-------------------------DE---HLLR---ADNPLFLEVVRRHHVGL------
+------------------------------------------------------------
+--
+>trd:THERU_06645 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) ferredoxin (A)
+------------------------------------------------------------
+----------------------MPQYALVIDLNTCVGCHACATNCKEWNTQASFGPLSDF
+DPYGRNPK----GVWYNRIMTYEMGE-------FP-------------------------
+-------------DTQVFHLPKSCLHCQDAPCVPVCPTGASYKREQDGIVLVNYDDCIGC
+KLCSWACPYGCREFDEADKVMKKCTLCIDR-----------IYDESLPPEH-RKPACVLT
+CPAKARFFGDIEDPNSEAYRMIKERNGFVLFPD-MGTNPANHYLPRTETKVHV-------
+-------------------------DE---HLLE---AENPLFLEVVRRHYKGG------
+------------------------------------------------------------
+--
+>halh:HTSR_1346 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------MA--------VESEHWVFYFDPNRCIGCHACSISCKQFHGRG-----SDT
+DDW-------------RTVTHHQTGT-------YP-------------------------
+-------------DVEDVPLSMSCMHCHDAPCEKVCPTNAIEKRESDGIVTINRDDCIGC
+KYCGWACPFGAPTYGD-EGLMSKCNMCLGQGPGSGADVEDTPKHELEDQ---VEPNCVSD
+CVGEAIKAGPQKEIIEEASQAAAERFRSGAVA--NGRVIVEPLQDSTSAVDGR-------
+---------------------VDGTKE----------VTTPYNAGD--------------
+------------------------------------------------------------
+--
+>hhsr:HSR6_1418 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------MA--------VESEHWVFYFDPNRCIGCHACSISCKQFHGRG-----SDT
+DDW-------------RTVTHHQTGT-------YP-------------------------
+-------------DVEDVPLSMSCMHCHDAPCEKVCPTNAIEKRESDGIVTINRDDCIGC
+KYCGWACPFGAPTYGD-EGLMSKCNMCLGQGPGSGADVEDTPKHELEDQ---VEPNCVSD
+CVGEAIKAGPQKEIIEEASQAAAERFRSGAVA--NGRVIVEPLQDSTSAVDGR-------
+---------------------VDGTKE----------VTTPYNAGD--------------
+------------------------------------------------------------
+--
+>hsu:HLASF_0695 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain-containing protein (A)
+------------------------------------------------------------
+----------MA--------ADTDHWVFYFDPNRCIGCHACTVSCKQYHGRG-----SDA
+DDW-------------RTVTHHEEGT-------YP-------------------------
+-------------DVNDVPISMSCMHCHDAPCEKVCPTNAIEKRESDGIVTIDREKCIGC
+KYCGWACPFGAPTYGD-EGLMSKCNMCLGQGPGAGADADSTAKHKQDGQAA-VQPNCVSD
+CVGGAIKAGPQSEVIREASEAAANRFKSD-----NGRVIVEPFAEGSAAVDST-------
+-----------------------GSSD----------IITPFNAGD--------------
+------------------------------------------------------------
+--
+>aho:Ahos_0234 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) DSMO reductase subunit B (A)
+------------------------------------------------------------
+----------MST-P-----KPLHKLVIITDLNKCFGCNACQLNCKSWHTSSIFGPLTDL
+DPWGAEPF----SLYLMRVIRIEQGT-------YP-------------------------
+-------------NVRTIPIPISCFHCEDAPCVKVCPTGAIYKRRVDGVVVIDYNVCQGF
+KYCITACPYGNIDFDPIEGVSKKCILCVDR-----------LYDENLPEYE-RIPACVRG
+CPAGARIFGDLSDPNSEVSRIVAEYGGFVLGEQ-YGTKPEEEYLPIRGPSKGP------F
+-------------------------RN---EPEL---PLEQRFAER-------------T
+GAIDQAPDKVLQDAQQLGLTPEDLRTYKRNNKNVLPL-----------------------
+--
+>tuz:TUZN_0048 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) sulfur reductase, subunit B (A)
+------------------------------------------------------------
+----------------------MVQLAILTDLSKCFGCAACMLACKEWHSSGCYGPMTDL
+NPWGPEPGKAPWSVFFLRVLHVEVGE-------FP-------------------------
+-------------NTKTFSVPISCFHCRNPACTTVCPTGAIFKRKEDGVVVINYDVCIGC
+RYCENACPYGNITFDPVEGVSKKCTLAIDR-----------IYDESLPEYE-RIPPCVRN
+CPAGARIFGDMDDPNSIIYREAKRRGAVPLGPE-YGTDPPSLYIMPGTPVNVA------G
+-------------------------RD---YQWP---SMTKE--EE----------FAVR
+T-GAADVPKILSKL-----------------KGVKPTGGHCGGGVGGPTGEGT-------
+--
+>ttn:TTX_0047 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) sreB1; sulfur (polysulfide) reductase, iron-sulfur binding subunit B (A)
+------------------------------------------------------------
+----------------------MVQLAILTDLSKCFGCSACMLACKEWHASGCYGPMTDL
+NPWGPEPGKGPWSVFFLRVLHVEVGE-------YP-------------------------
+-------------NTKTFSVPISCFHCRNPACTTVCPTGAIFKRKEDGVVVINYNVCIGC
+RYCENACPYGNITFDPVEGVSKKCTLAIDR-----------IYDESLPEYE-RIPPCVRN
+CPAGARIFGDMDDPDSIIYREAKRRGAVPMGPE-FGTDPPSLYIMPGTPVNVA------G
+-------------------------RD---YQWP---SMTKE--EE----------FAVR
+T-GAADVPKILSKL-----------------KGVKPTGGHCGGGVGGSTGEGQ-------
+--
+>vdi:Vdis_2165 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) 4Fe-4S ferredoxin iron-sulfur binding domain protein (A)
+------------------------------------------------------------
+----------------------MVQLAILTDLSKCFGCNACMLACKEWHSSGCYGPMTDL
+NPWGPEPGKAPWSVFFMRVLQVEVGE-------FP-------------------------
+-------------NTKTFSVPISCFHCRNPACVTVCPTGAIYKRKEDGVVVINYEVCIGC
+RYCENACPYGNIIFDPVEGVSKKCVMAIDR-----------IYDESLPLYE-RIPPCVRN
+CPAGARIFGDMDDPNSIIYRTAVRKGAVPMGPE-FGTDPPSLYIMPGVQTNES------T
+-------------------------R-----------IVTKEEPEE----------FALR
+T-GAADLPTLLQKL-----------------KGVKPTGGHCGGGVGNAKGQGT-------
+--
+>vmo:VMUT_0567 K21308 sulfite dehydrogenase (quinone) subunit SoeB | (GenBank) Fe-S-cluster-containing hydrogenase components 1 (A)
+------------------------------------------------------------
+----------------------MVQLAILTDLSKCFGCNACMLACKEWHSSGCYGPMTDL
+KPWGPEPGKAPWSVFFMRVLQVEVGA-------FP-------------------------
+-------------NTKTFSVPISCFQCKNPACVTVCPTGAIYKRREDGVVVINYEVCIGC
+RYCENACPYGNIIFDPVEGVSKKCVMAIDR-----------VYDESLPLYE-RVPPCVRN
+CPAGARVFGDMDDPNSIVYRTAMRKGAVPMGPE-FGTDPPSLYVMPGVQTNES------T
+-------------------------R-----------IVTSEEPEE----------FALR
+T-GAADLPTLLQKL-----------------KNVKPTGGHCSGGVGNAKGQGT-------
+--

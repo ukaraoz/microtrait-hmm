@@ -1,0 +1,248 @@
+>mer:MMINT_02050 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH-ubiquinone/plastoquinone oxidoreductase chain 6 (A)
+----------MA----------WEILGASIGWDEFFFLFFAIVTIAGAILVL----YSKE
+IVRS---------VMWLALAFMGVAFTYIFLGAEFLALIQILIYVGAVSVLMLFGIMLTK
+RKLLGGDRDE
+>mac:MA_1502 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) fpoJ; F(420)H(2) dehydrogenase, subunit FpoJ (A)
+----------MGP---------VRI---------NRPLALLVSLLFVAVIVTGVFGTSWH
+TVSE---------LPENPADPSNIQGIGMLIFTQYVVPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>mac:MA_1501 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) fpoJ; F(420)H(2) dehydrogenase, subunit FpoJ (A)
+----------MIG---------LETVGAALEM--AVFGLLAFVTVFFAIFVV----IAKD
+VVRA---------GLALIMCMFGVAALYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+RHLGGGSRAD
+>mba:Mbar_A3405 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) F420H2 dehydrogenase subunit (A)
+----------------------MRI---------NRPLAFLVVLLFTAIVVIGAFGTSWN
+TVSE---------LPQSPADQSNIEGIGMLIFTQYVAPFEVLS-------IVLLASLIGA
+IYLAKGEGNR
+>mba:Mbar_A3406 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) F420H2 dehydrogenase subunit J (A)
+----------MIE---------LETIGEALKM--AVFWVLAISTVFFAVFVV----TAKD
+IVRA---------GLALIMCMFGIAALYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+HEIGGEPGED
+>mby:MSBRM_1556 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------LETIGEALKM--AVFWVLAISTVFFAVFVV----TAKD
+IVRA---------GLALIMCMFGIAALYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+HEIGGEPGED
+>mbw:MSBRW_1329 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) hypothetical protein (A)
+----------------------MRI---------NRPLAFLVVLLFTAIVVIGAFGTSWN
+TVSE---------LPQSPADQSNIEGIGMLIFTQYVAPFEVLS-------IVLLASLIGA
+IYLAKGEGNR
+>mbw:MSBRW_1328 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIE---------LETIGEALKM--AVFWVLAISTVFFAVFVV----TAKD
+IVRA---------GLALIMCMFGIAALYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+HEIGGEPGED
+>mbar:MSBR2_0854 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) hypothetical protein (A)
+----------------------MRT---------NRPLAFLVVLLFTAIVVIGAFGTSWN
+TVSE---------LPQNPADQSNIEGIGMLIFTHYVAPFEVLS-------IVLLASLIGA
+IYLAKGEENQ
+>mbar:MSBR2_0853 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------LETIGEALKM--AVFWVLAISTVFFAVFVV----TAKD
+IVRA---------GLALIMCMFGIAALYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+HEIGGEPGED
+>mbak:MSBR3_1280 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRI---------NRLLSFLVALLFTAIVIVGAFGTSWN
+TVSE---------LPQNPADQSNIEGIGMLIFTHYVAPFEVLS-------IVLLASLIGA
+IYLAKGEGNR
+>mbak:MSBR3_1281 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------LETIGSALEM--AVFVILAIATVFFAVFVV----TAKD
+IVRA---------GLSLIMCMFGIAALYVLLNAQFLGIIQILVYIGAIGVLILFAVMLTK
+HEIGGEPGED
+>mma:MM_2484 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) fpoJ; F420H2 dehydrogenase subunit (A)
+----------------------MQI---------NRPLAFLVCLLFVAVVVTGAFGTSWN
+TVSE---------LPENPADPSNIEGIGMLIFTHFVAPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>mma:MM_2485 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) fpoJ; F420H2 dehydrogenase subunit (A)
+----------MID---------PGTVGAALET--AVFGLLALVTVFFAIFVV----IAKD
+VVRA---------GLALIMCMFGVAGLYILLNAQFLGVIQVLVYIGAIGVLILFAVMLTK
+REIGGGPRAN
+>mmaz:MmTuc01_2535 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) Coenzyme F(420)H(2) dehydrogenase (methanophenazine) subunit FpoJ2 (A)
+----------------------MQI---------NRPLAFLVCLLFVAVVVTGAFGTSWN
+TVSE---------LPENPADPSNIEGIGMLIFTHFVAPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>mmaz:MmTuc01_2536 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) Coenzyme F(420)H(2) dehydrogenase (methanophenazine) subunit FpoJ (A)
+----------MID---------PGTVGTALET--AVFGLLALVTVFFAIFVV----IAKD
+VVRA---------GLALIMCMFGVAGLYILLNAQFLGVIQVLVYIGAIGVLILFAVMLTK
+REIGGGPRAN
+>mmj:MSMAS_2218 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MQI---------NRPLAFLVCLLFVAVVVTGAFGTSWN
+TVSE---------LPENPADPSNIEGIGMLIFTHFVAPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>mmj:MSMAS_2217 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MID---------PGTVGTALET--AVFGLLALVTVFFAIFVV----IAKD
+VVRA---------GLALIMCMFGVAGLYILLNAQFLGVIQVLVYIGAIGVLILFAVMLTK
+REIGGGPRAN
+>mmac:MSMAC_2236 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MQI---------NRPLAFLVCLLFVAVVVTGAFGTSWN
+TVSE---------LPENPADPSNIEGIGMLIFTHFVAPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>mmac:MSMAC_2237 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MID---------PGTVGTALET--AVFGLLALVTVFFAIFVV----IAKD
+VVRA---------GLALIMCMFGVAGLYILLNAQFLGVIQVLVYIGAIGVLILFAVMLTK
+REIGGGPRAN
+>mvc:MSVAZ_1523 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRI---------NRPLAFLVVLLFTAIVVIGAFGTSWN
+TVSE---------LPQNQADQSNIEGIGMLIFTHYVAPFEVLS-------IVLLASLIGA
+IYLAKGEGNR
+>mvc:MSVAZ_1522 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------LETMGEALKM--AVFWVLAISTVFFAVFVV----TAKD
+IVRA---------GLALIMCMFGIAALYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+HEIGGGPGED
+>mek:MSKOL_1464 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) hypothetical protein (A)
+----------------------MRI---------NRPLAFLVVLLFTAIVVIGAFGTSWN
+TVSE---------LPQNQADQSNIEGIGMLIFTHYVAPFEVLS-------IVLLASLIGA
+IYLAKGEGNR
+>mek:MSKOL_1463 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------LETIGEALKM--AVFWVLAISTVFFAVFVV----TAKD
+IVRA---------GLALIMCMFGIAALYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+HEIGGGPGED
+>mls:MSLAZ_1456 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRI---------NRLPALLVALLFVAVVVTGIFGTSWN
+TVSE---------LPENPADPSNIEGIGMLIFTQYMVPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>mls:MSLAZ_1455 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------IETIGAALEM--AVFGLLAIITVFFAIFVV----IAKD
+VVRA---------GLSLIMCMFGVAALYILLNAQFLGVVQVLVYIGAIGVLILFAVMLTK
+RELGGGSDAN
+>metm:MSMTP_0969 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MQI---------NRPAALLVVLLFLAVVVLGTFGTSWN
+TVSE---------LPENPADPSNVEGLGMLIFTQYVIPFEIMS-------IVLLASLIGA
+IYMAKGEGSK
+>metm:MSMTP_0968 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------LETIGAFVEM--AAFGLFSVITVFFAIFVV----ITKD
+VVRA---------GLALIMCMFGVAALYLLLNAQFLGVVQVLVYIGAIGVLILFAVMLTK
+RELGGASNAD
+>mef:MSWH1_1913 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRI---------NRPASLLVVLLFVAVVVTGIFGTSWN
+TVSE---------LPENPADPSNIEGIGMLIFTQYVVPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>mef:MSWH1_1912 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------IETIGAALEM--AVFGLLAIVTVFFAIFVI----IAKD
+VVRA---------GLSLIMCMFGIAALYILLNAQFLGVVQVLVYIGAIGVLILFAVMLTK
+RELGGESRAN
+>meq:MSWHS_3158 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRI---------NRPASLLVVLLFVAVVVTGIFGTSWN
+TVSE---------LPENPADPSNIEGIGMLIFTQYVVPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>meq:MSWHS_3159 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------IETIGAALEM--AVFGLLAIVTVFFAIFVI----IAKD
+VVRA---------GLSLIMCMFGIAALYILLNAQFLGVVQVLVYIGAIGVLILFAVMLTK
+RELGGESRAN
+>msj:MSSAC_1445 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRI---------NRPLALLVSLLFVAVIVTGAFGTSWH
+TVSE---------LPENPADPSNIQGIGMLIFTQYVVPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>msj:MSSAC_1446 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------LETVGAALEM--AVFGLLALVTVFFAIFVV----IAKD
+VVRA---------GLALIMCMFGVAVLYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+RELGGGSRAN
+>msz:MSSIH_1510 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRI---------NRPLALLVSLLFVAVIVTGAFGTSWH
+TVSE---------LPENPADPSNIQGIGMLIFTQYVVPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>msz:MSSIH_1509 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------LETVGAALEM--AVFGLLALVTVFFAIFVV----IAKD
+VVRA---------GLALIMCMFGVAVLYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+RELGGGSRAN
+>msw:MSSIT_1568 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRI---------NRPLALLVSLLFVAVIVTGAFGTSWH
+TVSE---------LPENPADPSNIQGIGMLIFTQYVVPFEVLS-------IVLLASLIGA
+IYMAKGEGNR
+>msw:MSSIT_1567 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MIG---------LETVGAALEM--AVFGLLALVTVFFAIFVV----IAKD
+VVRA---------GLALIMCMFGVAVLYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+RELGGGSRAN
+>mthe:MSTHC_0529 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRT---------NQLLAFLVALLFTAVVIVGAFGTSWN
+TVSE---------LPANPEDQSNIEGIGVLTFTQYVAPFEVLS-------IVLLASLIGA
+IYMAKGEGN-
+>mthe:MSTHC_0528 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+MIWLEAMGLETIE---------LETIGAALQM--AVFGLLAVITVFFAIFVV----IAKD
+VVRA---------GLALILCMFGIAALYILLNAQFLGVIQVLIYIGAIGVLILFAVMLTK
+REIGGEPGAD
+>mthr:MSTHT_0202 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) hypothetical protein (A)
+----------------------MRT---------NQLLAFLVALLFTAVVIVGAFGTSWN
+TVSE---------LPANPEDQSNIEGIGVLTFTQYVAPFEVLS-------IVLLASLIGA
+IYMAKGEGN-
+>mthr:MSTHT_0203 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+MIWLEAMGLETIE---------LETIGAALQM--AVFGLLAVITVFFAIFVV----IAKD
+VVRA---------GLALILCMFGIAALYILLNAQFLGVIQVLIYIGAIGVLILFAVMLTK
+REIGGEPGAD
+>mhor:MSHOH_2828 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit J (A)
+----------------------MRI---------NRALAFLVSLLFVAVIVTGAFGTSWH
+TVPD---------LPENPADPSNIEGIGMLIFTQFVAPFEVLS-------IVLLASLIGA
+IYIAKGEGNK
+>mhor:MSHOH_2827 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MI----------LETVGTALEL--AVFGLLALVTVFFAIFVV----IAKD
+VVRA---------GLALIMCMFGVAGLYILLNAQFLGIIQVLVYIGAIGVLILFAVMLTK
+RELGGGSRAY
+>mfz:AOB57_001410 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) short chain dehydrogenase (A)
+------MGLETIG---------LE-IGAAVQM--AVFGLLAVITIFFAIFVV----IAKD
+VVRA---------GLALIMCMFGIAALYILLNAQFLGIIQVLIYIGAIGVLILFAVMLTK
+REIGGEPGAD
+>mfz:AOB57_001415 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) dehydrogenase (A)
+----------------------MRT---------NQLLAFFVALLFTAVVIIGAFGTSWN
+TVSE---------LPANPADQSNIEGIGVLTFTQYVAPFEVLS-------IVLLASLIGA
+IYMAKGEGKR
+>mmet:MCMEM_1737 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+-------------------------MTGIIEG--AIFAIVALVLISFAILTV----VSRD
+IVRA---------ALALVLAMFTVAAVYIMLNAQFLGIVQILVYVGAIGVLILFAVMLTK
+KNMGSDDD-E
+>mmh:Mmah_1595 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) hypothetical protein (A)
+-------------------------MIGIGEA--LVFFILAAVVIFFSLAAV----LSKD
+IVRA---------ALALVFSMFTVAGLFITLNAQFLGVVQILVYVGAIGVLILFAVMLTK
+NTMGSDDNGN
+>mhaz:BHR79_05750 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) dehydrogenase (A)
+----------MEIPP-------LEVIG-------RAFVRAAVVGLFLAVVLVSLYGTSWT
+TVDQ---------LPQNLEDQSNIKAIGTLIFTDFVVPFEVLS-------IVLLSSLTGA
+IYMAKGEDDQ
+>mhaz:BHR79_05745 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase (A)
+-------------------------MIGIGEA--LVFFILAAVVIFFSLAAV----LAKD
+IVRA---------ALALVFSMFTVAGLFITLNAQFLGVVQILVYVGAIGVLILFAVMLTK
+NTMGSDDNGN
+>mev:Metev_0278 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH-ubiquinone/plastoquinone oxidoreductase chain 6 (A)
+----------M-----------LGKII-------NVIVALLVVLLFLGMIGVSVIGTGWD
+TVEE---------LPQTPEDQSNIERIGVSVFTKYVVPFEIMA-------IVLLSALIGA
+FYMGRGADSK
+>mev:Metev_0277 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH-ubiquinone/plastoquinone oxidoreductase chain 6 (A)
+----------MVAILDYLTSFTFDDLTTIARF--GAFALLSLIIILFSLLTI----VSRD
+VVRA---------AISLIVSLFSVAGLYILLNAQFLGVVQVLVYVGAVGVLILFGVMLTK
+TESGRGPYVR
+>mzh:Mzhil_1594 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH-ubiquinone/plastoquinone oxidoreductase chain 6 (A)
+----------MLDNP-------VEKLAPLSRFVPSNPGSLLIVLLFLAVISVSLIGTTWP
+VADQ---------PIADFADPSNIEKIGMLLFTEFVVAFEVLA-------LALLASLIGA
+IYLAREEVEK
+>mzh:Mzhil_1595 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH-ubiquinone/plastoquinone oxidoreductase chain 6 (A)
+-------------------------MYVIGEL--IAFLIFAVALIASSIFVI----AAKN
+IVRA---------GLSLIVSLFSVAGLYMLLNAYFLGVIQVLVYVGAIGILILFAIMLTK
+TEMGSDSDVR
+>mpy:Mpsy_2573 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) hypothetical protein (A)
+----------MLNKQ----FTIMQIITSIYRYFKPRILGMIVAFLFLAIVMVSVIGTTWP
+TVDQ---------LPQNLEDQSNIEGIGLLIFTQFVVPFELLS-------IVLLSAMIGA
+IYIAKGEAGK
+>mpy:Mpsy_2572 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) fpoJ; NADH dehydrogenase subunit J (A)
+-----------MD----------TSIGTILHL--AVFAILAIAAIMFSLFVV----TAKD
+VVRA---------ALSLVFAMFVIAGLYILLNAQFLGVVQVLVYIGAIGVLILFAVMLTK
+KEFGTDAE--
+>mhz:Metho_1447 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit 6 (chain J) (A)
+----------MLNKH----FTVMQILTAVYNFFRPRIAGMMVAILFLAIVLISVGFTNWN
+TVDQ---------IPQNAMDQSNIQGIGMLIFTDFVIPFEILS-------IVLLSTLMGA
+IYMAKGDGTE
+>mhz:Metho_1448 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase subunit 6 (chain J) (A)
+-----------MD---------TSIIADVLEI--IVFAVMALLAISFALLVV----TAKD
+IVRS---------ALSLIAVMFVVAGLYILLNAQFLGVIQVLVYVGAIGVLILFAVMLTK
+KQFGSDKDAE
+>mtp:Mthe_1056 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------M-----------------------VKAKTTILLVIFLAALIASISVTPWE
+YGEVKKQYSFQPAKEGVRMPESGIGDVGAELFTIYMFPFELLS-------LVLLAALIGA
+IYIARKEMA-
+>mtp:Mthe_1055 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH dehydrogenase subunit J (A)
+----------MLD--------RIYDIRFLIEL--GVFATLSVLILGLAVLTV----YSRN
+IVHS---------ALYLIGSFAGVAALYISLNAPFLGVAQVLVYIGAVGVLILFAVMLTR
+RTIMEES-HG
+>mhi:Mhar_1416 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) F420H2 dehydrogenase, subunit J (A)
+----------M-----------------------VKVKTSILMLIFLATLIVLLAATPWG
+GEEM-GSYSFEP-REGNRAPESGIGDIGVEIFTLYIVAFEVLG-------LVLLAAMIGA
+IYVARKELPR
+>mhi:Mhar_1415 K22165 F420H2 dehydrogenase subunit J [EC:1.5.98.3] | (GenBank) NADH:ubiquinone oxidoreductase J (A)
+----------MIDL------TQFYDIRFLIEL--GAFSLLAVIILGLSILTV----YSRN
+IVHS---------GLYLLGSFAAVAALYIFLNATFVGVAQVLVYIGAVGVLILFAIMLTK
+KTLMEEETHG
