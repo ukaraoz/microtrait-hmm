@@ -5,7 +5,8 @@ Each microtrait-hmm model represents protein family sequence diversity accumulat
 
 ## HMM training pipeline
 
-<img src="https://github.com/ukaraoz/microtrait-hmm/microbial-traits-figures2.1.png" width="75%">
+<img src="https://github.com/ukaraoz/microtrait-hmm/blob/master/microbial-traits-figures2.1.png" width="75%">
 
 ## HMM benchmarking pipeline
 
+<img src="https://github.com/ukaraoz/microtrait-hmm/blob/master/microbial-traits-figures2.2.png" width="75%">
