@@ -1,0 +1,1596 @@
+microtraithmm-name	db_xref-ec_tc	db_xref-kegg	microtraithmm-description
+pslD	1.B.18	K20987	polysaccharide biosynthesis/export protein PslD
+kdgM	1.B.35.1;1.B.35.2	K22110	oligogalacturonate-specific porin family protein
+nisA	1.C.20	K20482	lantibiotic bacteriocin
+mntP	2.A.107	K23242	manganese efflux pump family protein
+mexN	2.A.6.2.35	K21133	multidrug efflux pump
+mmpL11	2.A.6.5.5	K20466	heme transporter
+tc2.A.86.1.7	2.A.86.1.7	K20469	putative heme transporter
+nisE	3.A.1.124.1;3.A.1.124.2;3.A.1.124.6	K20491	lantibiotic transport system permease protein
+nisF	3.A.1.124.1;3.A.1.124.2;3.A.1.124.6	K20490	lantibiotic transport system ATP-binding protein
+nisG	3.A.1.124.1;3.A.1.124.2;3.A.1.124.6	K20492	lantibiotic transport system permease protein
+nukE	3.A.1.124.3;3.A.1.124.4;3.A.1.124.5	K20460	lantibiotic transport system permease protein
+nukF	3.A.1.124.3;3.A.1.124.4;3.A.1.124.5	K20459	lantibiotic transport system ATP-binding protein
+nukG	3.A.1.124.3;3.A.1.124.4;3.A.1.124.5	K20461	lantibiotic transport system permease protein
+fepB	3.A.1.14.2;3.A.1.14.6	K23185	ferric enterobactin transport system substrate-binding protein
+fepC	3.A.1.14.2;3.A.1.14.6	K23188	ferric enterobactin transport system ATP-binding protein
+fepD	3.A.1.14.2;3.A.1.14.6	K23186	ferric enterobactin transport system permease protein
+fepG	3.A.1.14.2;3.A.1.14.6	K23187	ferric enterobactin transport system permease protein
+fhuB	3.A.1.14.3;3.A.1.14.12	K23228	ferric hydroxamate transport system permease protein
+fhuD	3.A.1.14.3;3.A.1.14.12	K23227	ferric hydroxamate transport system substrate-binding protein
+mntA2	3.A.1.15.15	K19973	manganese transport system ATP-binding protein
+mntB2	3.A.1.15.15	K19976	manganese transport system permease protein
+mntC2	3.A.1.15.15	K19975	manganese transport system substrate-binding protein
+psaA	3.A.1.15.2;3.A.1.15.14	K19971	manganese/zinc transport system substrate-binding protein
+psaC	3.A.1.15.2;3.A.1.15.14	K19972	manganese/zinc transport system permease protein
+lhpM	3.A.1.3.21	K23062	hydroxyproline transport system permease protein
+lhpN	3.A.1.3.21	K23063	hydroxyproline transport system permease protein
+lhpO	3.A.1.3.21	K23064	hydroxyproline transport system ATP-binding protein
+malEIIB	4.A.1.1.11;4.A.1.1.12	K20107	maltose PTS system EIICB or EIICBA component
+malEIIC	4.A.1.1.11;4.A.1.1.12	K20108	maltose PTS system EIICB or EIICBA component
+glc2EIIA	4.A.1.1.9;4.A.1.1.13;4.A.1.1.14	K20116	PTS system, glucose-specific IIA component
+glc2EIIB	4.A.1.1.9;4.A.1.1.13;4.A.1.1.14	K20117	PTS system, glucose-specific IIB component
+glc2EIIC	4.A.1.1.9;4.A.1.1.13;4.A.1.1.14	K20118	glucose PTS system EIICBA or EIICB component
+cys	3.A.1.6.1;3.A.1.6.3;3.A.1.6.7	K23163	sulfate/thiosulfate transport system substrate-binding protein 
+zmS	3.A.1.15	K02077	zinc/manganese transport system substrate-binding protein
+zmP	3.A.1.15	K02075	zinc/manganese transport system permease protein
+zmA	3.A.1.15	K02074	zinc/manganese transport system ATP-binding protein
+zntB	1.A.35.4	K16074	zinc transporter
+znuA	3.A.1.15.3;3.A.1.15.5;3.A.1.15.11;3.A.1.15.13;3.A.1.15.18	K09815	zinc transport system substrate-binding protein
+znuB	3.A.1.15.3;3.A.1.15.5;3.A.1.15.11;3.A.1.15.13;3.A.1.15.18	K09816	zinc transport system permease protein
+znuC	3.A.1.15.3;3.A.1.15.5;3.A.1.15.11;3.A.1.15.13;3.A.1.15.18	K09817	zinc transport system ATP-binding protein [EC:3.6.3.-]
+zipB	2.A.5.4.11	K16267	zinc and cadmium transporter
+yiaY	1.1.1.1	K13954	yiaY; alcohol dehydrogenase [EC:1.1.1.1] 
+bxlE	3.A.1.1.21_Q9L027	K17326	xylobiose transport system substrate-binding protein
+bxlG	3.A.1.1.21	K17328	xylobiose transport system permease protein
+bxlF	3.A.1.1.21_Q9L026	K17327	xylobiose transport system permease protein
+xpk	4.1.2.9;4.1.2.22	K01621	xfp, xpk; xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22] 
+xanQ	2.A.40.4.3	K16346	xanthine permease XanQ
+xanP	2.A.40.4.2	K16345	xanthine permease XanP
+mthK	1.A.1.1;1.A.1.6;1.A.1.13;1.A.1.17;1.A.1.24;1.A.1.25	K10716	voltage-gated potassium channel
+btuB	1.B.14.3.1_P06129	K16092	vitamin B12 transporter
+btuF	3.A.1.13.1_Q8ZRP7	K06858	vitamin B12 transport system substrate-binding protein
+btuC	3.A.1.13.1_P06609	K06073	vitamin B12 transport system permease protein
+btuD	3.A.1.13.1_P06611	K06074	vitamin B12 transport system ATP-binding protein [EC:3.6.3.33]
+vexB	3.A.1.101.2	K22921	Vi polysaccharide transport system permease protein
+vexD	3.A.1.101.2	K22922	Vi polysaccharide transport system permease protein
+vexC	3.A.1.101.2	K22923	Vi polysaccharide transport system ATP-binding protein [EC:7.6.2.12]
+vexA	1.B.18.2.1	K22924	Vi polysaccharide export protein VexA
+vnfH		K22899	vanadium-iron nitrogenase iron protein
+vnfK	1.18.6.2	K22897	vanadium-dependent nitrogenase beta chain [EC:1.18.6.2]
+vnfD	1.18.6.2	K22896	vanadium-dependent nitrogenase alpha chain [EC:1.18.6.2]
+vnfG	1.18.6.2	K22898	vanadium nitrogenase delta subunit [EC:1.18.6.2]
+atpvaK		K02124	V/A-type H+/Na+-transporting ATPase subunit K
+atpvaI		K02123	V/A-type H+/Na+-transporting ATPase subunit I
+atpvaGH		K02107	V/A-type H+/Na+-transporting ATPase subunit G/H
+atpvaF		K02122	V/A-type H+/Na+-transporting ATPase subunit F
+atpvaE		K02121	V/A-type H+/Na+-transporting ATPase subunit E
+atpvaD		K02120	V/A-type H+/Na+-transporting ATPase subunit D
+atpvaC		K02119	V/A-type H+/Na+-transporting ATPase subunit C
+atpvaB		K02118	V/A-type H+/Na+-transporting ATPase subunit B
+atpvaA	7.2.2.1;7.1.2.2	K02117	V/A-type H+/Na+-transporting ATPase subunit A [EC:7.2.2.1 7.1.2.2]
+pucJ	2.A.40.3.2	K16170	uric acid permease
+utp	1.A.28.2	K08717	urea transporter
+urtA	3.A.1.4.4;3.A.1.4.5	K11959	urea transport system substrate-binding protein
+urtB	3.A.1.4.4;3.A.1.4.5	K11960	urea transport system permease protein
+urtC	3.A.1.4.4;3.A.1.4.5	K11961	urea transport system permease protein
+urtD	3.A.1.4.4;3.A.1.4.5	K11962	urea transport system ATP-binding protein
+urtE	3.A.1.4.4;3.A.1.4.5	K11963	urea transport system ATP-binding protein
+uraA	2.A.40.1.1_P0AGM7;2.A.40.1.2_Q9CF78;2.A.40.1.4_P39766	K02824	uracil permease
+arnE	2.A.7.22.1_Q47377	K12962	undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE
+phoX		K07093	uncharacterized protein
+mleP	2.A.69.3.2_E0SFK1;2.A.69.3.4_P56949;2.A.69.3.6_Q98L58;2.A.69.4.5_Q48797;2.A.69.3.1_Q9AK33;2.A.69.4.4_Q1DE54	K07088	uncharacterized protein
+satP	2.A.96.1.1_P0AC98	K07034	uncharacterized protein
+galT	2.7.7.12	K00965	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]
+capD	5.1.3.2	K17716	UDP-glucose 4-epimerase [EC:5.1.3.2]
+galE	5.1.3.2	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]
+petA	7.1.1.8	K00411	ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]
+qcrA		K03890	ubiquinol-cytochrome c reductase iron-sulfur subunit
+petC		K00413	ubiquinol-cytochrome c reductase cytochrome c1 subunit
+qcrC		K03889	ubiquinol-cytochrome c reductase cytochrome c subunit
+fbcH		K00410	ubiquinol-cytochrome c reductase cytochrome b/c1 subunit
+petB_2		K00412	ubiquinol-cytochrome c reductase cytochrome b subunit
+qcrB		K03891	ubiquinol-cytochrome c reductase cytochrome b subunit
+tyrP	2.A.42.1.1_P0AAD4;2.A.42.1.5_Q5NFU3	K03834	tyrosine-specific transport protein
+tutB	2.A.42.1.4_Q47825	K03318	tyrosine permease
+mfnA	4.1.1.25;4.1.1.11	K18933	tyrosine decarboxylase / aspartate 1-decarboxylase [EC:4.1.1.25 4.1.1.11] 
+mfnD	6.3.4.24	K06914	tyramine---L-glutamate ligase [EC:6.3.4.24] 
+tupA	3.A.1.6.2;3.A.1.6.4	K05772	tungstate transport system substrate-binding protein
+tupB	3.A.1.6.2;3.A.1.6.4	K05773	tungstate transport system permease protein
+tupC	3.A.1.6.2;3.A.1.6.4	K06857	tungstate transport system ATP-binding protein [EC:3.6.3.55]
+mtr	2.A.42.1.2_P0AAD2;2.A.42.1.5_Q5NFU3	K03835	tryptophan-specific transport protein
+trkA	2.A.38.1;2.A.38.4	K03499	trk system potassium uptake protein
+trkH	2.A.38.1;2.A.38.4	K03498	trk system potassium uptake protein
+tpi	5.3.1.1	K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1]
+dak	2.7.1.28;2.7.1.29;4.6.1.15	K00863	triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing) [EC:2.7.1.28 2.7.1.29 4.6.1.15]
+torY		K07821	trimethylamine-N-oxide reductase (cytochrome c), cytochrome c-type subunit TorY 
+torC		K03532	trimethylamine-N-oxide reductase (cytochrome c), cytochrome c-type subunit TorC 
+torA	1.7.2.3	K07811	trimethylamine-N-oxide reductase (cytochrome c) [EC:1.7.2.3] 
+torZ	1.7.2.3	K07812	trimethylamine-N-oxide reductase (cytochrome c) [EC:1.7.2.3] 
+mttB	2.1.1.250	K14083	trimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.250] 
+tmm	1.14.13.148	K18277	trimethylamine monooxygenase [EC:1.14.13.148] 
+mttC		K14084	trimethylamine corrinoid protein 
+thuE	3.A.1.1.12_Q9AI68;3.A.1.1.17_Q9R9Q7;3.A.1.1.19_Q8L126;3.A.1.1.25_Q72H68	K10236	trehalose/maltose transport system substrate-binding protein
+thuG	3.A.1.1.12_Q9AI66;3.A.1.1.17_Q9R9Q5;3.A.1.1.25_Q72H66	K10238	trehalose/maltose transport system permease protein
+thuF	3.A.1.1.12_Q9AI67;3.A.1.1.17_Q9R9Q6;3.A.1.1.19_Q8L125;3.A.1.1.25_Q72H67;3.A.1.1.41_G4FGN7	K10237	trehalose/maltose transport system permease protein
+treS2	3.A.1.1.15_Q97ZC3	K17311	trehalose transport system substrate-binding protein
+treU	3.A.1.1.15_Q97ZC1	K17313	trehalose transport system permease protein
+treT	3.A.1.1.15_Q97ZC2	K17312	trehalose transport system permease protein
+treV	3.A.1.1.15_Q97ZC0	K17314	trehalose transport system ATP-binding protein
+yiaM	2.A.56.1	K21394	TRAP-type transport system small permease protein
+yiaO	2.A.56.1	K21395	TRAP-type transport system periplasmic protein
+yiaN	2.A.56.1	K21393	TRAP-type transport system large permease protein
+tkt	2.2.1.1	K00615	transketolase [EC:2.2.1.1] 
+torD		K03533	TorA specific chaperone 
+tmoC		K15762	toluene monooxygenase system ferredoxin subunit 
+tmoF	1.18.1.3	K15765	toluene monooxygenase electron transfer component [EC:1.18.1.3] 
+tdcC	2.A.42.2.2_P0AAD8	K03838	threonine transporter
+rhtC	2.A.76.1.2_P0AG38	K05835	threonine efflux protein
+tst	2.8.1.1;2.8.1.2	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2] 
+glpE	2.8.1.1	K02439	thiosulfate sulfurtransferase [EC:2.8.1.1] 
+phsB		K08353	thiosulfate reductase electron transport protein 
+phsC		K08354	thiosulfate reductase cytochrome b subunit 
+phsA	1.8.5.5	K08352	thiosulfate reductase / polysulfide reductase chain A [EC:1.8.5.5] 
+doxA	1.8.5.2	K16936	thiosulfate dehydrogenase [quinone] small subunit [EC:1.8.5.2] 
+doxD	1.8.5.2	K16937	thiosulfate dehydrogenase [quinone] large subunit [EC:1.8.5.2] 
+thiT	2.A.88.3	K16789	thiamine transporter
+thiB	3.A.1.19.2_Q73RE6	K02064	thiamine transport system substrate-binding protein
+thiP	3.A.1.19.2_Q73RE5	K02063	thiamine transport system permease protein
+thiQ	3.A.1.19.2_Q73RE4	K02062	thiamine transport system ATP-binding protein
+ttrC		K08359	tetrathionate reductase subunit C 
+ttrB		K08358	tetrathionate reductase subunit B 
+ttrA		K08357	tetrathionate reductase subunit A 
+tmtrH	2.1.1.86	K00584	tetrahydromethanopterin S-methyltransferase subunit H [EC:2.1.1.86] 
+tmtrG	2.1.1.86	K00583	tetrahydromethanopterin S-methyltransferase subunit G [EC:2.1.1.86] 
+tmtrF	2.1.1.86	K00582	tetrahydromethanopterin S-methyltransferase subunit F [EC:2.1.1.86] 
+tmtrE	2.1.1.86	K00581	tetrahydromethanopterin S-methyltransferase subunit E [EC:2.1.1.86] 
+tmtrD	2.1.1.86	K00580	tetrahydromethanopterin S-methyltransferase subunit D [EC:2.1.1.86] 
+tmtrC	2.1.1.86	K00579	tetrahydromethanopterin S-methyltransferase subunit C [EC:2.1.1.86] 
+tmtrB	2.1.1.86	K00578	tetrahydromethanopterin S-methyltransferase subunit B [EC:2.1.1.86] 
+tmtrA	2.1.1.86	K00577	tetrahydromethanopterin S-methyltransferase subunit A [EC:2.1.1.86] 
+tet35		K18218	tetracycline resistance efflux pump
+tehA	2.A.16.1	K03304	tellurite resistance protein
+tuaB	2.A.66.2.6	K16694	teichuronic acid exporter
+tagG	3.A.1.104	K09692	teichoic acid transport system permease protein
+tagH	3.A.1.104	K09693	teichoic acid transport system ATP-binding protein [EC:3.6.3.40]
+tauA	3.A.1.17.1;3.A.1.17.4	K15551	taurine transport system substrate-binding protein
+tauC	3.A.1.17.1;3.A.1.17.4	K15552	taurine transport system permease protein
+tauB	3.A.1.17.1;3.A.1.17.4	K10831	taurine transport system ATP-binding protein [EC:3.6.3.36]
+tauD	1.14.11.17	K03119	taurine dioxygenase [EC:1.14.11.17] 
+ynfF	1.97.1.9	K07310	Tat-targeted selenate reductase subunit YnfF [EC:1.97.1.9]
+ynfE	1.97.1.9	K07309	Tat-targeted selenate reductase subunit YnfE [EC:1.97.1.9]
+pgi-tal	2.2.1.2;5.3.1.9	K13810	tal-pgi; transaldolase / glucose-6-phosphate isomerase [EC:2.2.1.2 5.3.1.9] 
+uxaB	1.1.1.58	K00041	tagaturonate reductase [EC:1.1.1.58]
+soxZ		K17227	sulfur-oxidizing protein SoxZ 
+soxY		K17226	sulfur-oxidizing protein SoxY 
+sreA		K17219	sulfur reductase molybdopterin subunit 
+sreC		K17221	sulfur reductase membrane anchor 
+sreB		K17220	sulfur reductase FeS subunit 
+sor	1.13.11.55	K16952	sulfur oxygenase/reductase [EC:1.13.11.55] 
+comE	4.1.1.79	K13039	sulfopyruvate decarboxylase subunit beta [EC:4.1.1.79] 
+comD	4.1.1.79	K06034	sulfopyruvate decarboxylase subunit alpha [EC:4.1.1.79] 
+ssuA	3.A.1.17.2	K15553	sulfonate transport system substrate-binding protein
+ssuC	3.A.1.17.2	K15554	sulfonate transport system permease protein
+ssuB	3.A.1.17.2	K15555	sulfonate transport system ATP-binding protein [EC:3.6.3.-]
+cysI	1.8.1.2	K00381	sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2] 
+cysJ	1.8.1.2	K00380	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2] 
+sir	1.8.7.1	K00392	sulfite reductase (ferredoxin) [EC:1.8.7.1] 
+suox	1.8.3.1	K00387	sulfite oxidase [EC:1.8.3.1] 
+suld	1.8.2.1	K05301	sulfite dehydrogenase [EC:1.8.2.1] 
+soeC		K21309	sulfite dehydrogenase (quinone) subunit SoeC 
+soeB		K21308	sulfite dehydrogenase (quinone) subunit SoeB 
+soeA	1.8.5.6	K21307	sulfite dehydrogenase (quinone) subunit SoeA [EC:1.8.5.6] 
+sqr	1.8.5.4	K17218	sulfide:quinone oxidoreductase [EC:1.8.5.4] 
+fccB	1.8.2.3	K17229	sulfide dehydrogenase [flavocytochrome c] flavoprotein chain [EC:1.8.2.3] 
+hydD	1.12.1.3;1.12.1.5	K17994	sulfhydrogenase subunit delta [EC:1.12.1.3 1.12.1.5] 
+hydB	1.12.98.4	K17996	sulfhydrogenase subunit beta (sulfur reductase) [EC:1.12.98.4]
+hydA	1.12.1.3;1.12.1.5	K17993	sulfhydrogenase subunit alpha [EC:1.12.1.3 1.12.1.5] 
+sbp	3.A.1.6.1;3.A.1.6.3;3.A.1.6.7	K23163	sulfate/thiosulfate transport system substrate-binding protein 
+cysA	3.A.1.6.1;3.A.1.6.3;3.A.1.6.7	K02045	sulfate/thiosulfate transport system ATP-binding protein [EC:7.3.2.3]
+cysP	3.A.1.6.1;3.A.1.6.3	K02048	sulfate transport system substrate-binding protein
+cysU	3.A.1.6.1;3.A.1.6.3;3.A.1.6.7	K02046	sulfate transport system permease protein
+cysW	3.A.1.6.1;3.A.1.6.3;3.A.1.6.7	K02047	sulfate transport system permease protein
+tc.sulp	2.A.53.3.13_Q1J2S8	K03321	sulfate permease, SulP family
+ylnA	2.A.20.4	K16331	sulfate permease
+cysD	2.7.7.4	K00957	sulfate adenylyltransferase subunit 2 [EC:2.7.7.4] 
+cysN	2.7.7.4	K00956	sulfate adenylyltransferase subunit 1 [EC:2.7.7.4] 
+sat	2.7.7.4	K00958	sulfate adenylyltransferase [EC:2.7.7.4] 
+apa1_2	2.7.7.5;2.7.7.53	K00988	sulfate adenylyltransferase (ADP) / ATP adenylyltransferase [EC:2.7.7.5 2.7.7.53] 
+soxC		K17225	sulfane dehydrogenase subunit SoxC 
+scrY	1.B.3.1.2_P22340	K16077	sucrose porin
+smtB	2.8.3.22	K14472	succinyl-CoA:(S)-malate CoA-transferase subunit B [EC:2.8.3.22] 
+smtA	2.8.3.22	K14471	succinyl-CoA:(S)-malate CoA-transferase subunit A [EC:2.8.3.22] 
+sucC	6.2.1.5	K01903	succinyl-CoA synthetase beta subunit [EC:6.2.1.5] 
+sucD	6.2.1.5	K01902	succinyl-CoA synthetase alpha subunit [EC:6.2.1.5] 
+asd2	1.2.1.76	K15038	succinyl-CoA reductase [EC:1.2.1.76] 
+exoT	2.A.66.2.2	K16553	succinoglycan exporter
+ssadh	1.1.1.-	K14465	succinate semialdehyde reductase (NADPH) [EC:1.1.1.-] 
+sdhD		K00242	succinate dehydrogenase / fumarate reductase, membrane anchor subunit 
+sdhB	1.3.5.1;1.3.5.4	K00240	succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4] 
+sdhA	1.3.5.1;1.3.5.4	K00239	succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4] 
+sdhC		K00241	succinate dehydrogenase / fumarate reductase, cytochrome b subunit 
+ssgdh	1.1.1.359	K18125	ssgdh; aldose 1-dehydrogenase [NAD(P)+] [EC:1.1.1.359] 
+mtlE	3.A.1.1.49_O30491	K10227	sorbitol/mannitol transport system substrate-binding protein
+mtlF	3.A.1.1.49_O30492	K10228	sorbitol/mannitol transport system permease protein
+mtlG	3.A.1.1.49_O30493	K10229	sorbitol/mannitol transport system permease protein
+tc.sss	2.A.21.2.2_Q7A4Q7;2.A.21.2.5_M1TZ79;2.A.21.3.19_Q8AAV7;2.A.21.3.21_P31448;2.A.21.3.2_P96169;2.A.21.3.9_A8H019;2.A.21.4.1_Q8VM88	K03307	solute:Na+ symporter, SSS family
+putP	2.A.21.2.1_P07117;2.A.21.2.2_Q7A4Q7;2.A.21.2.3_Q9I5F5;2.A.21.2.4_J7JIE8;2.A.21.2.6_O24896	K11928	sodium/proline symporter
+panF	2.A.21.1	K14392	sodium/pantothenate symporter
+natB	3.A.1.115	K09696	sodium transport system permease protein
+natA	3.A.1.115	K09697	sodium transport system ATP-binding protein
+ugpB	3.A.1.1.3	K05813	sn-glycerol 3-phosphate transport system substrate-binding protein
+ugpA	3.A.1.1.3	K05814	sn-glycerol 3-phosphate transport system permease protein
+ugpE	3.A.1.1.3	K05815	sn-glycerol 3-phosphate transport system permease protein
+ugpC	3.A.1.12.4_O34992	K05816	sn-glycerol 3-phosphate transport system ATP-binding protein [EC:3.6.3.20]
+mmr	2.A.7.1	K03297	small multidrug resistance pump
+ebr	2.A.7.1.11	K18975	small multidrug resistance pump
+sugS2	3.A.1.2.14_Q0HIQ8;3.A.1.2.23_Q8G848;3.A.1.2.25_P39325;3.A.1.2.27_P77269;3.A.1.2.28_R9UW99	K02058	simple sugar transport system substrate-binding protein
+sugP2	3.A.1.2.14_Q0HIQ5;3.A.1.2.14_Q0HIQ6;3.A.1.2.18_Q9WXW0;3.A.1.2.23_Q8G845;3.A.1.2.23_Q8G846;3.A.1.2.25_P37772;3.A.1.2.25_P39328;3.A.1.2.27_P77315;3.A.1.2.10_O83342;3.A.1.2.10_O83343;3.A.1.2.12_Q8DU38;3.A.1.2.12_Q8DU39;3.A.1.2.17_A2RKA5;3.A.1.2.17_A2RKA6;3.A.1.2.28_O83323;3.A.1.2.28_O83324	K02057	simple sugar transport system permease protein
+sugA	3.A.1.2.14_Q0HIQ7;3.A.1.2.20_G4FGN3;3.A.1.2.23_Q8G847;3.A.1.2.25_Q6BEX0;3.A.1.2.27_P77509;3.A.1.2.10_O83341;3.A.1.2.12_Q8DU37;3.A.1.2.17_A2RKA7;3.A.1.2.28_R9USS2	K02056	simple sugar transport system ATP-binding protein [EC:3.6.3.17]
+atoE	2.A.73.1.1_P76460	K02106	short-chain fatty acids transporter
+sstT	2.A.23.4.1_P0AGE4	K07862	serine/threonine transporter
+sdaC	2.A.42.2.1_P0AAD6	K03837	serine transporter
+cysE1	2.3.1.30	K00640	serine O-acetyltransferase [EC:2.3.1.30] 
+cysE2	2.3.1.30	K23304	serine O-acetyltransferase [EC:2.3.1.30] 
+serC	1.97.1.9;1.97.1.1	K17052	selenate/chlorate reductase subunit gamma [EC:1.97.1.9 1.97.1.1]
+serB	1.97.1.9;1.97.1.1	K17051	selenate/chlorate reductase subunit beta [EC:1.97.1.9 1.97.1.1]
+serA	1.97.1.9;1.97.1.1	K17050	selenate/chlorate reductase subunit alpha [EC:1.97.1.9 1.97.1.1]
+sdhD_arch1		K18859	sdhD, frdD; succinate dehydrogenase / fumarate reductase, subunit D 
+sdhD_arch2		K18860	sdhD, frdD; putative succinate dehydrogenase / fumarate reductase, subunit D
+soxB	3.1.6.20	K17224	S-sulfosulfanyl-L-cysteine sulfohydrolase [EC:3.1.6.20] 
+mmuP	2.A.3.1.11_P39137	K16235	S-methylmethionine transporter
+frmB	3.1.2.12	K01070	S-formylglutathione hydrolase [EC:3.1.2.12] 
+soxD	1.8.2.6	K22622	S-disulfanyl-L-cysteine oxidoreductase SoxD [EC:1.8.2.6] 
+sam	2.A.7.3.54_Q1MIM3	K15270	S-adenosylmethionine uptake transporter
+gfa	4.4.1.22	K03396	S-(hydroxymethyl)glutathione synthase [EC:4.4.1.22] 
+frmA	1.1.1.284;1.1.1.1	K00121	S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]
+rpe	5.1.3.1	K01783	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1] 
+rbcS	4.1.1.39	K01602	ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] 
+rbcL	4.1.1.39	K01601	ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] 
+rbsB	3.A.1.2.20_G4FGN5	K10439	ribose transport system substrate-binding protein
+rbsC	3.A.1.2.18_Q9WXW7;3.A.1.2.20_G4FGN4;3.A.1.2.6_P32720	K10440	ribose transport system permease protein
+rbsA	3.A.1.2.20_G4FGN3	K10441	ribose transport system ATP-binding protein [EC:3.6.3.17]
+rpiB	5.3.1.6	K01808	ribose 5-phosphate isomerase B [EC:5.3.1.6] 
+rpiA	5.3.1.6	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6] 
+rhaS	3.A.1.2.9_Q7BSH5	K10559	rhamnose transport system substrate-binding protein
+rhaQ	3.A.1.2.9	K10561	rhamnose transport system permease protein
+rhaP	3.A.1.2.9_Q7BSH3	K10560	rhamnose transport system permease protein
+rhaT1	3.A.1.2.9_Q7BSH4	K10562	rhamnose transport system ATP-binding protein [EC:3.6.3.17]
+graA	1.14.14.27	K20942	resorcinol 4-hydroxylase (FADH2) [EC:1.14.14.27]
+msmE2	3.A.1.1.28_Q00749;3.A.1.1.42_Q9FBS5;3.A.1.1.43_Q9FBS5;3.A.1.1.45_Q8NMV3;3.A.1.1.47_A5LBQ6	K10117	raffinose/stachyose/melibiose transport system substrate-binding protein
+msmF2	3.A.1.1.28_Q00750;3.A.1.1.42_Q9FBS6;3.A.1.1.43_Q9FBS6;3.A.1.1.45_Q8NMV4;3.A.1.1.47_A5LBQ5	K10118	raffinose/stachyose/melibiose transport system permease protein
+msmG2	3.A.1.1.28_Q00751;3.A.1.1.42_Q9FBS7;3.A.1.1.43_Q9FBS7;3.A.1.1.45_Q8NMV5;3.A.1.1.47_A5LBQ4	K10119	raffinose/stachyose/melibiose transport system permease protein
+qmoC		K16887	quinone-modifying oxidoreductase, subunit QmoC
+qmoB		K16886	quinone-modifying oxidoreductase, subunit QmoB
+qmoA		K16885	quinone-modifying oxidoreductase, subunit QmoA
+qhpA	1.4.9.1	K08685	quinohemoprotein amine dehydrogenase [EC:1.4.9.1] 
+pps	2.7.9.2	K01007	pyruvate, water dikinase [EC:2.7.9.2] 
+ppdK	2.7.9.1	K01006	pyruvate, orthophosphate dikinase [EC:2.7.9.1] 
+por	1.2.7.1;1.2.7.-	K03737	pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-] 
+pflA	1.97.1.4	K04069	pyruvate formate lyase activating enzyme [EC:1.97.1.4]
+porG	1.2.7.1	K00172	pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.1] 
+porD	1.2.7.1	K00171	pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1] 
+porB	1.2.7.1	K00170	pyruvate ferredoxin oxidoreductase beta subunit [EC:1.2.7.1] 
+porA	1.2.7.1	K00169	pyruvate ferredoxin oxidoreductase alpha subunit [EC:1.2.7.1] 
+poxB	1.2.5.1	K00156	pyruvate dehydrogenase (quinone) [EC:1.2.5.1]
+pycB	6.4.1.1	K01960	pyruvate carboxylase subunit B [EC:6.4.1.1] 
+pycA	6.4.1.1	K01959	pyruvate carboxylase subunit A [EC:6.4.1.1] 
+pyc	6.4.1.1	K01958	pyruvate carboxylase [EC:6.4.1.1] 
+ppaX	3.6.1.1	K06019	pyrophosphatase PpaX [EC:3.6.1.1]
+puuP	2.A.3.1.13	K14052	putrescine importer
+xltC	3.A.1.2.15_A8H4W5	K17205	putative xylitol transport system substrate-binding protein
+xltB	3.A.1.2.15_A8H4W6	K17206	putative xylitol transport system permease protein
+xltA	3.A.1.2.15_A8H4W7	K17207	putative xylitol transport system ATP-binding protein
+tctB	2.A.80.1.4_S5XH28	K07794	putative tricarboxylic transport membrane protein
+tctC	2.A.80.1.4_S5XTE7	K07795	putative tricarboxylic transport membrane protein
+tctA	2.A.80.1.4_S5Y5N9	K07793	putative tricarboxylic transport membrane protein
+vb1xS		K05777	putative thiamine transport system substrate-binding protein
+vb1xP		K05778	putative thiamine transport system permease protein
+vb1xA		K05779	putative thiamine transport system ATP-binding protein
+xdhD		K12528	putative selenate reductase molybdopterin-binding subunit
+ygfM		K12529	putative selenate reductase FAD-binding subunit
+ygfK	1.97.1.9	K12527	putative selenate reductase [EC:1.97.1.9]
+rbsU	2.A.7.5	K06216	putative ribose uptake protein
+rutG	2.A.40.1.3_P75892	K09016	putative pyrimidine permease RutG
+psuT	2.A.41.2.10_P33021	K16324	putative pseudouridine transporter
+pta3	2.3.1.8	K15024	putative phosphotransacetylase [EC:2.3.1.8] 
+yydJ	3.A.1.133.1	K16916	putative peptide transport system permease protein
+yydI	3.A.1.133.1	K16917	putative peptide transport system ATP-binding protein
+gguS	3.A.1.2.22_Q8G3R1;3.A.1.2.5_P25548	K10546	putative multiple sugar transport system substrate-binding protein
+gguP	3.A.1.2.22_Q8G3Q9;3.A.1.2.5_O05177	K10547	putative multiple sugar transport system permease protein
+gguA	3.A.1.2.22_Q8G3R0;3.A.1.2.5_O05176	K10548	putative multiple sugar transport system ATP-binding protein
+pbuG	2.A.40.7.2_O34987;2.A.40.7.4_P31440;2.A.40.7.5_P0AF52;2.A.40.7.6_P31466;2.A.40.7.7_Q46817	K06901	putative MFS transporter, AGZA family, xanthine/uracil permease
+lysX1	3.A.1.3.20	K17073	putative lysine transport system substrate-binding protein
+lysX2	3.A.1.3.20_Q9A1H0	K17074	putative lysine transport system permease protein
+lysY	3.A.1.3.20_Q9A1H1	K17076	putative lysine transport system ATP-binding protein [EC:3.6.3.-]
+tc_2.A.76.1.6	2.A.76.1.6_Q3J2V9	K16327	putative LysE/RhtB family amino acid efflux pump
+peb1A	3.A.1.3.16_Q0P9X8	K10039	putative glutamine transport system substrate-binding protein
+peb1B	3.A.1.3.16_A1VZQ3	K10040	putative glutamine transport system permease protein
+peb1C	3.A.1.3.16_A3ZI83	K10041	putative glutamine transport system ATP-binding protein [EC:3.6.3.-]
+uidC	1.B.25.1.5	K16140	putative glucuronide porin
+mmpL10	2.A.6.5.13_P9WJU1;2.A.6.5.3_Q9KH53;2.A.6.5.7_O53735	K06994	putative drug exporter of the RND superfamily
+chiE	3.A.1.1.40_Q9WZR7	K17244	putative chitobiose transport system substrate-binding protein
+chiF	3.A.1.1.40	K17245	putative chitobiose transport system permease protein
+chiG	3.A.1.1.40	K17246	putative chitobiose transport system permease protein
+syrD	3.A.1.113.1	K06161	putative ATP-binding cassette transporter
+pvdE	3.A.1.113.2	K06160	putative ATP-binding cassette transporter
+yojI	3.A.1.113.3	K06159	putative ATP-binding cassette transporter
+yuiF	2.A.8.1.12_O32105	K07084	putative amino acid transporter
+lplA	3.A.1.1.9;3.A.1.1.291	K17318	putative aldouronate transport system substrate-binding protein
+lplC	3.A.1.1.10_Q9KWT7	K17320	putative aldouronate transport system permease protein
+lplB	3.A.1.1.10_Q9KWT8	K17319	putative aldouronate transport system permease protein
+trpS	3.A.1.34.1_Q99ZY6	K01989	putative ABC transport system substrate-binding protein
+devC	3.A.1.114.1_O50295	K02004	putative ABC transport system permease protein
+trpP	3.A.1.34.1_Q99ZY4	K05832	putative ABC transport system permease protein
+devA	3.A.1.114.1_O50296	K02003	putative ABC transport system ATP-binding protein
+trpA	3.A.1.34.1_Q99ZY3	K05833	putative ABC transport system ATP-binding protein
+yxjA	2.A.41.1.3_P42312	K16323	purine nucleoside transport protein
+treEIIC	4.A.1.2.13_Q720G7;4.A.1.2.4_P36672;4.A.1.2.8_P39794	K02819	PTS system, trehalose-specific IIC component
+treEIIB	4.A.1.2.13_Q720G7;4.A.1.2.4_P36672;4.A.1.2.8_P39794	K02818	PTS system, trehalose-specific IIB component [EC:2.7.1.69]
+treEIIA	4.A.1.2.13_Q720G7;4.A.1.2.4_P36672;4.A.1.2.8_P39794	K02817	PTS system, trehalose-specific IIA component [EC:2.7.1.69]
+scrEIIC	4.A.1.2.10_P15400;4.A.1.2.12_Q8NMD6;4.A.1.2.16_ART98386;4.A.1.2.1_P08470;4.A.1.2.9_P05306	K02810	PTS system, sucrose-specific IIC component
+scrEIIB	4.A.1.2.10_P15400;4.A.1.2.12_Q8NMD6;4.A.1.2.16_ART98386;4.A.1.2.1_P08470;4.A.1.2.9_P05306	K02809	PTS system, sucrose-specific IIB component [EC:2.7.1.69]
+scrEIIA	4.A.1.2.10_P15400;4.A.1.2.12_Q8NMD6;4.A.1.2.16_ART98386;4.A.1.2.1_P08470;4.A.1.2.9_P05306	K02808	PTS system, sucrose-specific IIA component [EC:2.7.1.69]
+sorEIID	4.A.6.1.3_P37083	K02815	PTS system, sorbose-specific IID component
+sorEIIC	4.A.6.1.1_P69801;4.A.6.1.3_P37082	K02814	PTS system, sorbose-specific IIC component
+sorEIIB	4.A.6.1.24_A1RZ66;4.A.6.1.3_P37081	K02813	PTS system, sorbose-specific IIB component [EC:2.7.1.69]
+sorEIIA	4.A.6.1.3_P37080	K02812	PTS system, sorbose-specific IIA component [EC:2.7.1.69]
+ntrEIIA		K02806	PTS system, nitrogen regulatory IIA component [EC:2.7.1.69]
+murEIIC	4.A.1.2.7_P77272	K11192	PTS system, N-acetylmuramic acid-specific IIC component
+murEIIB	4.A.1.2.7_P77272	K11191	PTS system, N-acetylmuramic acid-specific IIB component [EC:2.7.1.69]
+nagEIIC	4.A.1.1.15_Q9HXN4;4.A.1.1.2_P09323;4.A.1.1.5_Q8GBT6;4.A.1.1.5_Q8GBT7;4.A.1.1.6_P39816;4.A.1.1.7_O34521	K02804	PTS system, N-acetylglucosamine-specific IIC component
+nagEIIB	4.A.1.1.5_Q8GBT8	K02803	PTS system, N-acetylglucosamine-specific IIB component [EC:2.7.1.69]
+nagEIIA	4.A.1.1.2	K02802	PTS system, N-acetylglucosamine-specific IIA component [EC:2.7.1.69]
+agaEIID	4.A.6.1.14_Q8DR74;4.A.6.1.20_H1XXZ1;4.A.6.1.4_Q9KIQ2	K02747	PTS system, N-acetylgalactosamine-specific IID component
+agaEIIC	4.A.6.1.14_Q8DR75;4.A.6.1.4_Q9KIQ3;4.A.6.1.9_Q97N93	K02746	PTS system, N-acetylgalactosamine-specific IIC component
+agaEIIB	4.A.6.1.14_Q8DR76;4.A.6.1.4_Q9KIQ4	K02745	PTS system, N-acetylgalactosamine-specific IIB component [EC:2.7.1.69]
+agaEIIA	4.A.6.1.14_Q8DR78;4.A.6.1.23_C1A8G0	K02744	PTS system, N-acetylgalactosamine-specific IIA component [EC:2.7.1.69]
+manEIID	4.A.6.1.10_Q04GJ9;4.A.6.1.11_D2BKY9;4.A.6.1.12_Q1CY69;4.A.6.1.13_B3WB11;4.A.6.1.15_E1UCI2;4.A.6.1.16_Q8Y8W1;4.A.6.1.18_B3W756;4.A.6.1.1_P69805;4.A.6.1.21_Q1K317;4.A.6.1.23_C1A8G3;4.A.6.1.24_A1RZ69;4.A.6.1.25_CAQ67971.1;4.A.6.1.25_CAQ67972.1;4.A.6.1.6_Q2QKM2;4.A.6.1.7_Q5M5W8;4.A.6.1.9_Q97N94;4.A.6.2.2_C8X4S8	K02796	PTS system, mannose-specific IID component
+manEIIC	4.A.6.1.10_Q04GK0;4.A.6.1.11_D2BKY8;4.A.6.1.12_Q1CY68;4.A.6.1.13_B3WB10;4.A.6.1.15_E1UCI1;4.A.6.1.16_Q8Y8W0;4.A.6.1.18_B3W755;4.A.6.1.1_P69801;4.A.6.1.21_Q1K316;4.A.6.1.23_C1A8G2;4.A.6.1.25_CAQ67972.1;4.A.6.1.2_P26381;4.A.6.1.6_Q2QKM3;4.A.6.1.7_Q5M5W7;4.A.6.1.9_Q97N93;4.A.6.2.2_C8X382;4.A.6.4.1_D9QU69	K02795	PTS system, mannose-specific IIC component
+manEIIB	4.A.6.1.10_Q04GK1;4.A.6.1.11_D2BKY7;4.A.6.1.12_Q1CY67;4.A.6.1.13_B3WB09;4.A.6.1.14_Q8DR78;4.A.6.1.15_E1UCI0;4.A.6.1.16_Q8Y8V8;4.A.6.1.16_Q8Y8V9;4.A.6.1.18_B3W754;4.A.6.1.1_P69797;4.A.6.1.20_H1XUM7;4.A.6.1.21_Q1K315;4.A.6.1.23_C1A8G1;4.A.6.1.24_A1RZ66;4.A.6.1.25_CAQ67973.1;4.A.6.1.2_P26379;4.A.6.1.6_Q2QKM4;4.A.6.1.7_Q5M5W6;4.A.6.1.9_Q97N92;4.A.6.2.2_C8X383	K02794	PTS system, mannose-specific IIB component [EC:2.7.1.69]
+manEIIA	4.A.6.1.12_Q1CY66;4.A.6.1.14_Q8DR78;4.A.6.1.16_Q8Y8V8;4.A.6.1.18_B3W757;4.A.6.1.21_Q1K314;4.A.6.1.24_A1RZ67;4.A.6.1.25_CAQ67974.1;4.A.6.1.2_P26379;4.A.6.1.9_Q97N91;4.A.6.2.2_C8X384	K02793	PTS system, mannose-specific IIA component [EC:2.7.1.69]
+mtlEIIC	4.A.2.1.12_Q9KKQ7;4.A.2.1.24_P69826;4.A.2.1.2_P00550;4.A.2.1.5_P42956	K02800	PTS system, mannitol-specific IIC component
+mtlEIIB	4.A.2.1.2;4.A.2.1.5;4.A.2.1.12;4.A.2.1.24	K02799	PTS system, mannitol-specific IIB component [EC:2.7.1.69]
+mtlEIIA	4.A.2.1.24_P69824;4.A.2.1.5_C0H3V2	K02798	PTS system, mannitol-specific IIA component [EC:2.7.1.69]
+malglcEIIC	4.A.1.1.18_O51590;4.A.1.1.3_P19642	K02791	PTS system, maltose and glucose-specific IIC component
+malglcEIIB	4.A.1.1.18_O51590;4.A.1.1.3_P19642	K02790	PTS system, maltose and glucose-specific IIB component [EC:2.7.1.69]
+lacEIIC	4.A.3.1.1_P11162;4.A.3.1.2_Q045X3;4.A.3.1.3_Q045H3	K02788	PTS system, lactose-specific IIC component
+lacEIIB	4.A.3.1.1;4.A.3.1.2;4.A.3.1.3	K02787	PTS system, lactose-specific IIB component [EC:2.7.1.69]
+lacEIIA	4.A.3.1.1_P0A0D6;4.A.3.1.2_Q045X4;4.A.3.1.3_Q045H4	K02786	PTS system, lactose-specific IIA component [EC:2.7.1.69]
+glc1EIIC	4.A.1.1.11_Q8DS05;4.A.1.1.12_Q48WG5;4.A.1.1.17_Q63GK8;4.A.1.1.18_O51590;4.A.1.1.1_P69786	K02779	PTS system, glucose-specific IIC component
+glc1EIIB	4.A.1.1.1	K02778	PTS system, glucose-specific IIB component [EC:2.7.1.69]
+glc1EIIA	4.A.1.1.1_P69783;4.A.3.2.5_Q8L3C4	K02777	PTS system, glucose-specific IIA component [EC:2.7.1.69]
+gutEIIC	4.A.4.1.1_P56579;4.A.4.1.1_P56580;4.A.4.1.2_O32332;4.A.4.1.2_O32333	K02783	PTS system, glucitol/sorbitol-specific IIC component
+gutEIIB	4.A.4.1	K02782	PTS system, glucitol/sorbitol-specific IIB component [EC:2.7.1.69]
+gutEIIA	4.A.4.1.1_P05706;4.A.4.1.2_O32334	K02781	PTS system, glucitol/sorbitol-specific IIA component [EC:2.7.1.69]
+galEIIC	4.A.5	K20114	PTS system, galactose-specific IIC component
+galEIIB	4.A.5	K20113	PTS system, galactose-specific IIB component [EC:2.7.1.204]
+galEIIA	4.A.5	K20112	PTS system, galactose-specific IIA component [EC:2.7.1.204]
+gamEIID	4.A.6.1.5_P42911	K10986	PTS system, galactosamine-specific IID component
+gamEIIC	4.A.6.1.5_Q9KIP7	K10985	PTS system, galactosamine-specific IIC component
+gamEIIB	4.A.6.1.5_P42909	K10984	PTS system, galactosamine-specific IIB component [EC:2.7.1.69]
+gatEIIC	4.A.5.1.1_P69831;4.A.5.1.2_Q71WA6;4.A.5.1.4_Q8FCM4;4.A.5.1.5_D4GUQ0;4.A.5.1.6_C9MZ79	K02775	PTS system, galactitol-specific IIC component
+gatEIIB	4.A.5.1.1_P37188;4.A.5.1.2_Q71WA5;4.A.5.1.4_Q8FCM5;4.A.5.1.5_D4GUQ1;4.A.5.1.6_C9MZ78	K02774	PTS system, galactitol-specific IIB component [EC:2.7.1.69]
+gatEIIA	4.A.5.1.1_P69828;4.A.5.1.2_Q71WA4;4.A.5.1.4_Q8FCM6;4.A.5.1.5_D4GUP9;4.A.5.1.6_C9MZ76	K02773	PTS system, galactitol-specific IIA component [EC:2.7.1.69]
+gfrEIID	4.A.6.1.19_V7RGM6	K19509	PTS system, fructoselysine and glucoselysine-specific IID component
+gfrEIIC	4.A.6.1.19_V7RE14;4.A.6.1.22_T4NBW3;4.A.6.1.9_Q97N93	K19508	PTS system, fructoselysine and glucoselysine-specific IIC component
+gfrEIIB	4.A.6.1.19_V7IFY8;4.A.6.1.23_C1A8G1	K19507	PTS system, fructoselysine and glucoselysine-specific IIB component [EC:2.7.1.69]
+gfrEIIA	4.A.6.1.19_V7IHL6	K19506	PTS system, fructoselysine and glucoselysine-specific IIA component [EC:2.7.1.69]
+levG	4.A.6.1.2_P26382	K02771	PTS system, fructose-specific IID component
+fru2EIIC	4.A.2.1.25_P32154	K11203	PTS system, fructose-specific IIC-like component
+fru1EIIC	4.A.2.1.13_Q0S1N2;4.A.2.1.14_D2RXA8;4.A.2.1.15_D4GYE5;4.A.2.1.16_Q9RMF5;4.A.2.1.17_Q9HY57;4.A.2.1.18_Q9RZP7;4.A.2.1.19_M7PF02;4.A.2.1.1_P20966;4.A.2.1.20_Q3K0G6;4.A.2.1.21_F8Y3B5;4.A.2.1.22_Q3JZE4;4.A.2.1.23_T5HN74;4.A.2.1.26_q5v5x5;4.A.2.1.4_P71012;4.A.2.1.6_O31645;4.A.2.1.7_Q1LZ59;4.A.2.1.8_Q8DWE7;4.A.2.1.9_Q1R4T1	K02770	PTS system, fructose-specific IIC component
+levF	4.A.6.1.2_P26381	K11196	PTS system, fructose-specific IIC component
+fru2EIIB	4.A.2.1	K11202	PTS system, fructose-specific IIB-like component [EC:2.7.1.69]
+fru1EIIB	4.A.2.1.14_D2RXA4;4.A.2.1.15_D4GYE1;4.A.2.1.22_Q3JZE2;4.A.2.1.26_Q5V5X1;4.A.2.1.7_Q1LZ59;4.A.2.1.9_Q8FC73	K02769	PTS system, fructose-specific IIB component [EC:2.7.1.69]
+levE	4.A.6.1.2_P26380	K11195	PTS system, fructose-specific IIB component [EC:2.7.1.69]
+fru2EIIA	4.A.2.1.25_P32155	K11201	PTS system, fructose-specific IIA-like component [EC:2.7.1.69]
+fru1EIIA	4.A.2.1.14_D2RXA7;4.A.2.1.15_D4GYE4;4.A.2.1.20_Q3K0G6;4.A.2.1.21_F8Y3B4;4.A.2.1.22_Q3JZE3;4.A.2.1.23_T5HNP5;4.A.2.1.25_P32155;4.A.2.1.26_Q5V5X4;4.A.2.1.7_Q1LZ59;4.A.2.1.8_Q1LZ68;4.A.2.1.9_Q1R4S9	K02768	PTS system, fructose-specific IIA component [EC:2.7.1.69]
+levD	4.A.6.1.2_P26379	K11194	PTS system, fructose-specific IIA component [EC:2.7.1.69]
+dglEIIC	4.A.1.1.13_Q57071;4.A.1.1.14_Q53922;4.A.1.1.6_P39816;4.A.1.1.9_P20166	K02765	PTS system, D-glucosamine-specific IIC component
+dglEIIB	4.A.1.1.6	K02764	PTS system, D-glucosamine-specific IIB component [EC:2.7.1.69]
+dglEIIA	4.A.1.1.6	K02763	PTS system, D-glucosamine-specific IIA component [EC:2.7.1.69]
+dgaEIID	4.A.6.1.17_D0ZLR4	K17467	PTS system, D-glucosaminate-specific IID component
+dgaEIIC	4.A.6.1.17_D0ZLR5	K17466	PTS system, D-glucosaminate-specific IIC component
+dgaEIIB	4.A.6.1.17_D0ZLR6	K17465	PTS system, D-glucosaminate-specific IIB component [EC:2.7.1.69]
+dgaEIIA	4.A.6.1.17_D0ZLR7	K17464	PTS system, D-glucosaminate-specific IIA component [EC:2.7.1.69]
+celEIIC	4.A.3.2.1_P17334;4.A.3.2.3_O50980;4.A.3.2.5_Q8L3C2;4.A.3.2.6_Q9KSH4;4.A.3.2.7_C4X745;4.A.3.2.9_U5MFA1;4.A.3.2.2_P46317	K02761	PTS system, cellobiose-specific IIC component
+celEIIB	4.A.3.2.1_P69795;4.A.3.2.3_O50982;4.A.3.2.5_Q8L3C3;4.A.3.2.6_Q9KSH5;4.A.3.2.7_C4X744;4.A.3.2.9_U5MIE1;4.A.3.2.2_P46318	K02760	PTS system, cellobiose-specific IIB component [EC:2.7.1.69]
+celEIIA	4.A.3.2.1_P69791;4.A.3.2.3_O50981;4.A.3.2.6_Q9KSH3;4.A.3.2.7_C4X746;4.A.3.2.9_U5MLJ3;4.A.3.2.2_P46319	K02759	PTS system, cellobiose-specific IIA component [EC:2.7.1.69]
+bglEIIC	4.A.1.2.11_P40739;4.A.1.2.14_ART98499;4.A.1.2.15_ART98417;4.A.1.2.2_P08722;4.A.1.2.5_Q8GGK3	K02757	PTS system, beta-glucosides-specific IIC component
+bglEIIB		K02756	PTS system, beta-glucosides-specific IIB component [EC:2.7.1.69]
+bglEIIA		K02755	PTS system, beta-glucosides-specific IIA component [EC:2.7.1.69]
+ulaEIIC	4.A.7.1	K03475	PTS system, ascorbate-specific IIC component
+ulaEIIB	4.A.7.1	K02822	PTS system, ascorbate-specific IIB component [EC:2.7.1.69]
+ulaEIIA	4.A.2.1.24_P69824	K02821	PTS system, ascorbate-specific IIA component [EC:2.7.1.69]
+glvEIIC	4.A.1.1.10_Q9AGA7;4.A.1.1.16_C7NB69;4.A.1.1.19_ART98514;4.A.1.1.4_O06900;4.A.1.1.8_P54715	K02750	PTS system, arbutin-like IIC component
+glvEIIB	4.A.1.1.4;4.A.1.1.8;4.A.1.1.10;4.A.1.1.16;4.A.1.1.19	K02749	PTS system, arbutin-like IIB component [EC:2.7.1.69]
+ascEIIC		K02753	PTS system, arbutin-, cellobiose-, and salicin-specific IIC component
+ascEIIB		K02752	PTS system, arbutin-, cellobiose-, and salicin-specific IIB component [EC:2.7.1.69]
+mngEIIC	4.A.2.1.3	K11200	PTS system, 2-O-A-mannosyl-D-glycerate-specific IIC component
+mngEIIB	4.A.2.1.3	K11199	PTS system, 2-O-A-mannosyl-D-glycerate-specific IIB component [EC:2.7.1.69]
+mngEIIA	4.A.2.1.3	K11198	PTS system, 2-O-A-mannosyl-D-glycerate-specific IIA component [EC:2.7.1.69]
+dhaM		K05881	PTS hybrid protein
+prs	2.7.6.1	K00948	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1] 
+tc.pot	2.A.17.1.1_P0C2U2;2.A.17.1.2_P77304;2.A.17.1.3_P36837;2.A.17.1.6_Q5M4H8;2.A.17.4.7_Q8EKT7	K03305	proton-dependent oligopeptide transporter, POT family
+gltP	2.A.23.1.1_P21345;2.A.23.1.2_P24943	K11102	proton glutamate symport protein
+scpC	2.8.3.-	K22214	propionyl-CoA:succinyl-CoA transferase [EC:2.8.3.-]
+pcc7	6.4.1.3;2.1.3.15	K15052	propionyl-CoA carboxylase [EC:6.4.1.3 2.1.3.15] 
+pduW	2.7.2.15	K19697	propionate kinase [EC:2.7.2.15]
+tdcD	2.7.2.15	K00932	propionate kinase [EC:2.7.2.15]
+pct	2.8.3.1	K01026	propionate CoA-transferase [EC:2.8.3.1]
+proY	2.A.3.1.23_P0AAE2;2.A.3.1.6_P37460	K11736	proline-specific permease ProY
+gpmB	5.4.2.12	K15634	probable phosphoglycerate mutase [EC:5.4.2.12] 
+gutA	2.A.2	K16248	probable glucitol transport protein GutA
+ppgK	2.7.1.63	K00886	ppgK; polyphosphate glucokinase [EC:2.7.1.63] 
+lctB	1.A.1.1	K08713	potassium channel LctB
+oprB	1.B.19.1.1_Q51485;1.B.19.1.2_A4LTL1	K07267	porin
+wza	1.B.18.2.2_Q27SU9;1.B.18.3.2_Q45407;1.B.18.3.4_F8KVN6;1.B.18.3.5_K9TEU5;1.B.18.3.7_B0RRH7	K01991	polysaccharide export outer membrane protein
+vpsN	1.B.18	K20988	polysaccharide biosynthesis/export protein VpsN
+vpsM	1.B.66.3.1;1.B.66.3.2	K20920	polysaccharide biosynthesis protein VpsM
+ppk	2.7.4.1	K00937	polyphosphate kinase [EC:2.7.4.1]
+ppk2	2.7.4.1	K22468	polyphosphate kinase [EC:2.7.4.1]
+phbC	2.3.1.-	K03821	polyhydroxyalkanoate synthase subunit PhaC [EC:2.3.1.-]
+phaZ	3.1.1.75	K05973	poly(3-hydroxybutyrate) depolymerase [EC:3.1.1.75]
+paa	2.A.56.3.1_P74223;3.A.1.3.15_P54535;3.A.1.3.15_P54536;3.A.1.3.23_Q9HU31;3.A.1.3.24_Q9F3K5;3.A.1.3.25_Q9CES5;3.A.1.3.27_Q8RCC4	K02030	polar amino acid transport system substrate-binding protein
+pap	3.A.1.3.15_P54536;3.A.1.3.23_Q9HU29;3.A.1.3.23_Q9HU30;3.A.1.3.24_Q9F3K6	K02029	polar amino acid transport system permease protein
+pas	3.A.1.3.15_P54537;3.A.1.3.23_Q9HU32;3.A.1.3.24_Q9F3K7;3.A.1.3.25_Q9CES4	K02028	polar amino acid transport system ATP-binding protein [EC:3.6.3.21]
+pmm-pgm	5.4.2.8;5.4.2.2	K15778	pmm-pgm; phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] 
+pyk	2.7.1.40	K00873	PK, pyk; pyruvate kinase [EC:2.7.1.40] 
+ptsP		K08484	phosphotransferase system, enzyme I, PtsP [EC:2.7.3.9]
+ptsI	4.A.2.1.26_Q5V5X2	K08483	phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]
+comA	4.4.1.19	K08097	phosphosulfolactate synthase [EC:4.4.1.19] 
+psp	3.1.3.3	K22305	phosphoserine phosphatase [EC:3.1.3.3] 
+thrH	3.1.3.3;2.7.1.39	K02203	phosphoserine / homoserine phosphotransferase [EC:3.1.3.3 2.7.1.39] 
+prk	2.7.1.19	K00855	phosphoribulokinase [EC:2.7.1.19] 
+phnD	3.A.1.9	K02044	phosphonate transport system substrate-binding protein
+phnE	3.A.1.9	K02042	phosphonate transport system permease protein
+phnC	3.A.1.9	K02041	phosphonate transport system ATP-binding protein [EC:3.6.3.28]
+lhpP	3.6.1.1;3.1.3.-	K11725	phospholysine phosphohistidine inorganic pyrophosphate phosphatase [EC:3.6.1.1 3.1.3.-]
+lhpp	3.6.1.1;3.1.3.-	K11725	phospholysine phosphohistidine inorganic pyrophosphate phosphatase [EC:3.6.1.1 3.1.3.-]
+mlaD	3.A.1.27.3_P64604	K02067	phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein
+mlaE	3.A.1.27.3_P64606	K02066	phospholipid/cholesterol/gamma-HCH transport system permease protein
+mlaF	3.A.1.27.3_P63386	K02065	phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein
+mlaA	3.A.1.27.3_P76506	K04754	phospholipid-binding lipoprotein MlaA
+mlaB	3.A.1.27.3_P64602	K07122	phospholipid transport system transporter-binding protein
+mlaC	3.A.1.27.3_P0ADV7	K07323	phospholipid transport system substrate-binding protein
+acpA	3.1.4.3	K01114	phospholipase C [EC:3.1.4.3]
+pgk	2.7.2.3	K00927	phosphoglycerate kinase [EC:2.7.2.3] 
+ppc	4.1.1.31	K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31] 
+pckA1	4.1.1.32	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+ptsO		K08485	phosphocarrier protein NPr
+ptsH	8.A.8.1.1	K02784	phosphocarrier protein HPr
+fruB	4.A.1.1.15_Q9HXN5;4.A.2.1.17_Q9HY55;4.A.2.1.19_M7QAG8;4.A.2.1.1_P69811	K11183	phosphocarrier protein FPr
+hpr	4.A.1.1.15_Q9HXN5;4.A.2.1.19_M7QAG8;4.A.2.1.26_Q5V5X3	K11189	phosphocarrier protein
+cysH	1.8.4.8;1.8.4.10	K00390	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10] 
+yjbB	2.A.58.2	K03324	phosphate:Na+ symporter
+oprO_P	1.B.5.1	K07221	phosphate-selective porin OprO and OprP
+pstS	3.A.1.7	K02040	phosphate transport system substrate-binding protein
+pstA	3.A.1.7	K02038	phosphate transport system permease protein
+pstC	3.A.1.7	K02037	phosphate transport system permease protein
+pstB	3.A.1.7	K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]
+ptb	2.3.1.19	K00634	phosphate butyryltransferase [EC:2.3.1.19]
+pta2	2.3.1.8	K13788	phosphate acetyltransferase [EC:2.3.1.8]
+pheP	2.A.3.1.1_P24207	K11732	phenylalanine-specific permease
+pgm2	5.4.2.2;5.4.2.7	K15779	PGM2; phosphoglucomutase / phosphopentomutase [EC:5.4.2.2 5.4.2.7] 
+pgm	5.4.2.2	K01835	pgm; phosphoglucomutase [EC:5.4.2.2] 
+pgl_1	3.1.1.31	K01057	PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31] 
+pgl_2	3.1.1.31	K07404	pgl; 6-phosphogluconolactonase [EC:3.1.1.31] 
+pgi_arch	5.3.1.9	K06859	pgi1; glucose-6-phosphate isomerase, archaeal [EC:5.3.1.9] 
+pgi-pmi	5.3.1.9;5.3.1.8	K15916	pgi-pmi; glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8] 
+pgd	1.1.1.44;1.1.1.343	K00033	PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] 
+gpmA	5.4.2.11	K01834	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] 
+napA	1.7.99.-	K02567	periplasmic nitrate reductase NapA [EC:1.7.99.-]
+merP	1.A.72.1	K08364	periplasmic mercuric ion binding protein
+ftrA	2.A.108.2.10;2.A.108.2.4;2.A.108.2.9	K07230	periplasmic iron binding protein
+pepck	4.1.1.38	K20370	PEPCK; phosphoenolpyruvate carboxykinase (diphosphate) [EC:4.1.1.38] 
+pdhB	1.2.4.1	K00162	PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1] 
+pdhA	1.2.4.1	K00161	PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1] 
+pdc	4.1.1.1	K01568	PDC, pdc; pyruvate decarboxylase [EC:4.1.1.1] 
+ykkC	2.A.7.1.5	K18924	paired small multidrug resistance pump
+ykkD	2.A.7.1.5	K18925	paired small multidrug resistance pump
+aaeB	2.A.85.1.2	K03468	p-hydroxybenzoic acid efflux pump subunit AaeB
+oadG		K01573	oxaloacetate decarboxylase (Na+ extruding) subunit gamma
+oadA	7.2.4.2	K01571	oxaloacetate decarboxylase (Na+ extruding) subunit alpha [EC:7.2.4.2]
+oorD	1.2.7.10	K19072	oxalate oxidoreductase subunit delta [EC:1.2.7.10]
+oorB	1.2.7.10	K19071	oxalate oxidoreductase subunit beta [EC:1.2.7.10]
+oorA	1.2.7.10	K19070	oxalate oxidoreductase subunit alpha [EC:1.2.7.10]
+fpvA	1.B.14.1.14_P25184;1.B.14.1.1_P16869	K16088	outer-membrane receptor for ferric coprogen and ferric-rhodotorulic acid
+cfrA	1.B.14.1.3_O54507;1.B.14.1.4_P17315	K16089	outer membrane receptor for ferrienterochelin and colicins
+oprN	1.B.17	K18300	outer membrane protein, multidrug efflux system
+opmD	1.B.17;2.A.6.2.32	K18308	outer membrane protein, multidrug efflux system
+opmE	1.B.17;2.A.6.2.34	K19593	outer membrane protein, multidrug efflux system
+adeC	1.B.17;2.A.6.2.40	K18147	outer membrane protein, multidrug efflux system
+smeC	1.B.17;2.A.6.2.41	K18323	outer membrane protein, multidrug efflux system
+ameC	1.B.17.3.1_P24145	K18904	outer membrane protein, multidrug efflux system
+oprC	1.B.17.3.3	K18903	outer membrane protein, multidrug efflux system
+mdtP	1.B.17.3.9	K15550	outer membrane protein, multidrug efflux system
+adeK	2.A.6.2.5_Q51006;2.A.6.2.9_Q9WWZ8;2.A.6.2.23_Q6VV67	K18139	outer membrane protein, multidrug efflux system
+cusC	1.B.17.3.4;1.B.17.3.5	K07796	outer membrane protein, Cu(I)/Ag(I) efflux system
+czcC	1.B.17.2.2	K15725	outer membrane protein, cobalt-zinc-cadmium efflux system
+porB1	1.B.2.2	K08719	outer membrane protein B
+bamC	1.B.33.1	K07287	outer membrane protein assembly factor BamC
+phoE	1.B.1.1.2	K11929	outer membrane pore protein E
+hgdD	1.B.17.2.10_V5V5Z3;3.A.1.114.1_Q8YT39	K03287	outer membrane factor, OMF family
+opuC	3.A.1.12.10_Q87WH3;3.A.1.12.11_Q8Q040;3.A.1.12.14_Q8ZPK2;3.A.1.12.15_P33362;3.A.1.12.4_O32243	K05845	osmoprotectant transport system substrate-binding protein
+opuBD	3.A.1.12.10_Q87WH4;3.A.1.12.11_Q8Q042;3.A.1.12.11_Q8Q043;3.A.1.12.14_Q8ZPK1;3.A.1.12.14_Q8ZPK3;3.A.1.12.15_P33359;3.A.1.12.15_P33361;3.A.1.12.4_O34742;3.A.1.12.4_O34878;3.A.1.12.8_Q93A34	K05846	osmoprotectant transport system permease protein
+opuA	3.A.1.12.10_Q87WH5;3.A.1.12.11_Q8Q041;3.A.1.12.14_Q8ZPK4;3.A.1.12.15_P33360;3.A.1.12.4_O34992;3.A.1.12.8_Q93A35	K05847	osmoprotectant transport system ATP-binding protein
+oppA1	3.A.1.5.18_O31315;3.A.1.5.18_O50927;3.A.1.5.18_O51307;3.A.1.5.18_O51308;3.A.1.5.18_O54584;3.A.1.5.19_Q2FZR3;3.A.1.5.1_P06202;3.A.1.5.1_P77348;3.A.1.5.25_Q64K09;3.A.1.5.25_Q9CIL2;3.A.1.5.37_B1W1M2;3.A.1.5.41_P23843;3.A.1.5.41_P77348;3.A.1.5.41_Q46863	K15580	oligopeptide transport system substrate-binding protein
+oppB1	3.A.1.5.18_O31307;3.A.1.5.19_Q2FZR7;3.A.1.5.1_P08005;3.A.1.5.25_Q9CIL1;3.A.1.5.37_B1W1M1;3.A.1.5.41_P0AFH2	K15581	oligopeptide transport system permease protein
+oppC1	3.A.1.5.18_O51310;3.A.1.5.19_Q2FZR6;3.A.1.5.1_P08006;3.A.1.5.25_Q9CIL0;3.A.1.5.37_B1W1M0;3.A.1.5.41_P0AFH6	K15582	oligopeptide transport system permease protein
+oppD1	3.A.1.5.18_O31309;3.A.1.5.19_Q2FZR5;3.A.1.5.1_P04285;3.A.1.5.20_P42064;3.A.1.5.25_Q9CIK9;3.A.1.5.37_B1W1L9;3.A.1.5.41_P76027	K15583	oligopeptide transport system ATP-binding protein
+oppF1	3.A.1.5.18_O31310;3.A.1.5.19_Q2FZR4;3.A.1.5.1_P08007;3.A.1.5.20_P42065;3.A.1.5.25_Q9CIK8;3.A.1.5.37_B1W1L8;3.A.1.5.41_P77737	K10823	oligopeptide transport system ATP-binding protein
+togT	2.A.2.5.1_Q93KC2	K16210	oligogalacturonide transporter
+togB	3.A.1.1.11_Q93KB7	K10192	oligogalacturonide transport system substrate-binding protein
+togN	3.A.1.1.11_Q93KB9	K10194	oligogalacturonide transport system permease protein
+togM	3.A.1.1.11_Q93KC0	K10193	oligogalacturonide transport system permease protein
+togA	3.A.1.1.11_Q93KB8	K10195	oligogalacturonide transport system ATP-binding protein
+oleC5	3.A.1.105.2	K18233	oleandomycin transport system permease protein
+oleC4	3.A.1.105.2	K18232	oleandomycin transport system ATP-binding protein
+ogdh	1.2.4.2	K00164	OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2] 
+occT	3.A.1.3.5;3.A.1.3.6	K10018	octopine/nopaline transport system substrate-binding protein
+occM	3.A.1.3.23_Q9HU29	K10019	octopine/nopaline transport system permease protein
+occQ	3.A.1.3.5;3.A.1.3.6	K10020	octopine/nopaline transport system permease protein
+occP	3.A.1.3.23_Q9HU32	K10021	octopine/nopaline transport system ATP-binding protein [EC:3.6.3.-]
+metZ	2.5.1.-	K10764	O-succinylhomoserine sulfhydrylase [EC:2.5.1.-] 
+eamA	2.A.7.3.2_P31125	K15268	O-acetylserine/cysteine efflux transporter
+tsx	1.B.10.1.1_P0A927	K05517	nucleoside-specific channel-forming protein
+nupC	2.A.41.1.1_P0AFF2;2.A.41.1.2_P39141	K11535	nucleoside transport protein
+nupX	2.A.41.2.10_P33021	K16325	nucleoside permease
+tc.ncs2	2.A.40.2.1_P50487	K03458	nucleobase:cation symporter-2, NCS2 family
+tc.ncs1	2.A.39.5.1_Q082R8;2.A.39.1.5_P94369;2.A.39.3.12_V9SBV7	K03457	nucleobase:cation symporter-1, NCS1 family
+ribS	3.A.1.17.11_D1CEG8;3.A.1.17.14_A9WGD2;3.A.1.17.7_A7NLS2	K02051	NitT/TauT family transport system substrate-binding protein
+ribP	3.A.1.17.11_D1CEG9;3.A.1.17.14_A9WGD1;3.A.1.17.7_A7NLS3	K02050	NitT/TauT family transport system permease protein
+nosZ	1.7.2.4	K00376	nitrous-oxide reductase [EC:1.7.2.4]
+nifW		K02595	nitrogenase-stabilizing/protective protein
+nifK	1.18.6.1	K02591	nitrogenase molybdenum-iron protein beta chain [EC:1.18.6.1]
+nifD	1.18.6.1	K02586	nitrogenase molybdenum-iron protein alpha chain [EC:1.18.6.1]
+nifH		K02588	nitrogenase iron protein NifH
+anfG	1.18.6.1	K00531	nitrogenase delta subunit [EC:1.18.6.1]
+nifZ		K02597	nitrogen fixation protein NifZ
+nifX		K02596	nitrogen fixation protein NifX
+nirC	1.A.16.3	K02598	nitrite transporter NirC
+nirS	1.7.2.1;1.7.99.1	K15864	nitrite reductase (NO-forming) / hydroxylamine reductase [EC:1.7.2.1 1.7.99.1]
+nirK	1.7.2.1	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]
+nirD	1.7.1.15	K00363	nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+nirB	1.7.1.15	K00362	nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+nit6	1.7.1.4	K17877	nitrite reductase (NAD(P)H) [EC:1.7.1.4]
+nrfA	1.7.2.2	K03385	nitrite reductase (cytochrome c-552) [EC:1.7.2.2]
+norC		K02305	nitric oxide reductase subunit C
+norB	1.7.2.5	K04561	nitric oxide reductase subunit B [EC:1.7.2.5]
+norW	1.18.1.-	K12265	nitric oxide reductase FlRd-NAD(+) reductase [EC:1.18.1.-]
+nrtA	3.A.1.16.1;3.A.1.16.2	K15576	nitrate/nitrite transport system substrate-binding protein
+nrtB	3.A.1.16.1;3.A.1.16.2	K15577	nitrate/nitrite transport system permease protein
+nrtC	3.A.1.16.1	K15578	nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+nrtD	3.A.1.16.1;3.A.1.16.2	K15579	nitrate/nitrite transport system ATP-binding protein
+narJ		K00373	nitrate reductase molybdenum cofactor assembly chaperone NarJ/NarW
+narI	1.7.5.1;1.7.99.-	K00374	nitrate reductase gamma subunit [EC:1.7.5.1 1.7.99.-]
+narH	1.7.5.1;1.7.99.-	K00371	nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.-]
+narG	1.7.5.1;1.7.99.-	K00370	nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:1.7.5.1 1.7.99.-]
+nr	1.7.1.1;1.7.1.2;1.7.1.3	K10534	nitrate reductase (NAD(P)H) [EC:1.7.1.1 1.7.1.2 1.7.1.3]
+pnuC	4.B.1.1.1_P24520;4.B.1.1.2_Q4QLL1;4.B.1.1.3_Q9EWJ7;4.B.1.1.5_Q8NU75;4.B.1.1.6_Q837U1	K03811	nicotinamide mononucleotide transporter
+rcnA	2.A.52.2	K08970	nickel/cobalt exporter
+nikA	3.A.1.5.3;3.A.1.5.33;3.A.1.5.40;3.A.1.5.43	K15584	nickel transport system substrate-binding protein
+nikB	3.A.1.5.3;3.A.1.5.33;3.A.1.5.40;3.A.1.5.43	K15585	nickel transport system permease protein
+nikC	3.A.1.5.3;3.A.1.5.33;3.A.1.5.40;3.A.1.5.43	K15586	nickel transport system permease protein
+nikD	3.A.1.5.3;3.A.1.5.33;3.A.1.5.40;3.A.1.5.43	K15587	nickel transport system ATP-binding protein [EC:3.6.3.24]
+nikE	3.A.1.5.3;3.A.1.5.33;3.A.1.5.40;3.A.1.5.43	K10824	nickel transport system ATP-binding protein [EC:3.6.3.24]
+cbiL		K16915	nickel transport protein
+cbiK	3.A.1.22	K10094	nickel transport protein
+niaX	2.A.88.5.1_Q99Z31;2.A.88.5.2_A2RKV5	K16788	niacin transporter
+natB1	3.A.1.4.2_Q55387	K11954	neutral amino acid transport system substrate-binding protein
+natD1	3.A.1.4.2_P74318	K11956	neutral amino acid transport system permease protein
+natC	3.A.1.4.2_P74455	K11955	neutral amino acid transport system permease protein
+natE	3.A.1.4.2_P73650	K11958	neutral amino acid transport system ATP-binding protein
+natA1	3.A.1.4.2_Q55164	K11957	neutral amino acid transport system ATP-binding protein
+tc.nss	2.A.22.4.1_O50649;2.A.22.4.3_Q8NRL8;2.A.22.5.2_Q8RHM5	K03308	neurotransmitter:Na+ symporter, NSS family
+hndD	1.12.1.3	K18332	NADP-reducing hydrogenase subunit HndD [EC:1.12.1.3]
+hndC	1.12.1.3	K18331	NADP-reducing hydrogenase subunit HndC [EC:1.12.1.3]
+hndB	1.12.1.3	K17992	NADP-reducing hydrogenase subunit HndB [EC:1.12.1.3]
+hndA	1.12.1.3	K18330	NADP-reducing hydrogenase subunit HndA [EC:1.12.1.3]
+nuoN	7.1.1.2	K00343	NADH-quinone oxidoreductase subunit N [EC:7.1.1.2]
+nuoM	7.1.1.2	K00342	NADH-quinone oxidoreductase subunit M [EC:7.1.1.2]
+nuoLM	7.1.1.2	K15863	NADH-quinone oxidoreductase subunit L/M [EC:7.1.1.2]
+nuoL	7.1.1.2	K00341	NADH-quinone oxidoreductase subunit L [EC:7.1.1.2]
+nuoK	7.1.1.2	K00340	NADH-quinone oxidoreductase subunit K [EC:7.1.1.2]
+nuoJ	7.1.1.2	K00339	NADH-quinone oxidoreductase subunit J [EC:7.1.1.2]
+nuoI	7.1.1.2	K00338	NADH-quinone oxidoreductase subunit I [EC:7.1.1.2]
+nuoH	7.1.1.2	K00337	NADH-quinone oxidoreductase subunit H [EC:7.1.1.2]
+nuoG	7.1.1.2	K00336	NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]
+nuoF	7.1.1.2	K00335	NADH-quinone oxidoreductase subunit F [EC:7.1.1.2]
+nuoE	7.1.1.2	K00334	NADH-quinone oxidoreductase subunit E [EC:7.1.1.2]
+nuoD	7.1.1.2	K00333	NADH-quinone oxidoreductase subunit D [EC:7.1.1.2]
+nuoCD	7.1.1.2	K13378	NADH-quinone oxidoreductase subunit C/D [EC:7.1.1.2]
+nuoC	7.1.1.2	K00332	NADH-quinone oxidoreductase subunit C [EC:7.1.1.2]
+nuoBCD	7.1.1.2	K13380	NADH-quinone oxidoreductase subunit B/C/D [EC:7.1.1.2]
+nuoB	7.1.1.2	K00331	NADH-quinone oxidoreductase subunit B [EC:7.1.1.2]
+nuoA	7.1.1.2	K00330	NADH-quinone oxidoreductase subunit A [EC:7.1.1.2]
+frd.NADHE		K18560	NADH-dependent fumarate reductase subunit E 
+frd.NADHD		K18559	NADH-dependent fumarate reductase subunit D 
+frd.NADHC		K18558	NADH-dependent fumarate reductase subunit C 
+frd.NADHB	1.3.1.6	K18557	NADH-dependent fumarate reductase subunit B [EC:1.3.1.6] 
+frd.NADHA	1.3.1.6	K18556	NADH-dependent fumarate reductase subunit A [EC:1.3.1.6] 
+ndhN	7.1.1.2	K05585	NAD(P)H-quinone oxidoreductase subunit N [EC:7.1.1.2]
+ndhM	7.1.1.2	K05584	NAD(P)H-quinone oxidoreductase subunit M [EC:7.1.1.2]
+ndhL	7.1.1.2	K05583	NAD(P)H-quinone oxidoreductase subunit L [EC:7.1.1.2]
+ndhK	7.1.1.2	K05582	NAD(P)H-quinone oxidoreductase subunit K [EC:7.1.1.2]
+ndhJ	7.1.1.2	K05581	NAD(P)H-quinone oxidoreductase subunit J [EC:7.1.1.2]
+ndhI	7.1.1.2	K05580	NAD(P)H-quinone oxidoreductase subunit I [EC:7.1.1.2]
+ndhH	7.1.1.2	K05579	NAD(P)H-quinone oxidoreductase subunit H [EC:7.1.1.2]
+ndhG	7.1.1.2	K05578	NAD(P)H-quinone oxidoreductase subunit 6 [EC:7.1.1.2]
+ndhF	7.1.1.2	K05577	NAD(P)H-quinone oxidoreductase subunit 5 [EC:7.1.1.2]
+ndhE	7.1.1.2	K05576	NAD(P)H-quinone oxidoreductase subunit 4L [EC:7.1.1.2]
+ndhD	7.1.1.2	K05575	NAD(P)H-quinone oxidoreductase subunit 4 [EC:7.1.1.2]
+ndhC	7.1.1.2	K05574	NAD(P)H-quinone oxidoreductase subunit 3 [EC:7.1.1.2]
+ndhB	7.1.1.2	K05573	NAD(P)H-quinone oxidoreductase subunit 2 [EC:7.1.1.2]
+ndhA	7.1.1.2	K05572	NAD(P)H-quinone oxidoreductase subunit 1 [EC:7.1.1.2]
+nhaC	2.A.35.1.2_P54571;2.A.35.1.3_Q838N7;2.A.35.1.4_B0R9X2	K03315	Na+:H+ antiporter, NhaC family
+nhaB	2.A.34.1	K03314	Na+:H+ antiporter, NhaB family
+nhaA	2.A.33.1	K03313	Na+:H+ antiporter, NhaA family
+nqrF	7.2.1.1	K00351	Na+-transporting NADH:ubiquinone oxidoreductase subunit F [EC:7.2.1.1]
+nqrE	7.2.1.1	K00350	Na+-transporting NADH:ubiquinone oxidoreductase subunit E [EC:7.2.1.1]
+nqrD	7.2.1.1	K00349	Na+-transporting NADH:ubiquinone oxidoreductase subunit D [EC:7.2.1.1]
+nqrC	7.2.1.1	K00348	Na+-transporting NADH:ubiquinone oxidoreductase subunit C [EC:7.2.1.1]
+nqrB	7.2.1.1	K00347	Na+-transporting NADH:ubiquinone oxidoreductase subunit B [EC:7.2.1.1]
+nqrA	7.2.1.1	K00346	Na+-transporting NADH:ubiquinone oxidoreductase subunit A [EC:7.2.1.1]
+rnfG		K03612	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit G
+rnfE		K03613	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit E
+rnfD	7.2.1.2	K03614	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit D [EC:7.2.1.2]
+rnfC	7.2.1.2	K03615	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit C [EC:7.2.1.2]
+rnfB	7.2.1.2	K03616	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit B [EC:7.2.1.2]
+rnfA		K03617	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit A
+dasA	3.A.1.1.33_Q8KN19	K17329	N,N'-diacetylchitobiose transport system substrate-binding protein
+dasC	3.A.1.1.33_Q8KN17	K17331	N,N'-diacetylchitobiose transport system permease protein
+dasB	3.A.1.1.33_Q8KN18	K17330	N,N'-diacetylchitobiose transport system permease protein
+ngcE	3.A.1.1.18_Q8RJV0	K10200	N-acetylglucosamine transport system substrate-binding protein
+ngcG	3.A.1.1.18_Q8RJU8	K10202	N-acetylglucosamine transport system permease protein
+ngcF	3.A.1.1.18_Q8RJU9	K10201	N-acetylglucosamine transport system permease protein
+mxaL		K16259	mxaL protein 
+mxaK		K16258	mxaK protein 
+mxaJ		K16254	mxaJ protein 
+mxaD		K16260	mxaD protein 
+mxaC		K16257	mxaC protein 
+mxaA		K16256	mxaA protein 
+sugS1	3.A.1.1.31_Q7D8J9;3.A.1.1.41_G4FGN8;3.A.1.1.42_Q9FBS5;3.A.1.1.43_Q9FBS5;3.A.1.1.46_P76042;3.A.1.1.48_D6ZW64;3.A.1.1.7_O51923	K02027	multiple sugar transport system substrate-binding protein
+sugP	3.A.1.1.31_O50452;3.A.1.1.37_Q9WYB4;3.A.1.1.41_G4FGN7;3.A.1.1.42_Q9FBS6;3.A.1.1.43_Q9FBS6;3.A.1.1.46_P0AFR7;3.A.1.1.48_D6ZW63;3.A.1.1.7_O51924	K02025	multiple sugar transport system permease protein
+sugP1	3.A.1.1.31_O50453;3.A.1.1.41_G4FGN6;3.A.1.1.46_P77716;3.A.1.1.48_D6ZW62;3.A.1.1.7_O51925	K02026	multiple sugar transport system permease protein
+malK	3.A.1.1.12_Q9AI63;3.A.1.1.17_Q9R9Q4;3.A.1.1.19_Q8L122;3.A.1.1.1_P68187;3.A.1.1.49_O30494;3.A.1.1.4_Q01937	K10111	multiple sugar transport system ATP-binding protein [EC:3.6.3.-]
+msmX	3.A.1.1.14_Q97UF2;3.A.1.1.16_Q8TZQ3;3.A.1.1.22_Q9X103;3.A.1.1.23_P96483;3.A.1.1.24_Q72L52;3.A.1.1.25_Q72L52;3.A.1.1.26_P94360;3.A.1.1.27_Q8DT25;3.A.1.1.28_Q00752;3.A.1.1.30_Q88P35;3.A.1.1.31_O50454;3.A.1.1.32_Q55035;3.A.1.1.33_Q9L0Q1;3.A.1.1.34_O32151;3.A.1.1.34_P94360;3.A.1.1.45_Q8NMV1;3.A.1.1.46_P77481	K10112	multiple sugar transport system ATP-binding protein
+marC	2.A.95.1.4_Q8J305;2.A.95.1.6_D3P9M4;2.A.95.1.7_P25743	K05595	multiple antibiotic resistance protein
+mdtO	2.A.85.6.1	K15547	multidrug resistance protein MdtO
+ebrB	2.A.7.1.6	K11815	multidrug resistance protein EbrB
+ebrA	2.A.7.1.6	K11814	multidrug resistance protein EbrA
+bpeF	2.A.6.2	K18902	multidrug efflux pump
+mdtB	2.A.6.2	K07788	multidrug efflux pump
+mdtC	2.A.6.2	K07789	multidrug efflux pump
+mdtF	2.A.6.2.13	K18899	multidrug efflux pump
+mexD	2.A.6.2.15	K18296	multidrug efflux pump
+mexF	2.A.6.2.16	K18299	multidrug efflux pump
+mexK	2.A.6.2.17	K18303	multidrug efflux pump
+acrF	2.A.6.2.2_P31224	K18142	multidrug efflux pump
+mexB	2.A.6.2.2_P31224;2.A.6.2.5_Q51073;2.A.6.2.6_P52002;2.A.6.2.6_P52477;2.A.6.2.9_O52248;2.A.6.2.23_Q6VV68	K18138	multidrug efflux pump
+mexY	2.A.6.2.21;2.A.6.2.24	K18095	multidrug efflux pump
+triC	2.A.6.2.27	K21134	multidrug efflux pump
+vexF	2.A.6.2.30	K18989	multidrug efflux pump
+mexI	2.A.6.2.32	K18307	multidrug efflux pump
+adeB	2.A.6.2.40	K18146	multidrug efflux pump
+smeB	2.A.6.2.41	K18322	multidrug efflux pump
+oqxB	2.A.6.2.47	K19585	multidrug efflux pump
+acrD	2.A.6.2.7_P24177	K18324	multidrug efflux pump
+mnhG	2.A.63.1;2.A.63.2	K05571	multicomponent Na+:H+ antiporter subunit G
+mnhF	2.A.63.1;2.A.63.2	K05570	multicomponent Na+:H+ antiporter subunit F
+mnhE	2.A.63.1;2.A.63.2	K05569	multicomponent Na+:H+ antiporter subunit E
+mnhD	2.A.63.1;2.A.63.2	K05568	multicomponent Na+:H+ antiporter subunit D
+mnhC	2.A.63.1;2.A.63.2	K05567	multicomponent Na+:H+ antiporter subunit C
+mnhB	2.A.63.1;2.A.63.2	K05566	multicomponent Na+:H+ antiporter subunit B
+mnhA	2.A.63.1;2.A.63.2	K05565	multicomponent Na+:H+ antiporter subunit A
+phaG	2.A.63.1	K05564	multicomponent K+:H+ antiporter subunit G
+phaF	2.A.63.1	K05563	multicomponent K+:H+ antiporter subunit F
+phaE	2.A.63.1	K05562	multicomponent K+:H+ antiporter subunit E
+phaD	2.A.63.1	K05561	multicomponent K+:H+ antiporter subunit D
+phaC	2.A.63.1	K05560	multicomponent K+:H+ antiporter subunit C
+phaA	2.A.63.1	K05559	multicomponent K+:H+ antiporter subunit A
+mqo	1.1.5.4	K00116	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4] 
+ybaL		K03455	monovalent cation:H+ antiporter-2, CPA2 family
+mtmC		K16177	monomethylamine corrinoid protein 
+wtpA	3.A.1.6.5	K15495	molybdate/tungstate transport system substrate-binding protein
+wtpB	3.A.1.6.5	K15496	molybdate/tungstate transport system permease protein
+wtpC	3.A.1.6.5	K15497	molybdate/tungstate transport system ATP-binding protein [EC:3.6.3.- 3.6.3.55]
+modA	3.A.1.8	K02020	molybdate transport system substrate-binding protein
+modB	3.A.1.8	K02018	molybdate transport system permease protein
+modC	3.A.1.8	K02017	molybdate transport system ATP-binding protein [EC:3.6.3.29]
+modF		K05776	molybdate transport system ATP-binding protein
+yqgE	2.A.1.33.1_P54487	K08222	MFS transporter, YQGE family, putative transporter
+ynfM	2.A.1.36.1_P43531	K08224	MFS transporter, YNFM family, putative membrane transport protein
+xylE	2.A.1.1.3_P0AGF4	K08138	MFS transporter, SP family, xylose:H+ symportor
+hxt	2.A.1.1.32_P15729;2.A.1.1.35_Q7BEC4;2.A.1.1.81_Q0SE66	K08139	MFS transporter, SP family, sugar:H+ symporter
+iolF	2.A.1.1.74_Q926Q9	K06610	MFS transporter, SP family, inositol transporter
+glf	2.A.1.1.4_P21906	K13854	MFS transporter, SP family, glucose uniporter
+galP	2.A.1.1.1_P0AEP1;2.A.1.1.2_P0AE24	K08137	MFS transporter, SP family, galactose:H+ symporter
+araE	2.A.1.1.2_P0AE24;2.A.1.1.55_P96710	K02100	MFS transporter, SP family, arabinose:H+ symporter
+mfs.set	2.A.1.20.1_P31675;2.A.1.20.2_P33026;2.A.1.20.3_P31436;2.A.1.20.4_Q9S3K0	K03291	MFS transporter, SET family, sugar efflux transporter
+ydjE	2.A.1.82.4_O34691	K08369	MFS transporter, putative metabolite:H+ symporter
+hcaT	2.A.1.65.9_Q45632	K05820	MFS transporter, PPP family, 3-phenylpropionic acid transporter
+PHO84	2.A.1.1.15_P95908	K08176	MFS transporter, PHS family, inorganic phosphate transporter
+ampG	2.A.1.25.5_G3XCT7	K08218	MFS transporter, PAT family, beta-lactamase induction signal transducer AmpG
+uhpC	2.A.1.4.4_P09836;2.A.1.4.6_Q9Z7N9	K07783	MFS transporter, OPA family, sugar phosphate sensor protein UhpC
+hpt	2.A.1.4.6_Q9Z7N9	K02445	MFS transporter, OPA family, glycerol-3-phosphate transporter
+lacY	2.A.1.5.1_P02920;2.A.1.5.2_P16552;2.A.1.5.3_P30000;2.A.1.5.4_P96517	K02532	MFS transporter, OHS family, lactose permease
+oxlT	2.A.1.11.3_P37662	K08177	MFS transporter, OFA family, oxalate/formate antiporter
+xapB	2.A.1.10.1_P0AFF4;2.A.1.10.2_P45562	K11537	MFS transporter, NHS family, xanthosine permease
+nupG	2.A.1.10.1_P0AFF4	K03289	MFS transporter, NHS family, nucleoside permease
+proP	2.A.1.6.4_P0C0L7	K03762	MFS transporter, MHS family, proline/betaine transporter
+citA	2.A.1.6.1_P16482;2.A.1.6.7_P0A2G3	K03288	MFS transporter, MHS family, citrate/tricarballylate:H+ symporter
+kgtP	2.A.1.6.2_P0AEX3	K03761	MFS transporter, MHS family, alpha-ketoglutarate permease
+lplT	2.A.1.42.1_P39196	K08227	MFS transporter, LPLT family, lysophospholipid transporter
+glucP	2.A.1.7.10_A1S5F4;2.A.1.7.11_A1S297;2.A.1.7.1_P11551;2.A.1.7.2_P0C105;2.A.1.7.5_Q8XEV7;2.A.1.7.7_O25788	K02429	MFS transporter, FHS family, L-fucose permease
+glcT1	2.A.1.7.3_O07563	K08174	MFS transporter, FHS family, glucose/mannose:H+ symporter
+entS	2.A.1.38.1_P24077	K08225	MFS transporter, ENTS family, enterobactin (siderophore) exporter
+emrY	2.A.1.3.20_Q9RQ29;2.A.1.3.36_C5W789	K03446	MFS transporter, DHA2 family, multidrug resistance protein
+mdtD	2.A.1.3.26_P36554	K18326	MFS transporter, DHA2 family, multidrug resistance protein
+nepI	2.A.1.2.26_P0ADL1	K03445	MFS transporter, DHA1 family, purine ribonucleoside efflux pump
+pbuE	2.A.1.2.25_Q797E3	K18567	MFS transporter, DHA1 family, purine base/nucleoside efflux pump
+sotB	2.A.1.2.15_P31122;2.A.1.2.18_Q9S3J9	K08159	MFS transporter, DHA1 family, L-arabinose/isopropyl-beta-D-thiogalactopyranoside export protein
+cmlA	2.A.1.2.3_P32482	K18552	MFS transporter, DHA1 family, florfenicol/chloramphenicol resistance protein
+bica	2.A.1.2.7_P28246	K07552	MFS transporter, DHA1 family, bicyclomycin/chloramphenicol resistance protein
+araJ	2.A.1.2.14_P23910	K08156	MFS transporter, DHA1 family, arabinose polymer utilization protein
+mfs.cp	2.A.1.17.2_Q04FN1	K03449	MFS transporter, CP family, cyanate transporter
+mhpT	2.A.1.15.2_P77589	K05819	MFS transporter, AAHS family, 3-hydroxyphenylpropionic acid transporter
+mmtsA	2.1.1.251	K16954	methylthiol:coenzyme M methyltransferase [EC:2.1.1.251] 
+epi	5.1.99.1	K05606	methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1] 
+mcmA1	5.4.99.2	K01848	methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2] 
+mcmA2	5.4.99.2	K01849	methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2] 
+mut	5.4.99.2	K01847	methylmalonyl-CoA mutase [EC:5.4.99.2] 
+mgdD	1.5.99.5	K22087	methylglutamate dehydrogenase subunit D [EC:1.5.99.5] 
+mgdC	1.5.99.5	K22086	methylglutamate dehydrogenase subunit C [EC:1.5.99.5] 
+mgdB	1.5.99.5	K22085	methylglutamate dehydrogenase subunit B [EC:1.5.99.5] 
+mgdA	1.5.99.5	K22084	methylglutamate dehydrogenase subunit A [EC:1.5.99.5] 
+mtd	1.5.98.1	K00319	methylenetetrahydromethanopterin dehydrogenase [EC:1.5.98.1] 
+mtdA	1.5.1.5;1.5.1.-	K00300	methylenetetrahydrofolate/methylenetetrahydromethanopterin dehydrogenase (NADP+) [EC:1.5.1.5 1.5.1.-]
+metF	1.5.1.20	K00297	methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20] 
+folD	1.5.1.5;3.5.4.9	K01491	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]
+mtdB	1.5.1.-	K10714	methylene-tetrahydromethanopterin dehydrogenase [EC:1.5.1.-] 
+mmtsB		K16955	methylated-thiol--corrinoid protein 
+mgsC	2.1.1.21	K22083	methylamine---glutamate N-methyltransferase subunit C [EC:2.1.1.21] 
+mgsB	2.1.1.21	K22082	methylamine---glutamate N-methyltransferase subunit B [EC:2.1.1.21] 
+mgsA	2.1.1.21	K22081	methylamine---glutamate N-methyltransferase subunit A [EC:2.1.1.21] 
+mtmB	2.1.1.248	K16176	methylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.248] 
+mauA	1.4.9.1	K15228	methylamine dehydrogenase light chain [EC:1.4.9.1] 
+mauB	1.4.9.1	K15229	methylamine dehydrogenase heavy chain [EC:1.4.9.1] 
+mglB	3.A.1.2.3_P0AEE5	K10540	methyl-galactoside transport system substrate-binding protein
+mglC	3.A.1.2.3_P23200	K10541	methyl-galactoside transport system permease protein
+mglA	3.A.1.2.3_P0AAG8	K10542	methyl-galactoside transport system ATP-binding protein [EC:3.6.3.17]
+mcrD		K03422	methyl-coenzyme M reductase subunit D 
+mcrC		K03421	methyl-coenzyme M reductase subunit C 
+mcrG	2.8.4.1	K00402	methyl-coenzyme M reductase gamma subunit [EC:2.8.4.1] 
+mcrB	2.8.4.1	K00401	methyl-coenzyme M reductase beta subunit [EC:2.8.4.1] 
+mcrA	2.8.4.1	K00399	methyl-coenzyme M reductase alpha subunit [EC:2.8.4.1] 
+mcr2		K00400	methyl coenzyme M reductase system, component A2 
+mtdch	3.5.4.27	K01499	methenyltetrahydromethanopterin cyclohydrolase [EC:3.5.4.27] 
+fchA	3.5.4.9	K01500	methenyltetrahydrofolate cyclohydrolase [EC:3.5.4.9]
+vhtA	1.12.98.3	K14068	methanophenazine hydrogenase, large subunit [EC:1.12.98.3]
+vhtC	1.12.98.3	K14069	methanophenazine hydrogenase, cytochrome b subunit [EC:1.12.98.3]
+vhtG	1.12.98.3	K14070	methanophenazine hydrogenase [EC:1.12.98.3]
+mtaB	2.1.1.90	K04480	methanol---5-hydroxybenzimidazolylcobamide Co-methyltransferase [EC:2.1.1.90] 
+medh	1.1.1.244	K00093	methanol dehydrogenase [EC:1.1.1.244] 
+mxaI	1.1.2.7	K14029	methanol dehydrogenase (cytochrome c) subunit 2 [EC:1.1.2.7] 
+mxaF	1.1.2.7	K14028	methanol dehydrogenase (cytochrome c) subunit 1 [EC:1.1.2.7] 
+mtaC		K14081	methanol corrinoid protein 
+aksF	1.1.1.87;1.1.1.-	K10978	methanogen homoisocitrate dehydrogenase [EC:1.1.1.87 1.1.1.-] 
+aksA	2.3.3.14;2.3.3.-	K10977	methanogen homocitrate synthase [EC:2.3.3.14 2.3.3.-] 
+aksE	4.2.1.114	K16793	methanogen homoaconitase small subunit [EC:4.2.1.114] 
+aksD	4.2.1.114	K16792	methanogen homoaconitase large subunit [EC:4.2.1.114] 
+mddA	2.1.1.334	K21310	methanethiol S-methyltransferase [EC:2.1.1.334] 
+msmB	1.14.13.111	K16969	methanesulfonate monooxygenase subunit beta [EC:1.14.13.111] 
+msmA	1.14.13.111	K16968	methanesulfonate monooxygenase subunit alpha [EC:1.14.13.111] 
+pmoC-amoC		K10946	methane/ammonia monooxygenase subunit C 
+pmoB-amoB		K10945	methane/ammonia monooxygenase subunit B 
+pmoA-amoA	1.14.18.3;1.14.99.39	K10944	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39] 
+mmoB		K16160	methane monooxygenase regulatory protein B 
+mmoD		K16162	methane monooxygenase component D 
+mmoC	1.14.13.25	K16161	methane monooxygenase component C [EC:1.14.13.25] 
+mmoZ	1.14.13.25	K16159	methane monooxygenase component A gamma chain [EC:1.14.13.25] 
+mmoY	1.14.13.25	K16158	methane monooxygenase component A beta chain [EC:1.14.13.25] 
+mmoX	1.14.13.25	K16157	methane monooxygenase component A alpha chain [EC:1.14.13.25] 
+butA	1.1.1.304;1.1.1.76;1.1.1.-	K03366	meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.304 1.1.1.76 1.1.1.-]
+merT	1.A.72.1	K08363	mercuric ion transport protein
+merC	1.A.72.4	K19058	mercuric ion transport protein
+merE	1.A.72.5	K19059	mercuric ion transport protein
+bfcA	1.10.2.-	K03886	menaquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.-]
+petD		K03888	menaquinol-cytochrome c reductase cytochrome b/c subunit
+petB_1		K03887	menaquinol-cytochrome c reductase cytochrome b subunit
+mbhJ	1.12.7.2	K18023	membrane-bound hydrogenase subunit mbhJ [EC:1.12.7.2]
+mbhK	1.12.7.2	K18017	membrane-bound hydrogenase subunit beta [EC:1.12.7.2]
+mbhL	1.12.7.2	K18016	membrane-bound hydrogenase subunit alpha [EC:1.12.7.2]
+dltB	2.A.50.2.1_P39580	K03739	membrane protein involved in D-alanine export
+emrK	2.A.1.3.36_C5W790	K03543	membrane fusion protein, multidrug efflux system
+bpeE	2.A.6.2	K18901	membrane fusion protein, multidrug efflux system
+mexA	2.A.6.2.5_P43505;2.A.6.2.6_P52477;2.A.6.2.9_Q9WWZ9;2.A.6.2.23_Q6VV69	K03585	membrane fusion protein, multidrug efflux system
+macA	3.A.1.122.1_P75830	K13888	membrane fusion protein, macrolide-specific efflux system
+melB	2.A.2.1.2_B3W8U5	K11104	melibiose permease
+mdh2	1.1.1.37	K00026	MDH2; malate dehydrogenase [EC:1.1.1.37] 
+mdh1	1.1.1.37	K00025	MDH1; malate dehydrogenase [EC:1.1.1.37] 
+manA	5.3.1.8	K01809	mannose-6-phosphate isomerase [EC:5.3.1.8]
+attC	3.A.1.11.3	K11077	mannopine transport system substrate-binding protein
+attA2	3.A.1.11.3	K11079	mannopine transport system permease protein
+attB	3.A.1.11.3	K11078	mannopine transport system permease protein
+attA1	3.A.1.11.3	K11080	mannopine transport system ATP-binding protein
+uxuA	4.2.1.8	K01686	mannonate dehydratase [EC:4.2.1.8]
+troA	3.A.1.15.8	K11707	manganese/zinc/iron transport system substrate-binding protein
+troC	3.A.1.15.8	K11708	manganese/zinc/iron transport system permease protein
+troD	3.A.1.15.8	K11709	manganese/zinc/iron transport system permease protein
+troB	3.A.1.15.8	K11710	manganese/zinc/iron transport system ATP- binding protein
+mnS	3.A.1.15	K09818	manganese/iron transport system substrate-binding protein
+sitA	3.A.1.15.7;3.A.1.15.9	K11604	manganese/iron transport system substrate-binding protein
+mnP	3.A.1.15	K09819	manganese/iron transport system permease protein
+sitC	3.A.1.15.7;3.A.1.15.9	K11605	manganese/iron transport system permease protein
+sitD	3.A.1.15.7;3.A.1.15.9	K11606	manganese/iron transport system permease protein
+mnA	3.A.1.15	K09820	manganese/iron transport system ATP-binding protein
+sitB	3.A.1.15.7;3.A.1.15.9	K11607	manganese/iron transport system ATP-binding protein
+psaB	3.A.1.15.2;3.A.1.15.14	K10830	manganese-transporting ATPase [EC:3.6.3.35]
+ppaC	3.6.1.1	K15986	manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1]
+mntC1	3.A.1.15.1	K11601	manganese transport system substrate-binding protein
+mntB1	3.A.1.15.1	K11602	manganese transport system permease protein
+mntA1	3.A.1.15.1	K11603	manganese transport system ATP-binding protein
+mntH	2.A.55.2.6;2.A.55.3	K03322	manganese transport protein
+mcl	4.1.3.24;4.1.3.25	K08691	malyl-CoA/(S)-citramalyl-CoA lyase [EC:4.1.3.24 4.1.3.25] 
+malY	2.A.2.6.2_Q9A612;2.A.2.6.3_Q8EEC4	K16211	maltose/maltooligosaccharide transporter
+malE	3.A.1.1.1_P0AEX9;3.A.1.1.22_Q9S5Y1;3.A.1.1.22_Q9X0T1	K10108	maltose/maltodextrin transport system substrate-binding protein
+malF	3.A.1.1.1_P02916;3.A.1.1.22_Q9X0T0	K10109	maltose/maltodextrin transport system permease protein
+malG	3.A.1.1.1_P68183;3.A.1.1.22_Q9X0S9;3.A.1.1.22_Q9X2F5	K10110	maltose/maltodextrin transport system permease protein
+treS1	5.4.99.16;3.2.1.1	K05343	maltose alpha-D-glucosyltransferase / alpha-amylase [EC:5.4.99.16 3.2.1.1]
+lamB	1.B.3.1.1_P02943;1.B.3.1.4_F5ZA77	K02024	maltoporin
+asd1	1.2.1.75;1.2.1.76	K15017	malonyl-CoA/succinyl-CoA reductase (NADPH) [EC:1.2.1.75 1.2.1.76] 
+mcr	1.2.1.75;1.1.1.298	K14468	malonyl-CoA reductase / 3-hydroxypropionate dehydrogenase (NADP+) [EC:1.2.1.75 1.1.1.298] 
+msr	1.1.1.-	K18602	malonic semialdehyde reductase [EC:1.1.1.-] 
+mdcF	2.A.69.3.3_O32715	K13936	malonate transporter
+maeN	2.A.24.2.3_O05256	K11616	malate:Na+ symporter
+mtkA	6.2.1.9	K14067	malate-CoA ligase subunit beta [EC:6.2.1.9] 
+mtkB	6.2.1.9	K08692	malate-CoA ligase subunit alpha [EC:6.2.1.9] 
+mdh	1.1.1.37	K00024	malate dehydrogenase [EC:1.1.1.37] 
+ompA	1.B.2.1.1_P10332	K03162	major outer membrane protein
+mgtE	1.A.26.1;1.A.26.2;1.A.26.3	K06213	magnesium transporter
+corA	1.A.35.1;1.A.35.3	K03284	magnesium transporter
+macB	3.A.1.122.1_P75831;3.A.1.122.12	K05685	macrolide transport system ATP-binding/permease protein [EC:3.6.3.-]
+arg1	3.A.1.3.23	K23055	lysine/arginine/ornithine/histidine/octopine transport system substrate-binding protein
+arg2	3.A.1.3.23	K23056	lysine/arginine/ornithine/histidine/octopine transport system permease protein
+arg3	3.A.1.3.23	K23057	lysine/arginine/ornithine/histidine/octopine transport system permease protein
+arg4	3.A.1.3.23	K23058	lysine/arginine/ornithine/histidine/octopine transport system ATP-binding protein [EC:7.4.2.1]
+argT	3.A.1.3.11_O50181;3.A.1.3.1_P09551;3.A.1.3.29_P09551;3.A.1.3.29_P0AEU0	K10013	lysine/arginine/ornithine transport system substrate-binding protein
+lysP	2.A.3.1.18_K7VV21;2.A.3.1.2_P25737	K11733	lysine-specific permease
+lptD	1.B.42.1.12_L0KAJ8;1.B.42.1.1_Q9K187;1.B.42.1.2_P31554;1.B.42.1.3_Q1D8U8;1.B.42.1.4_Q215S1;1.B.42.1.5_E8QT47;1.B.42.1.6_B4U7L6;1.B.42.1.9_B3DWJ6	K04744	LPS-assembly protein
+lptE	1.B.42.1.2_P0ADC1	K03643	LPS-assembly lipoprotein
+cofD	2.7.8.28	K11212	LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28] 
+pit	2.A.20.1	K16322	low-affinity inorganic phosphate transporter
+tnaB	2.A.42.1.3_P23173	K03836	low affinity tryptophan permease
+fadL	1.B.9	K06076	long-chain fatty acid transport protein
+lolC_E	3.A.1.125.1_P0ADC3;3.A.1.125.1_P75958	K09808	lipoprotein-releasing system permease protein
+lolD	3.A.1.125.1_P75957	K09810	lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+lbp	1.C.40.1.2	K05399	lipopolysaccharide-binding protein
+lpseP	3.A.1.103.1_Q48475;3.A.1.103.4_Q1D3I2;3.A.1.103.6_Q9HTB8	K09690	lipopolysaccharide transport system permease protein
+lpseA	3.A.1.103.1_Q48476;3.A.1.103.4_Q1D3I3;3.A.1.103.6_Q9I3V8	K09691	lipopolysaccharide transport system ATP-binding protein
+wzxC	2.A.66.2.7_P77377	K16695	lipopolysaccharide exporter
+lptC	1.B.42.1.2_P0ADW0	K11719	lipopolysaccharide export system protein LptC
+lptA	1.B.42.1.2_P0ADV1	K09774	lipopolysaccharide export system protein LptA
+lptG	1.B.42.1.2_P0ADC6;3.A.1.152.1_Q9HXH5	K11720	lipopolysaccharide export system permease protein
+lptF	1.B.42.1.2_P0AF98;3.A.1.152.1_Q9HXH4;3.A.1.152.3_Q5SL96	K07091	lipopolysaccharide export system permease protein
+lptB	1.B.42.1.2_P0A9V1;3.A.1.142.1_Q8DNB9;3.A.1.152.1_Q9HVV6	K06861	lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]
+nodJ	3.A.1.102.1_P50333	K09694	lipooligosaccharide transport system permease protein
+nodI	3.A.1.102.1_P50332	K09695	lipooligosaccharide transport system ATP-binding protein
+leuE	2.A.76.1.5_P76249	K11250	leucine efflux protein
+ldh	1.1.1.27	K00016	LDH, ldh; L-lactate dehydrogenase [EC:1.1.1.27] 
+mscL	1.A.22.1.1_P0A742;1.A.22.1.3_P94585	K03282	large conductance mechanosensitive channel
+lacS	2.A.2.2.1_P23936;2.A.2.2.2_P43466	K16209	lactose/raffinose/galactose permease
+lacE	3.A.1.1.4_P29822	K10188	lactose/L-arabinose transport system substrate-binding protein
+lacF	3.A.1.1.4_P29823	K10189	lactose/L-arabinose transport system permease protein
+lacG	3.A.1.1.4_P29824	K10190	lactose/L-arabinose transport system permease protein
+lacK	3.A.1.1.4_Q01937	K10191	lactose/L-arabinose transport system ATP-binding protein
+lctP2	2.A.14.1.2_Q46839;2.A.14.1.3_P71067	K03303	lactate permease
+ttdT	2.A.47.3.3_P39414	K11106	L-tartrate/succinate antiporter
+rhaT2	2.A.7.6.1_P27125;2.A.7.6.2_M5UGY9;2.A.7.6.3_I3CAS8	K02856	L-rhamnose-H+ transport protein
+lysE	2.A.75.1.1_P94633;2.A.75.1.2_P11667;2.A.75.1.3_P64711	K06895	L-lysine exporter family protein LysE/ArgO
+lctP1	2.A.14.1.1_P33231;2.A.14.1.3_P71067	K00427	L-lactate permease
+lldG		K00782	L-lactate dehydrogenase complex protein LldG
+lldF		K18929	L-lactate dehydrogenase complex protein LldF
+lldE		K18928	L-lactate dehydrogenase complex protein LldE
+fucA	4.1.2.17	K01628	L-fuculose-phosphate aldolase [EC:4.1.2.17]
+fucK	2.7.1.51	K00879	L-fuculokinase [EC:2.7.1.51]
+fucI	5.3.1.25;5.3.1.3	K01818	L-fucose/D-arabinose isomerase [EC:5.3.1.25 5.3.1.3]
+tcyJ	3.A.1.3.13	K16956	L-cystine transport system substrate-binding protein
+tcyK	3.A.1.3.13	K16957	L-cystine transport system substrate-binding protein
+tcyL	3.A.1.3.13	K16958	L-cystine transport system permease protein
+tcyM	3.A.1.3.13	K16959	L-cystine transport system permease protein
+tcyN	3.A.1.3.13	K16960	L-cystine transport system ATP-binding protein [EC:3.6.3.-]
+soxA	2.8.5.2	K17222	L-cysteine S-thiosulfotransferase [EC:2.8.5.2] 
+soxX	2.8.5.2	K17223	L-cysteine S-thiosulfotransferase [EC:2.8.5.2] 
+caiT	2.A.15.2	K05245	L-carnitine/gamma-butyrobetaine antiporter
+ansP	2.A.3.1.24_P77610;2.A.3.1.8_P40812	K11738	L-asparagine permease
+araF	3.A.1.2.2_P02924	K10537	L-arabinose transport system substrate-binding protein
+araH	3.A.1.2.2_P0AE26	K10538	L-arabinose transport system permease protein
+araG	3.A.1.2.2_P0AAF3	K10539	L-arabinose transport system ATP-binding protein [EC:3.6.3.17]
+comC	1.1.1.337	K05884	L-2-hydroxycarboxylate dehydrogenase (NAD+) [EC:1.1.1.337] 
+kup	2.A.72	K03549	KUP system potassium uptake protein
+oforD	1.2.7.3	K00176	korD, oorD; 2-oxoglutarate ferredoxin oxidoreductase subunit delta [EC:1.2.7.3] 
+oforC	1.2.7.3	K00177	korC, oorC; 2-oxoglutarate ferredoxin oxidoreductase subunit gamma [EC:1.2.7.3] 
+fbpap	4.1.2.13;3.1.3.11	K01622	K01622; fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11] 
+hppA		K15987	K(+)-stimulated pyrophosphate-energized sodium pump
+iorB	1.3.99.16	K07303	isoquinoline 1-oxidoreductase subunit beta [EC:1.3.99.16]
+iorA	1.3.99.16	K07302	isoquinoline 1-oxidoreductase subunit alpha [EC:1.3.99.16]
+isopadh	1.1.1.80	K23259	isopropanol dehydrogenase (NADP+) [EC:1.1.1.80]
+aceA	4.1.3.1	K01637	isocitrate lyase [EC:4.1.3.1]
+mtsA	3.A.1.15.6	K11704	iron/zinc/copper transport system substrate-binding protein
+mtsC	3.A.1.15.6	K11705	iron/zinc/copper transport system permease protein
+mtsB	3.A.1.15.6	K11706	iron/zinc/copper transport system ATP-binding protein
+afuA	3.A.1.20.2_Q9KLQ7;3.A.1.10.4_Q82VN7;3.A.1.10.5_Q56925	K02012	iron(III) transport system substrate-binding protein
+afuB	3.A.1.20.2_Q9KLQ6;3.A.1.10.4_Q82VN6;3.A.1.10.5_Q56926	K02011	iron(III) transport system permease protein
+afuC	3.A.1.1.14_Q97UF2;3.A.1.20.2_Q9KLQ5;3.A.1.10.4_Q82VN5;3.A.1.10.5_A1JLH0;3.A.1.19.2_Q73RE4	K02010	iron(III) transport system ATP-binding protein [EC:3.6.3.30]
+fhuC	3.A.1.14.3;3.A.1.14.12	K10829	iron-chelate-transporting ATPase [EC:3.6.3.34]
+efeO	2.A.108.2.3	K07224	iron uptake system component EfeO
+fevS	3.A.1.13.2_A9WCZ4;3.A.1.14.13_Q9RK12;3.A.1.14.14_Q9A198;3.A.1.14.15_P40409;3.A.1.14.1_P15028;3.A.1.14.2_C8U2V6;3.A.1.14.3_P07822;3.A.1.14.4_Q47084;3.A.1.14.6_Q9RCF6;3.A.1.14.7_Q93PN3;3.A.1.14.7_Q99RY8;3.A.1.14.8_Q8GRB3	K02016	iron complex transport system substrate-binding protein
+fevP	3.A.1.13.2_A9WCZ6;3.A.1.14.13_Q9RK09;3.A.1.14.13_Q9RK10;3.A.1.14.14_Q06A41;3.A.1.14.14_Q9A199;3.A.1.14.15_P40410;3.A.1.14.15_P40411;3.A.1.14.1_P15029;3.A.1.14.1_P15030;3.A.1.14.2_P23876;3.A.1.14.2_P23877;3.A.1.14.3_P06972;3.A.1.14.4_Q47085;3.A.1.14.4_Q47086;3.A.1.14.6_Q9RCF4;3.A.1.14.6_Q9RCF5;3.A.1.14.7_Q9X664;3.A.1.14.8_Q8GRB1;3.A.1.14.8_Q8GRB2	K02015	iron complex transport system permease protein
+fevA	3.A.1.13.2_A9WCZ7;3.A.1.14.13_Q9RK11;3.A.1.14.14_Q9A197;3.A.1.14.1_P15031;3.A.1.14.2_P23878;3.A.1.14.3_P07821;3.A.1.14.4_Q47087;3.A.1.14.6_Q9RCF3;3.A.1.14.7_Q9X665;3.A.1.14.8_Q8GRB0	K02013	iron complex transport system ATP-binding protein [EC:3.6.3.34]
+tc.fev	1.B.14.12.1_Q9A608;1.B.14.12.2_Q9AAZ6;1.B.14.6.1_Q45780;1.B.14.1.10_Q82VI7;1.B.14.1.11_P11461;1.B.14.1.12_Q9HXB2;1.B.14.1.15_Q05202;1.B.14.1.17_Q01674;1.B.14.1.21_B6R297;1.B.14.1.26_Q8G8W9;1.B.14.1.7_A4LBD1;1.B.14.14.1_Q8A552;1.B.14.8.2_Q2M5P4;1.B.14.9.3_Q7CGN6	K02014	iron complex outermembrane recepter protein
+inoE	3.A.1.1.38	K17237	inositol-phosphate transport system substrate-binding protein
+inoF	3.A.1.1.38	K17238	inositol-phosphate transport system permease protein
+inoG	3.A.1.1.38	K17239	inositol-phosphate transport system permease protein
+inoK	3.A.1.1.13_Q97UY8;3.A.1.1.14_Q97UF2	K17240	inositol-phosphate transport system ATP-binding protein
+ibpA2	3.A.1.2	K17213	inositol transport system substrate-binding protein
+ibpA1	3.A.1.2.21	K17208	inositol transport system substrate-binding protein
+iatP2	3.A.1.2	K17214	inositol transport system permease protein
+iatP1	3.A.1.2.21	K17209	inositol transport system permease protein
+iatA2	3.A.1.2	K17215	inositol transport system ATP-binding protein
+iatA1	3.A.1.2.21	K17210	inositol transport system ATP-binding protein
+ppa	3.6.1.1	K01507	inorganic pyrophosphatase [EC:3.6.1.1]
+rhtA	2.A.7.3.6_P0AA67	K11939	inner membrane transporter RhtA
+oprD	1.B.25.1.11_Q9I0E2;1.B.25.1.12_Q9I6X0;1.B.25.1.1_P32722;1.B.25.1.32_B7V849;1.B.25.1.7_Q9I202;1.B.25.1.8_Q9HUR5	K18093	imipenem/basic amino acid-specific outer membrane pore [EC:3.4.21.-]
+idh3	1.1.1.41	K00030	IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] 
+icd	1.1.1.42	K00031	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42] 
+hao	1.7.2.6	K10535	hydroxylamine dehydrogenase [EC:1.7.2.6]
+phaZ2	3.1.1.22	K07518	hydroxybutyrate-dimer hydrolase [EC:3.1.1.22]
+TC.HAE1	2.A.6.3.1_P25197;2.A.6.3.2_A9CGX6;2.A.6.3.3_E8PBU7;2.A.6.3.4_Q1DEX6;2.A.6.3.6_Q8CX78;2.A.6.2.23_Q6VV68	K03296	hydrophobic/amphiphilic exporter-1 (mainly G- bacteria), HAE1 family
+hzsA	1.7.2.7	K20934	hydrazine synthase subunit [EC:1.7.2.7]
+hzsB	1.7.2.7	K20933	hydrazine synthase subunit [EC:1.7.2.7]
+hzsC	1.7.2.7	K20932	hydrazine synthase subunit [EC:1.7.2.7]
+hdh	1.7.2.8	K20935	hydrazine dehydrogenase [EC:1.7.2.8]
+rhtB	2.A.76.1.1_P0AG34	K05834	homoserine/homoserine lactone efflux protein
+metA	2.3.1.46;2.3.1.31	K00651	homoserine O-succinyltransferase/O-acetyltransferase [EC:2.3.1.46 2.3.1.31] 
+metX	2.3.1.31;2.3.1.46	K00641	homoserine O-acetyltransferase/O-succinyltransferase [EC:2.3.1.31 2.3.1.46] 
+devB	3.A.1.114.1_Q7A2B0	K02005	HlyD family secretion protein
+hk	2.7.1.1	K00844	HK; hexokinase [EC:2.7.1.1] 
+hutT	2.A.3.1.9_O31199	K16234	histidine transporter
+hisJ	3.A.1.3.11_O50181;3.A.1.3.1_P09551;3.A.1.3.29_P09551;3.A.1.3.29_P0AEU0	K10014	histidine transport system substrate-binding protein
+hisQ	3.A.1.3.11_O50182;3.A.1.3.1_P0A2I9;3.A.1.3.29_P52094	K10016	histidine transport system permease protein
+hisM	3.A.1.3.11_O50183;3.A.1.3.1_P0A2I7;3.A.1.3.29_P0AEU3	K10015	histidine transport system permease protein
+hisP	3.A.1.3.11_O30506;3.A.1.3.1_P02915;3.A.1.3.29_P07109	K10017	histidine transport system ATP-binding protein [EC:3.6.3.21]
+hutM	2.A.3.1	K16236	histidine permease
+nixA	2.A.52.1	K07241	high-affinity nickel-transport protein
+gntP	2.A.8.1.3_P0AC94	K16321	high-affinity gluconate transporter
+hicdh	1.1.1.286	K17753	HICDH; isocitrate--homoisocitrate dehydrogenase [EC:1.1.1.286] 
+hdrE	1.8.98.1	K08265	heterodisulfide reductase subunit E [EC:1.8.98.1] 
+hdrD	1.8.98.1	K08264	heterodisulfide reductase subunit D [EC:1.8.98.1] 
+hdrC2	1.8.7.3;1.8.98.4;1.8.98.5;1.8.98.6	K03390	heterodisulfide reductase subunit C2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6] 
+hdrC1	1.8.7.3	K22482	heterodisulfide reductase subunit C1 [EC:1.8.7.3] 
+hdrB2	1.8.7.3;1.8.98.4;1.8.98.5;1.8.98.6	K03389	heterodisulfide reductase subunit B2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6] 
+hdrB1	1.8.7.3	K22481	heterodisulfide reductase subunit B1 [EC:1.8.7.3] 
+hdrA2	1.8.7.3;1.8.98.4;1.8.98.5;1.8.98.6	K03388	heterodisulfide reductase subunit A2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6] 
+hdrA1	1.8.7.3	K22480	heterodisulfide reductase subunit A1 [EC:1.8.7.3] 
+hmeD		K18501	heterodisulfide reductase iron-sulfur subunit
+hmeC		K18500	heterodisulfide reductase cytochrome b-like subunit
+hrtB	3.A.1	K09813	hemin transport system permease protein
+hrtA	3.A.1	K09814	hemin transport system ATP-binding protein [EC:3.6.3.-]
+cyoE	2.5.1.141	K02257	heme o synthase [EC:2.5.1.141]
+ccmD	3.A.1.107	K02196	heme exporter protein D
+ccmC	3.A.1.107	K02195	heme exporter protein C
+ccmB	3.A.1.107	K02194	heme exporter protein B
+ccmA	3.A.1.107	K02193	heme exporter protein A [EC:3.6.3.41]
+hasR	1.B.14.7.1	K16152	heme acquisition protein HasR
+hasA	1.B.14.5	K12545	heme acquisition protein HasA
+h6pd	1.1.1.47;3.1.1.31	K13937	H6PD; hexose-6-phosphate dehydrogenase [EC:1.1.1.47 3.1.1.31] 
+atp4abeta	7.2.2.19	K01543	H+/K+-exchanging ATPase subunit beta [EC:7.2.2.19]
+atp4aalpha	7.2.2.19	K01542	H+/K+-exchanging ATPase subunit alpha [EC:7.2.2.19]
+pma	7.1.2.1	K01535	H+-transporting ATPase [EC:7.1.2.1]
+gpmI	5.4.2.12	K15633	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12] 
+pgi	5.3.1.9	K01810	GPI, pgi; glucose-6-phosphate isomerase [EC:5.3.1.9] 
+gesB	2.A.6.2.25;2.A.6.2.34	K19594	gold/copper resistance efflux pump
+idnT	2.A.8.1.2	K06157	Gnt-II system L-idonate transporter
+gntU	2.A.8.1.8	K06156	Gnt-I system low-affinity gluconate transporter
+gntT	2.A.8.1.4	K06155	Gnt-I system high-affinity gluconate transporter
+tc.gph	2.A.2.3.12_Q745T8;2.A.2.3.7_Q0HIQ0	K03292	glycoside/pentoside/hexuronide:cation symporter, GPH family
+glycA	2.A.14.1.2_Q46839;2.A.14.1.3_P71067	K02550	glycolate permease
+glyA	2.1.2.1	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1] 
+proX	3.A.1.12.12_Q9HTH6;3.A.1.12.12_Q9HTI6;3.A.1.12.12_Q9HZ04;3.A.1.12.1_P0AFM2;3.A.1.12.2_P46921;3.A.1.12.2_P46922;3.A.1.12.5_Q9RQ05;3.A.1.12.6_Q9KKE3;3.A.1.12.9_Q8U4S3	K02002	glycine betaine/proline transport system substrate-binding protein
+proW	3.A.1.12.12_Q9HTI7;3.A.1.12.1_P14176;3.A.1.12.2_P46921;3.A.1.12.6_Q9KKE2;3.A.1.12.9_Q8U4S4	K02001	glycine betaine/proline transport system permease protein
+proV	3.A.1.12.12_Q9HTI8;3.A.1.12.1_P14175;3.A.1.12.2_P46920;3.A.1.12.5_Q9RQ06;3.A.1.12.6_Q9KKE1;3.A.1.12.9_Q8U4S5	K02000	glycine betaine/proline transport system ATP-binding protein [EC:3.6.3.32]
+betL	2.A.15.1.11_Q9X4A5;2.A.15.1.1_P54417	K05020	glycine betaine transporter
+glpF	1.A.8.1.1_P0AER0;1.A.8.13.2_Q9C4Z5;1.A.8.2.1_P18156;1.A.8.2.2_P22094;1.A.8.2.3_P52280;1.A.8.2.4_C6VJ63;1.A.8.2.5_D7V7W8;1.A.8.2.6_D7V8E7;1.A.8.2.7_D7VEY8;1.A.8.2.8_D7VC84;1.A.8.2.9_D0JBC9	K02440	glycerol uptake facilitator protein
+glpV	3.A.1.1.35_G3LHZ3	K17321	glycerol transport system substrate-binding protein
+glpP	3.A.1.1.35_G3LHZ0	K17322	glycerol transport system permease protein
+glpQ	3.A.1.1.35_G3LHZ1	K17323	glycerol transport system permease protein
+glpS	3.A.1.1.35_G3LHY8	K17324	glycerol transport system ATP-binding protein
+glpT	3.A.1.1.35_G3LHY9	K17325	glycerol transport system ATP-binding protein
+gldA	1.1.1.6	K00005	glycerol dehydrogenase [EC:1.1.1.6]
+dhbE	4.2.1.30	K06122	glycerol dehydratase small subunit [EC:4.2.1.30]
+dhaC	4.2.1.30	K06121	glycerol dehydratase medium subunit [EC:4.2.1.30]
+dhaB	4.2.1.30	K06120	glycerol dehydratase large subunit [EC:4.2.1.30]
+hprA	1.1.1.29	K00018	glycerate dehydrogenase [EC:1.1.1.29] 
+gck	2.7.1.165	K11529	glycerate 2-kinase [EC:2.7.1.165] 
+gapdhs	1.2.1.12	K10705	glyceraldehyde-3-phosphate dehydrogenase, spermatogenic [EC:1.2.1.12]
+gapA.NADP+	1.2.1.59	K00150	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59] 
+gapA.NAD+	1.2.1.12	K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] 
+fdhA	1.2.1.46	K00148	glutathione-independent formaldehyde dehydrogenase [EC:1.2.1.46] 
+gsiB	3.A.1.5.11	K13889	glutathione transport system substrate-binding protein
+gsiC	3.A.1.5.11	K13890	glutathione transport system permease protein
+gsiD	3.A.1.5.11	K13891	glutathione transport system permease protein
+gsiA	3.A.1.5.11	K13892	glutathione transport system ATP-binding protein
+glnH	3.A.1.3.2_P0AEQ3	K10036	glutamine transport system substrate-binding protein
+glnP	3.A.1.3.2_P0AEQ6	K10037	glutamine transport system permease protein
+glnQ	3.A.1.3.2_P10346	K10038	glutamine transport system ATP-binding protein [EC:3.6.3.-]
+glnA	6.3.1.2	K01915	glutamine synthetase [EC:6.3.1.2]
+gltI	3.A.1.3.19_Q88NY2;3.A.1.3.22_Q9I402;3.A.1.3.4_P37902	K10001	glutamate/aspartate transport system substrate-binding protein
+gltJ	3.A.1.3.19_Q88NY3;3.A.1.3.22_Q9I403;3.A.1.3.4_P0AER3	K10003	glutamate/aspartate transport system permease protein
+gltK	3.A.1.3.19_Q88NY4;3.A.1.3.22_Q9I404;3.A.1.3.4_P0AER5	K10002	glutamate/aspartate transport system permease protein
+gltL	3.A.1.3.19_Q88NY5;3.A.1.3.22_Q9I405;3.A.1.3.4_P0AAG3	K10004	glutamate/aspartate transport system ATP-binding protein [EC:3.6.3.-]
+gltS2	2.A.27.1.1_P0AER8;2.A.27.1.2_P73275;2.A.27.1.3_Q9HZ58;2.A.27.2.1_B1XKD9;2.A.27.2.2_M1QJN9	K03312	glutamate:Na+ symporter, ESS family
+gadC	2.A.3.7.1;2.A.3.7.3	K20265	glutamate:GABA antiporter
+gluB	3.A.1.3.9_P48242	K10005	glutamate transport system substrate-binding protein
+gluC	3.A.1.3.9_P48244	K10006	glutamate transport system permease protein
+gluD	3.A.1.3.9_P48245	K10007	glutamate transport system permease protein
+gluA	3.A.1.3.9_P48243	K10008	glutamate transport system ATP-binding protein [EC:3.6.3.-]
+gltD	1.4.1.13	K00266	glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+gltB	1.4.1.13	K00265	glutamate synthase (NADPH) large chain [EC:1.4.1.13]
+gltS1	1.4.7.1	K00284	glutamate synthase (ferredoxin) [EC:1.4.7.1]
+gdh2	1.4.1.2	K15371	glutamate dehydrogenase [EC:1.4.1.2]
+gudB	1.4.1.2	K00260	glutamate dehydrogenase [EC:1.4.1.2]
+gdhA_2	1.4.1.4	K00262	glutamate dehydrogenase (NADP+) [EC:1.4.1.4]
+gdhA_1	1.4.1.3	K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]
+uidB	2.A.2	K16139	glucuronide carrier protein
+uxaC	5.3.1.12	K01812	glucuronate isomerase [EC:5.3.1.12]
+gtsA	3.A.1.1.24_Q72KX2;3.A.1.1.30_Q88P38	K17315	glucose/mannose transport system substrate-binding protein
+gtsC	3.A.1.1.14_Q97UF3;3.A.1.1.24_Q72KX4;3.A.1.1.30_Q88P36	K17317	glucose/mannose transport system permease protein
+gtsB	3.A.1.1.24_Q72KX3;3.A.1.1.30_Q88P37	K17316	glucose/mannose transport system permease protein
+glcS	3.A.1.1.13_Q97UZ1;3.A.1.1.14_Q97UF5	K10196	glucose/arabinose transport system substrate-binding protein
+glcP1	3.A.1.1.13_Q97UY9;3.A.1.1.14_Q97UF3	K10198	glucose/arabinose transport system permease protein
+glcP	3.A.1.1.13_Q97UZ0;3.A.1.1.14_Q97UF4	K10197	glucose/arabinose transport system permease protein
+glcA	3.A.1.1.13_Q97UY8;3.A.1.1.14_Q97UF2	K10199	glucose/arabinose transport system ATP-binding protein
+glcU	2.A.7.5.1_O07881;2.A.7.5.3_Q9CDF7;2.A.7.5.4_P40420;2.A.7.5.5_L8DP77	K05340	glucose uptake protein
+TC.GNTP	2.A.8	K03299	gluconate:H+ symporter, GntP family
+fbpII-sebp	3.1.3.11;3.1.3.37	K11532	glpX-SEBP; fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37] 
+glk	2.7.1.2	K00845	glk; glucokinase [EC:2.7.1.2] 
+gld	1.1.5.9	K00115	GLD; glucose 1-dehydrogenase (FAD, quinone) [EC:1.1.5.9] 
+aapJ	3.A.1.3.18_Q8YPM9;3.A.1.3.26_P45766;3.A.1.3.7_Q52663;3.A.1.3.8_Q52812	K09969	general L-amino acid transport system substrate-binding protein
+aapM	3.A.1.3.18_Q8YPM7;3.A.1.3.26_P45768;3.A.1.3.7_Q52665;3.A.1.3.8_Q52814	K09971	general L-amino acid transport system permease protein
+aapQ	3.A.1.3.18_Q8YPM8;3.A.1.3.26_P45767;3.A.1.3.7_Q52664;3.A.1.3.8_Q52813	K09970	general L-amino acid transport system permease protein
+aapP	3.A.1.3.16_A3ZI83;3.A.1.3.26_P45769;3.A.1.3.7_Q52666;3.A.1.3.8_Q52815	K09972	general L-amino acid transport system ATP-binding protein [EC:3.6.3.-]
+gdhA	1.1.1.360	K18124	gdh2, gdhA; glucose/galactose 1-dehydrogenase (NADP+) [EC:1.1.1.360] 
+gcd	1.1.5.2	K00117	gcd; quinoprotein glucose dehydrogenase [EC:1.1.5.2] 
+gapor	1.2.7.6	K11389	gapor; glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) [EC:1.2.7.6] 
+cofF	6.3.2.32	K14940	gamma-F420-2:alpha-L-glutamate ligase [EC:6.3.2.32] 
+galK	2.7.1.6	K00849	galactokinase [EC:2.7.1.6]
+gpd	1.1.1.49;1.1.1.363	K00036	G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] 
+g6p	3.1.3.9	K01084	G6PC; glucose-6-phosphatase [EC:3.1.3.9] 
+frdD		K00247	fumarate reductase subunit D 
+frdC		K00246	fumarate reductase subunit C 
+frdB	1.3.5.4	K00245	fumarate reductase iron-sulfur subunit [EC:1.3.5.4] 
+frdA	1.3.5.4	K00244	fumarate reductase flavoprotein subunit [EC:1.3.5.4] 
+tfrB	1.3.4.1	K18210	fumarate reductase (CoM/CoB) subunit B [EC:1.3.4.1] 
+tfrA	1.3.4.1	K18209	fumarate reductase (CoM/CoB) subunit A [EC:1.3.4.1] 
+fumII	4.2.1.2	K01679	fumarate hydratase, class II [EC:4.2.1.2] 
+fumI	4.2.1.2	K01676	fumarate hydratase, class I [EC:4.2.1.2] 
+fumbeta	4.2.1.2	K01678	fumarate hydratase subunit beta [EC:4.2.1.2] 
+fumalpha	4.2.1.2	K01677	fumarate hydratase subunit alpha [EC:4.2.1.2] 
+uxuB	1.1.1.57	K00040	fructuronate reductase [EC:1.1.1.57]
+aldo.classII	4.1.2.13	K01624	fructose-bisphosphate aldolase, class II [EC:4.1.2.13] 
+aldo.classI-1	4.1.2.13	K01623	fructose-bisphosphate aldolase, class I [EC:4.1.2.13] 
+aldo.classI-2	4.1.2.13	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+fba_2	4.1.2.13;2.2.1.11	K16305	fructose-bisphosphate aldolase / 6-deoxy-5-ketofructose 1-phosphate synthase [EC:4.1.2.13 2.2.1.11]
+fba_3	4.1.2.13;2.2.1.10	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]
+fbpIII	3.1.3.11	K04041	fructose-1,6-bisphosphatase III [EC:3.1.3.11] 
+fbpII	3.1.3.11	K02446	fructose-1,6-bisphosphatase II [EC:3.1.3.11] 
+fbpI-sebp	3.1.3.11;3.1.3.37	K01086	fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37] 
+fbpI	3.1.3.11	K03841	fructose-1,6-bisphosphatase I [EC:3.1.3.11] 
+frcB	3.A.1.2.7_Q9F9B2	K10552	fructose transport system substrate-binding protein
+frcC	3.A.1.2.7_Q9F9B1	K10553	fructose transport system permease protein
+frcA	3.A.1.2.7_Q9F9B0	K10554	fructose transport system ATP-binding protein
+msmE1	3.A.1.1.20	K10120	fructooligosaccharide transport system substrate-binding protein
+msmF1	3.A.1.1.20	K10121	fructooligosaccharide transport system permease protein
+msmG1	3.A.1.1.20	K10122	fructooligosaccharide transport system permease protein
+scrK	2.7.1.4	K00847	fructokinase [EC:2.7.1.4]
+ftr	2.3.1.101	K00672	formylmethanofuran--tetrahydromethanopterin N-formyltransferase [EC:2.3.1.101] 
+fwdE	1.2.7.12	K11261	formylmethanofuran dehydrogenase subunit E [EC:1.2.7.12] 
+fwdD	1.2.7.12	K00203	formylmethanofuran dehydrogenase subunit D [EC:1.2.7.12] 
+fwdC	1.2.7.12	K00202	formylmethanofuran dehydrogenase subunit C [EC:1.2.7.12] 
+fwdB	1.2.7.12	K00201	formylmethanofuran dehydrogenase subunit B [EC:1.2.7.12] 
+fwdA	1.2.7.12	K00200	formylmethanofuran dehydrogenase subunit A [EC:1.2.7.12] 
+ftfL	6.3.4.3	K01938	formate--tetrahydrofolate ligase [EC:6.3.4.3]
+focA	1.A.16.1.1_P0AC23;1.A.16.1.2_P77733;1.A.16.1.3_F9A868	K06212	formate transporter
+focB	1.A.16.1.2_P77733	K03459	formate transporter
+fdhC	1.A.16.2	K21993	formate transporter
+fdoI		K00127	formate dehydrogenase subunit gamma 
+fdsD	1.17.1.9	K00126	formate dehydrogenase subunit delta [EC:1.17.1.9] 
+fdhF	1.17.1.9	K00123	formate dehydrogenase major subunit [EC:1.17.1.9] 
+fdhH		K00124	formate dehydrogenase iron-sulfur subunit 
+fdwB	1.17.1.9	K22515	formate dehydrogenase beta subunit [EC:1.17.1.9] 
+fdh	1.17.1.9	K00122	formate dehydrogenase [EC:1.17.1.9] 
+fdh.NADP+B	1.17.1.10	K15022	formate dehydrogenase (NADP+) beta subunit [EC:1.17.1.10] 
+fdh.NADP+A	1.17.1.10	K05299	formate dehydrogenase (NADP+) alpha subunit [EC:1.17.1.10] 
+fdhBF420	1.17.98.3;1.8.98.6	K00125	formate dehydrogenase (coenzyme F420) beta subunit [EC:1.17.98.3 1.8.98.6] 
+fdhAF420	1.17.98.3;1.8.98.6	K22516	formate dehydrogenase (coenzyme F420) alpha subunit [EC:1.17.98.3 1.8.98.6] 
+mdo	1.2.98.1;1.1.99.37	K17067	formaldehyde dismutase / methanol dehydrogenase [EC:1.2.98.1 1.1.99.37] 
+fbiC	2.5.1.147;4.3.1.32	K11779	FO synthase [EC:2.5.1.147 4.3.1.32] 
+ssuE	1.5.1.38	K00299	FMN reductase [EC:1.5.1.38] 
+flqA	3.A.1	K16905	fluoroquinolone transport system permease protein
+flqB	3.A.1	K16906	fluoroquinolone transport system permease protein
+flqC	3.A.1	K16907	fluoroquinolone transport system ATP-binding protein [EC:3.6.3.-]
+fieF	2.A.4.7.1	K13283	ferrous-iron efflux pump FieF
+feoB		K04759	ferrous iron transport protein B
+feoA		K04758	ferrous iron transport protein A
+fepA	1.B.14.1.22_P05825;1.B.14.1.3_O54507;1.B.14.1.5_Q05098	K19611	ferric enterobactin receptor
+fecB	3.A.1.14.1;3.A.1.14.8	K23181	ferric citrate transport system substrate-binding protein
+fecC	3.A.1.14.1;3.A.1.14.8	K23183	ferric citrate transport system permease protein
+fecD	3.A.1.14.1;3.A.1.14.8	K23182	ferric citrate transport system permease protein
+fecE	3.A.1.14.1;3.A.1.14.8	K23184	ferric citrate transport system ATP-binding protein [EC:7.2.2.18]
+nirA	1.7.7.1	K00366	ferredoxin-nitrite reductase [EC:1.7.7.1]
+narB	1.7.7.2	K00367	ferredoxin-nitrate reductase [EC:1.7.7.2]
+fecA	1.B.14.1.12_Q9HXB2;1.B.14.1.20_P13036	K16091	Fe(3+) dicitrate transport protein
+fqoN	1.1.98.4	K22181	F420H2:quinone oxidoreductase subunit N [EC:1.1.98.4]
+fqoM	1.1.98.4	K22180	F420H2:quinone oxidoreductase subunit M [EC:1.1.98.4]
+fqoL	1.1.98.4	K22179	F420H2:quinone oxidoreductase subunit L [EC:1.1.98.4]
+fqoK	1.1.98.4	K22178	F420H2:quinone oxidoreductase subunit K [EC:1.1.98.4]
+fqoJ	1.1.98.4	K22177	F420H2:quinone oxidoreductase subunit J [EC:1.1.98.4]
+fqoI	1.1.98.4	K22176	F420H2:quinone oxidoreductase subunit I [EC:1.1.98.4]
+fqoH	1.1.98.4	K22175	F420H2:quinone oxidoreductase subunit H [EC:1.1.98.4]
+fqoF	1.1.98.4	K22174	F420H2:quinone oxidoreductase subunit F [EC:1.1.98.4]
+fqoD	1.1.98.4	K22173	F420H2:quinone oxidoreductase subunit D [EC:1.1.98.4]
+fqoBC	1.1.98.4	K22172	F420H2:quinone oxidoreductase subunit B/C [EC:1.1.98.4]
+fqoA	1.1.98.4	K22171	F420H2:quinone oxidoreductase subunit A [EC:1.1.98.4]
+fpoO	1.5.98.3	K22170	F420H2 dehydrogenase subunit O [EC:1.5.98.3]
+fpoN	1.5.98.3	K22169	F420H2 dehydrogenase subunit N [EC:1.5.98.3]
+fpoM	1.5.98.3	K22168	F420H2 dehydrogenase subunit M [EC:1.5.98.3]
+fpoL	1.5.98.3	K22167	F420H2 dehydrogenase subunit L [EC:1.5.98.3]
+fpoK	1.5.98.3	K22166	F420H2 dehydrogenase subunit K [EC:1.5.98.3]
+fpoJ	1.5.98.3	K22165	F420H2 dehydrogenase subunit J [EC:1.5.98.3]
+fpoI	1.5.98.3	K22164	F420H2 dehydrogenase subunit I [EC:1.5.98.3]
+fpoH	1.5.98.3	K22163	F420H2 dehydrogenase subunit H [EC:1.5.98.3]
+fpoF	1.5.7.2;1.5.98.3	K22162	F420H2 dehydrogenase subunit F [EC:1.5.7.2 1.5.98.3]
+fpoD	1.5.98.3	K22161	F420H2 dehydrogenase subunit D [EC:1.5.98.3]
+fpoC	1.5.98.3	K22160	F420H2 dehydrogenase subunit C [EC:1.5.98.3]
+fpoB	1.5.98.3	K22159	F420H2 dehydrogenase subunit B [EC:1.5.98.3]
+fpoA	1.5.98.3	K22158	F420H2 dehydrogenase subunit A [EC:1.5.98.3]
+mvhG	1.12.99.-;1.8.98.5	K14128	F420-non-reducing hydrogenase small subunit [EC:1.12.99.- 1.8.98.5] 
+mvhA	1.12.99.-;1.8.98.5	K14126	F420-non-reducing hydrogenase large subunit [EC:1.12.99.- 1.8.98.5] 
+mvhD	1.12.99.-;1.8.98.5;1.8.98.6	K14127	F420-non-reducing hydrogenase iron-sulfur subunit [EC:1.12.99.- 1.8.98.5 1.8.98.6] 
+atpD	7.2.2.1;7.1.2.2	K02112	F-type H+/Na+-transporting ATPase subunit beta [EC:7.2.2.1 7.1.2.2]
+atpA	7.2.2.1;7.1.2.2	K02111	F-type H+/Na+-transporting ATPase subunit alpha [EC:7.2.2.1 7.1.2.2]
+atpG		K02115	F-type H+-transporting ATPase subunit gamma
+atpC		K02114	F-type H+-transporting ATPase subunit epsilon
+atpH		K02113	F-type H+-transporting ATPase subunit delta
+atpE		K02110	F-type H+-transporting ATPase subunit c
+atpF		K02109	F-type H+-transporting ATPase subunit b
+atpB		K02108	F-type H+-transporting ATPase subunit a
+mtrE		mtrE	extracellular respiratory sytem outer membrane component MtrE
+mtrF		mtrF	extracellular respiratory system surface decaheme cytochrome c component MtrF
+mtrD		mtrD	extracellular respiratory system periplasmic decaheme cytochrome c component MtrD
+mtrC		mtrC	extracellular iron oxide respiratory system surface decaheme cytochrome c component MtrC
+mtrB		mtrB	extracellular iron oxide respiratory system outer membrane component 
+omcA		omcA	extracelllular iron oxide respiratory system surface decaheme cytochrome c component OmcA
+mtrA		mtrA	extracelllular iron oxide respiratory system periplasmic decaheme cytochrome c component MtrA
+exoF	1.B.18.1.1_Q02728	K16552	exopolysaccharide production protein ExoF
+amsL	2.A.66.2.8_D4HW93	K16696	exopolysaccharide (amylovoran) exporter
+exaA	1.1.2.8	K00114	exaA; alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8] 
+eutS		K04031	ethanolamine utilization protein EutS
+eutN		K04028	ethanolamine utilization protein EutN
+eutM		K04027	ethanolamine utilization protein EutM
+eutL		K04026	ethanolamine utilization protein EutL
+eutK		K04025	ethanolamine utilization protein EutK
+eryG	3.A.1.2.11_Q92WK4;3.A.1.2.16_Q1M4Q9	K17202	erythritol transport system substrate-binding protein
+eryF	3.A.1.2.11_Q92WK1;3.A.1.2.16_Q1M4Q8	K17203	erythritol transport system permease protein
+eryE	3.A.1.2.11_Q92WK2;3.A.1.2.16_Q1M4Q7	K17204	erythritol transport system ATP-binding protein
+epsF		K16713	EPS I polysaccharide export inner membrane protein EpsF
+epsE	2.A.66.2.11_Q45411	K16712	EPS I polysaccharide export inner membrane protein EpsE
+hadha	1.1.1.211;4.2.1.17	K07515	enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.211 4.2.1.17]
+ehhadh	5.3.3.8;1.1.1.35;4.2.1.17	K07514	enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:5.3.3.8 1.1.1.35 4.2.1.17]
+cch-hbcd	4.2.1.17;1.1.1.35	K15016	enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35] 
+crt	4.2.1.17	K01715	enoyl-CoA hydratase [EC:4.2.1.17]
+echs1	4.2.1.17	K07511	enoyl-CoA hydratase [EC:4.2.1.17]
+paaF	4.2.1.17	K01692	enoyl-CoA hydratase [EC:4.2.1.17]
+eno	4.2.1.11	K01689	ENO, eno; enolase [EC:4.2.1.11] 
+cbrT	3.A.1.32.1_Q9KXJ5;3.A.1.32.2_Q2NFA9;3.A.1.32.3_A9WHW7	K16927	energy-coupling factor transport system substrate-specific component
+ecfT	3.A.1.29.1_Q74I61;3.A.1.25.5_Q9X2I1;3.A.1.25.6_Q5M245;3.A.1.26.10_I7BV49;3.A.1.32.1_Q9KXJ7;3.A.1.32.2_Q2NFA7;3.A.1.32.3_A9WJX6;3.A.1.33.1_Q8R9L9	K16785	energy-coupling factor transport system permease protein
+ecfA1	3.A.1.25.5_Q9X1Z1;3.A.1.25.6_Q5M243;3.A.1.26.10_Q839D5	K16786	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+ecfA2	cbi-1	K16787	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+edd	4.2.1.12	K01690	edd; phosphogluconate dehydratase [EC:4.2.1.12] 
+eda	4.1.2.1	K01625	eda; 2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.1 
+echF		K14091	ech hydrogenase subunit F
+echE		K14090	ech hydrogenase subunit E
+echD		K14089	ech hydrogenase subunit D
+echC		K14088	ech hydrogenase subunit C
+echB		K14087	ech hydrogenase subunit B
+echA		K14086	ech hydrogenase subunit A
+pckA2	4.1.1.49	K01610	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49] 
+gnl	3.1.1.17	K01053	E3.1.1.17, gnl, RGN; gluconolactonase [EC:3.1.1.17] 
+gk	2.7.1.12	K00851	E2.7.1.12, gntK, idnK; gluconokinase [EC:2.7.1.12] 
+crs	2.3.3.3	K05942	E2.3.3.3; citrate (Re)-synthase [EC:2.3.3.3] 
+pta1	2.3.1.8	K00625	E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8] 
+pflD	2.3.1.54	K00656	E2.3.1.54, pflD; formate C-acetyltransferase [EC:2.3.1.54] 
+tal	2.2.1.2	K00616	E2.2.1.2, talA, talB; transaldolase [EC:2.2.1.2] 
+adh	1.1.1.1	K00001	E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1] 
+TC.DME	2.A.7.3	K03298	drug/metabolite transporter, DME family
+pdhD	1.8.1.4	K00382	DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4] 
+pdhC	2.3.1.12	K00627	DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1 
+tc.dass	2.A.47.3.4_Q6D017	K03319	divalent anion:Na+ symporter, DASS family
+dsrB	1.8.99.5	K11181	dissimilatory sulfite reductase beta subunit [EC:1.8.99.5] 
+dsrA	1.8.99.5	K11180	dissimilatory sulfite reductase alpha subunit [EC:1.8.99.5] 
+pfp	2.7.1.90	K00895	diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+dppE	3.A.1.5.2_P26906	K16199	dipeptide transport system substrate-binding protein
+dppA1	3.A.1.5.39_W0WJ85;3.A.1.5.39_W0WKZ8;3.A.1.5.39_W0WL02;3.A.1.5.39_W0WLZ1;3.A.1.5.39_W0WQF0	K12368	dipeptide transport system substrate-binding protein
+dppB2	3.A.1.5.2_P26903	K16200	dipeptide transport system permease protein
+dppC2	3.A.1.5.2_P26904	K16201	dipeptide transport system permease protein
+dppC1	3.A.1.5.39_W0WMS8	K12370	dipeptide transport system permease protein
+dppB1	3.A.1.5.39_W0WN20	K12369	dipeptide transport system permease protein
+dppD2	3.A.1.5.2_P26905	K16202	dipeptide transport system ATP-binding protein
+dppD1	3.A.1.5.39_W0WJ90	K12371	dipeptide transport system ATP-binding protein
+dppF1	3.A.1.5.39_W0WLZ8	K12372	dipeptide transport system ATP-binding protein
+dmdA	2.1.1.269	K17486	dimethylsulfoniopropionate demethylase [EC:2.1.1.269] 
+sfnG	1.14.14.35	K17228	dimethylsulfone monooxygenase [EC:1.14.14.35] 
+ddhC		K16966	dimethylsulfide dehydrogenase subunit gamma 
+ddhB		K16965	dimethylsulfide dehydrogenase subunit beta 
+ddhA	1.8.2.4	K16964	dimethylsulfide dehydrogenase subunit alpha [EC:1.8.2.4] 
+dddL	4.4.1.3	K16953	dimethylpropiothetin dethiomethylase [EC:4.4.1.3] 
+dmd-tmd	1.5.8.1;1.5.8.2	K00317	dimethylamine/trimethylamine dehydrogenase [EC:1.5.8.1 1.5.8.2] 
+mtbB	2.1.1.249	K16178	dimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.249] 
+mtbC		K16179	dimethylamine corrinoid protein 
+dmoA	1.14.13.131	K16967	dimethyl-sulfide monooxygenase [EC:1.14.13.131] 
+DAS	2.2.1.3	K17100	dihydroxyacetone synthase [EC:2.2.1.3] 
+dgaF	4.1.2.14	K17463	dgaF; 2-dehydro-3-deoxy-phosphogluconate aldolase [EC:4.1.2.14] 
+efeB	2.A.108.2.3	K16301	deferrochelatase/peroxidase EfeB [EC:1.11.1.-]
+xylF	3.A.1.2.24_O50503;3.A.1.2.26_A6LW10;3.A.1.2.4_P37387	K10543	D-xylose transport system substrate-binding protein
+xylH	3.A.1.2.24_O50505;3.A.1.2.26_A6LW12;3.A.1.2.4_P0AGI4	K10544	D-xylose transport system permease protein
+xylG	3.A.1.2.24_O50504;3.A.1.2.26_A6LW11;3.A.1.2.4_P37388	K10545	D-xylose transport system ATP-binding protein [EC:3.6.3.17]
+cycA	2.A.3.1.17_M1IW84;2.A.3.1.7_P0AAE0	K11737	D-serine/D-alanine/glycine transporter
+dsdX	2.A.8.1.5_P08555	K13629	D-serine transporter
+metQ	3.A.1.24.1_P28635;3.A.1.24.2_O32167;3.A.1.24.3_Q8K8K9;3.A.1.24.4_Q8NSN1;3.A.1.24.5_Q9HT68	K02073	D-methionine transport system substrate-binding protein
+metI	3.A.1.24.1_P31547;3.A.1.24.2_O32168;3.A.1.24.3_Q8K8K7;3.A.1.24.4_Q8NSN3;3.A.1.24.5_Q9HT69	K02072	D-methionine transport system permease protein
+metN	3.A.1.24.1_P30750;3.A.1.24.2_O32169;3.A.1.24.3_Q8K8K8;3.A.1.24.4_Q8NSN2;3.A.1.24.5_Q9HT70	K02071	D-methionine transport system ATP-binding protein
+dppA2	3.A.1.5.2_P26902	K16203	D-amino peptidase [EC:3.4.11.-]
+alsB	3.A.1.2.6_P39265	K10549	D-allose transport system substrate-binding protein
+alsC	3.A.1.2.6_P32720	K10550	D-allose transport system permease protein
+alsA	3.A.1.2.6_P32721	K10551	D-allose transport system ATP-binding protein [EC:3.6.3.17]
+codB	2.A.39.1.1_P0AA82	K10974	cytosine permease
+fccA		K17230	cytochrome subunit of sulfide dehydrogenase 
+cyoD		K02300	cytochrome o ubiquinol oxidase subunit IV
+cyoC		K02299	cytochrome o ubiquinol oxidase subunit III
+cyoA	7.1.1.3	K02297	cytochrome o ubiquinol oxidase subunit II [EC:7.1.1.3]
+cyoB	7.1.1.3	K02298	cytochrome o ubiquinol oxidase subunit I [EC:7.1.1.3]
+napB		K02568	cytochrome c-type protein NapB
+mxaG		K16255	cytochrome c-L 
+coxD	1.9.3.1	K02277	cytochrome c oxidase subunit IV [EC:1.9.3.1]
+coxC	1.9.3.1	K02276	cytochrome c oxidase subunit III [EC:1.9.3.1]
+coxB	1.9.3.1	K02275	cytochrome c oxidase subunit II [EC:1.9.3.1]
+coxAC	1.9.3.1	K15408	cytochrome c oxidase subunit I+III [EC:1.9.3.1]
+coxA	1.9.3.1	K02274	cytochrome c oxidase subunit I [EC:1.9.3.1]
+ccoQ		K00407	cytochrome c oxidase cbb3-type subunit IV
+ccoP		K00406	cytochrome c oxidase cbb3-type subunit III
+ccoO		K00405	cytochrome c oxidase cbb3-type subunit II
+ccoNO	1.9.3.1	K15862	cytochrome c oxidase cbb3-type subunit I/II [EC:1.9.3.1]
+ccoN	1.9.3.1	K00404	cytochrome c oxidase cbb3-type subunit I [EC:1.9.3.1]
+ctaA		K02259	cytochrome c oxidase assembly protein subunit 15
+ctaG		K02258	cytochrome c oxidase assembly protein subunit 11
+nrfH		K15876	cytochrome c nitrite reductase small subunit
+appX	7.1.1.7	K22501	cytochrome bd-II ubiquinol oxidase subunit AppX [EC:7.1.1.7]
+cydX	7.1.1.7	K00424	cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+cydB	7.1.1.7	K00426	cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7]
+cydA	7.1.1.7	K00425	cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]
+qoxD	7.1.1.5	K02829	cytochrome aa3-600 menaquinol oxidase subunit IV [EC:7.1.1.5]
+qoxC	7.1.1.5	K02828	cytochrome aa3-600 menaquinol oxidase subunit III [EC:7.1.1.5]
+qoxA	7.1.1.5	K02826	cytochrome aa3-600 menaquinol oxidase subunit II [EC:7.1.1.5]
+qoxB	7.1.1.5	K02827	cytochrome aa3-600 menaquinol oxidase subunit I [EC:7.1.1.5]
+tcyA	3.A.1.3.28_B8F896	K02424	cystine transport system substrate-binding protein
+tcyB	3.A.1.3.28_B8F897	K10009	cystine transport system permease protein
+tcyC	3.A.1.3.28_B8F898	K10010	cystine transport system ATP-binding protein [EC:3.6.3.-]
+eamB	2.A.76.1.4_P38101	K11249	cysteine/O-acetylserine efflux protein
+cysO	2.5.1.47;2.5.1.65;4.2.1.22	K10150	cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase [EC:2.5.1.47 2.5.1.65 4.2.1.22]
+cysK	2.5.1.47	K01738	cysteine synthase [EC:2.5.1.47] 
+metB	2.5.1.48	K01739	cystathionine gamma-synthase [EC:2.5.1.48] 
+mccB	4.4.1.1;4.4.1.2	K17217	cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2] 
+cusA	2.A.6.1.4	K07787	Cu(I)/Ag(I) efflux system membrane protein CusA/SilA
+nosY	3.A.1.132.2	K19341	Cu-processing system permease protein
+nosF	3.A.1.132.2	K19340	Cu-processing system ATP-binding protein
+gltA	2.3.3.1	K01647	CS, gltA; citrate synthase [EC:2.3.3.1] 
+ccrA	1.3.1.86	K17829	crotonyl-CoA reductase [EC:1.3.1.86]
+tc.cnt	2.A.41.2.11_Q9KPL5	K03317	concentrative nucleoside transporter, CNT family
+cofE	6.3.2.31;6.3.2.34	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]
+frhG	1.12.98.1	K00443	coenzyme F420 hydrogenase subunit gamma [EC:1.12.98.1]
+frhD		K00442	coenzyme F420 hydrogenase subunit delta 
+frhB	1.12.98.1	K00441	coenzyme F420 hydrogenase subunit beta [EC:1.12.98.1]
+frhA	1.12.98.1	K00440	coenzyme F420 hydrogenase subunit alpha [EC:1.12.98.1] 
+cbiM	3.A.1.18;3.A.1.22;3.A.1.23	K02007	cobalt/nickel transport system permease protein
+cbiQ	3.A.1.18;3.A.1.22;3.A.1.23	K02008	cobalt/nickel transport system permease protein
+cbiO	3.A.1.18;3.A.1.22;3.A.1.23	K02006	cobalt/nickel transport system ATP-binding protein
+cbiN	3.A.1.18	K02009	cobalt/nickel transport protein
+czcA	2.A.6.1.2	K15726	cobalt-zinc-cadmium resistance protein CzcA
+czcD	2.A.4.1	K16264	cobalt-zinc-cadmium efflux system protein
+ccsB		K15233	citryl-CoA synthetase small subunit 
+ccsA	6.2.1.18	K15232	citryl-CoA synthetase large subunit [EC:6.2.1.18] 
+ccl	4.1.3.34	K15234	citryl-CoA lyase [EC:4.1.3.34] 
+citT	2.A.47.3.2_P0AE74	K09477	citrate:succinate antiporter
+tc.citmhs	2.A.11.1.6_A4QA05	K03300	citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family
+citD		K01646	citrate lyase subunit gamma (acyl carrier protein)
+citE	4.1.3.34	K01644	citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]
+citF	2.8.3.10	K01643	citrate lyase subunit alpha / citrate CoA-transferase [EC:2.8.3.10]
+chrA	2.A.51.1	K07240	chromate transporter
+betT	2.A.15.1.3_Q4ZLW8;2.A.15.1.5_Q92WM0;2.A.15.1.9_Q6F754	K02168	choline/glycine/proline betaine transport protein
+motB	1.A.30.1	K02557	chemotaxis protein MotB
+motA	1.A.30.1	K02556	chemotaxis protein MotA
+cebE	3.A.1.1.23_Q9X9R7	K10240	cellobiose transport system substrate-binding protein
+cebG	3.A.1.1.23_Q9X9R5	K10242	cellobiose transport system permease protein
+cebF	3.A.1.1.23_Q9X9R6	K10241	cellobiose transport system permease protein
+sapA	3.A.1.5.5	K19226	cationic peptide transport system substrate-binding protein
+sapB	3.A.1.5.5	K19227	cationic peptide transport system permease protein
+sapC	3.A.1.5.5	K19228	cationic peptide transport system permease protein
+sapD	3.A.1.5.5	K19229	cationic peptide transport system ATP-binding protein
+sapF	3.A.1.5.5	K19230	cationic peptide transport system ATP-binding protein
+actP	2.A.21.7.2_P32705;2.A.21.7.3_Q8NS49;2.A.21.7.4_D5AU53;2.A.21.7.5_D5APM1	K14393	cation/acetate symporter
+yrbG	2.A.19.5	K07301	cation:H+ antiporter
+nrsA	2.A.6.1	K11326	cation efflux system protein involved in nickel and cobalt tolerance
+fiu	1.B.14.1.9_P75780	K16090	catecholate siderophore receptor
+ccmO		K08700	carbon dioxide concentrating mechanism protein CcmO
+ccmN		K08699	carbon dioxide concentrating mechanism protein CcmN
+ccmM		K08698	carbon dioxide concentrating mechanism protein CcmM
+ccmL		K08697	carbon dioxide concentrating mechanism protein CcmL
+ccmK		K08696	carbon dioxide concentrating mechanism protein CcmK
+bglH	1.B.3.1.3_P26218	K10124	carbohydrate-specific outer membrane porin
+kpsE	3.A.1.101	K10107	capsular polysaccharide transport system permease protein
+kpsM	3.A.1.101	K09688	capsular polysaccharide transport system permease protein
+kpsT	3.A.1.101	K09689	capsular polysaccharide transport system ATP-binding protein
+carE	1.3.1.108	K22432	caffeyl-CoA reductase-Etf complex subunit CarE [EC:1.3.1.108]
+carD	1.3.1.108	K22431	caffeyl-CoA reductase-Etf complex subunit CarD [EC:1.3.1.108]
+carC	1.3.1.108	K22430	caffeyl-CoA reductase-Etf complex subunit CarC [EC:1.3.1.108]
+chaA	2.A.19	K07300	Ca2+:H+ antiporter
+dctP	2.A.56.1.1_P37735	K11688	C4-dicarboxylate-binding protein DctP
+dcuC	2.A.61.1.1_P0ABP3;2.A.61.1.2_P45428	K03326	C4-dicarboxylate transporter, DcuC family
+dctQ	2.A.56.1.1_O07837	K11689	C4-dicarboxylate transporter, DctQ subunit
+dctM	2.A.56.1.1_O07838	K11690	C4-dicarboxylate transporter, DctM subunit
+bcd	1.3.8.1	K00248	butyryl-CoA dehydrogenase [EC:1.3.8.1]
+buk	2.7.2.7	K00929	butyrate kinase [EC:2.7.2.7]
+bdhAB	1.1.1.-	K00100	butanol dehydrogenase [EC:1.1.1.-]
+tc.livcs	2.A.26.1.10_P0AD99;2.A.26.1.1_P19072;2.A.26.1.2_P25185;2.A.26.1.3_P54104;2.A.26.1.4_O84558;2.A.26.1.5_C0CGS2;2.A.26.1.8_B8J0B8;2.A.26.1.9_F2HK99	K03311	branched-chain amino acid:cation transporter, LIVCS family
+livK	3.A.1.4.10_Q8DQI1;3.A.1.4.11_Q6N8W4;3.A.1.4.1_P04816;3.A.1.4.1_P0AD96;3.A.1.4.3_Q9L3M3;3.A.1.4.8_P21175	K01999	branched-chain amino acid transport system substrate-binding protein
+livM	3.A.1.4.10_Q8DQH9;3.A.1.4.11_Q6N8W1;3.A.1.4.1_P22729;3.A.1.4.3_Q8VM84;3.A.1.4.8_P21628	K01998	branched-chain amino acid transport system permease protein
+livH	3.A.1.4.10_Q8DQI0;3.A.1.4.11_Q6N8W0;3.A.1.4.1_P0AEX7;3.A.1.4.3_Q8VM85;3.A.1.4.8_P21627	K01997	branched-chain amino acid transport system permease protein
+livG	3.A.1.4.10_Q8DQH7;3.A.1.4.10_Q8DQH8;3.A.1.4.1_P0A9S7;3.A.1.4.3_Q8VM83;3.A.1.4.8_P21629	K01995	branched-chain amino acid transport system ATP-binding protein
+livF	3.A.1.4.10_Q8DQH7;3.A.1.4.11_Q6N8W2;3.A.1.4.1_P22731;3.A.1.4.8_P21630	K01996	branched-chain amino acid transport system ATP-binding protein
+bpgm	5.4.2.4;5.4.2.11	K01837	BPGM; bisphosphoglycerate/phosphoglycerate mutase [EC:5.4.2.4 5.4.2.11] 
+bioY	3.A.1.25.5_Q9WZQ6;3.A.1.25.7_D5ARG8	K03523	biotin transport system substrate-specific component
+bioN	3.A.1.25.7_D5ARG9;3.A.1.25.1	K16783	biotin transport system permease protein
+bioM	3.A.1.25.7_D5ARH0;3.A.1.25.1	K16784	biotin transport system ATP-binding protein [EC:3.6.3.-]
+pcc2		K15037	biotin carboxyl carrier protein 
+pcc4		K18605	biotin carboxyl carrier protein 
+tolR	1.A.30.2.2	K03560	biopolymer transport protein TolR
+tolQ	1.A.30.2.2	K03562	biopolymer transport protein TolQ
+exbD	1.A.30.2.1	K03559	biopolymer transport protein ExbD
+exbB	1.A.30.2.1	K03561	biopolymer transport protein ExbB
+nrnA	3.1.3.7;3.1.13.3	K06881	bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3] 
+fae-hps	4.2.1.147;4.1.2.43	K13812	bifunctional enzyme Fae/Hps [EC:4.2.1.147 4.1.2.43] 
+cysNC	2.7.7.4;2.7.1.25	K00955	bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25] 
+hoxE	7.1.1.2	K05586	bidirectional [NiFe] hydrogenase diaphorase subunit [EC:7.1.1.2]
+hoxF	7.1.1.2	K05587	bidirectional [NiFe] hydrogenase diaphorase subunit [EC:7.1.1.2]
+hoxU	7.1.1.2	K05588	bidirectional [NiFe] hydrogenase diaphorase subunit [EC:7.1.1.2]
+cmpA	3.A.1.16.3	K11950	bicarbonate transport system substrate-binding protein
+cmpB	3.A.1.16.3	K11951	bicarbonate transport system permease protein
+cmpC	3.A.1.16.3	K11952	bicarbonate transport system ATP-binding protein [EC:3.6.3.-]
+cmpD	3.A.1.16.3	K11953	bicarbonate transport system ATP-binding protein [EC:3.6.3.-]
+benE	2.A.46.1	K05782	benzoate membrane transport protein
+bcpA	4.1.1.112	K01003	bcpA; oxaloacetate decarboxylase [EC:4.1.1.112] 
+bccA		K11263	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protei 
+tc.apa	2.A.3.3.16_Q9L100;2.A.3.3.22_Q8R706;2.A.3.3.23_s6ex81;2.A.3.8.12_O34739;2.A.3.8.28_K1M2K1	K03294	basic amino acid/polyamine antiporter, APA family
+tc.bat2	2.A.7.21.9_D3P9M1;2.A.7.21.5_G8WDN2;2.A.7.21.5_G8WDN3	K09936	bacterial/archaeal transporter family-2 protein
+bcrB	3.A.1.131.1	K19310	bacitracin transport system permease protein
+braE	3.A.1.134	K19084	bacitracin transport system permease protein
+bceB	3.A.1.134.3	K11632	bacitracin transport system permease protein
+bcrA	3.A.1.131.1	K19309	bacitracin transport system ATP-binding protein
+braD	3.A.1.134	K19083	bacitracin transport system ATP-binding protein
+bceA	3.A.1.134.3	K11631	bacitracin transport system ATP-binding protein
+azf	1.1.1.388	K19243	azf; NAD+ dependent glucose-6-phosphate dehydrogenase [EC:1.1.1.388] 
+pfk	2.7.1.11;2.7.1.90	K21071	ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2.7.1.90]
+aclB	2.3.3.8	K15231	ATP-citrate lyase beta-subunit [EC:2.3.3.8] 
+aclA	2.3.3.8	K15230	ATP-citrate lyase alpha-subunit [EC:2.3.3.8] 
+blpA	3.A.1.112	K20344	ATP-binding cassette, subfamily C, bacteriocin exporter
+eexD	3.A.1.110.13_O67184;3.A.1.110.10	K16299	ATP-binding cassette, subfamily C, bacterial EexD
+cydD	3.A.1.129.1_P29018	K16013	ATP-binding cassette, subfamily C, bacterial CydD
+cydCD	3.A.1.129	K16014	ATP-binding cassette, subfamily C, bacterial CydCD
+cydC	3.A.1.129.1_P23886	K16012	ATP-binding cassette, subfamily C, bacterial CydC
+pglK	3.A.1.106.15_Q0P9C4;3.A.1.119.4_Q9RK13	K06148	ATP-binding cassette, subfamily C, bacterial
+steA	3.A.1	K18216	ATP-binding cassette, subfamily B, tetracycline resistant protein
+steB	3.A.1	K18217	ATP-binding cassette, subfamily B, tetracycline resistant protein
+msbA	3.A.1.106.1_P60752	K11085	ATP-binding cassette, subfamily B, bacterial MsbA [EC:3.6.3.-]
+abcB	3.A.1.106.14_P73239;3.A.1.106.15_Q0P9C4;3.A.1.21.1_Q9R7V3;3.A.1.21.1_Q9Z375	K06147	ATP-binding cassette, subfamily B, bacterial
+acly	2.3.3.8	K01648	ATP citrate (pro-S)-lyase [EC:2.3.3.8] 
+nasB	1.7.99.-	K00360	assimilatory nitrate reductase electron transfer subunit [EC:1.7.99.-]
+nasA	1.7.99.-	K00372	assimilatory nitrate reductase catalytic subunit [EC:1.7.99.-]
+aspB	2.6.1.1	K00812	aspartate aminotransferase [EC:2.6.1.1]
+aspC	2.6.1.1	K00813	aspartate aminotransferase [EC:2.6.1.1]
+yhdR	2.6.1.1	K11358	aspartate aminotransferase [EC:2.6.1.1]
+arsB2	2.A.59	K03325	arsenite transporter, ACR3 family
+arsB1	2.A.45.1;3.A.4.1	K03893	arsenical pump membrane protein
+arsC2	1.20.4.4	K03741	arsenate reductase (thioredoxin) [EC:1.20.4.4]
+arsC	1.20.4.1	K00537	arsenate reductase (glutaredoxin) [EC:1.20.4.1]
+aroP2	2.A.3.1.3_P15993	K11734	aromatic amino acid transport protein AroP
+aroP1	2.A.3.1.12_Q46065	K16237	aromatic amino acid permease
+aotJ	3.A.1.3.11_O50181	K10022	arginine/ornithine transport system substrate-binding protein
+aotQ	3.A.1.3.11_O50182	K10024	arginine/ornithine transport system permease protein
+aotM	3.A.1.3.11_O50183	K10023	arginine/ornithine transport system permease protein
+aotP	3.A.1.3.11_O30506;3.A.1.3.1_P02915;3.A.1.3.23_Q9HU32	K10025	arginine/ornithine transport system ATP-binding protein [EC:3.6.3.-]
+rocE	2.A.3.1.11_P39137	K02205	arginine/ornithine permease
+bgtB	3.A.1.3.12_P73544;3.A.1.3.17_Q8YSA2	K17062	arginine/lysine/histidine/glutamine transport system substrate-binding and permease protein
+bgtA	3.A.1.3.12_P73721	K17063	arginine/lysine/histidine/glutamine transport system ATP-binding protein [EC:3.6.3.-]
+artP2	3.A.1.3.15;3.A.1.3.27	K23059	arginine/lysine/histidine transporter system substrate-binding protein
+artQ2	3.A.1.3.15;3.A.1.3.27	K17077	arginine/lysine/histidine transport system permease protein
+artR	3.A.1.3.15;3.A.1.3.27	K23060	arginine/lysine/histidine transport system ATP-binding protein [EC:7.4.2.1]
+arcD	2.A.3.2.10_F2HL52;2.A.3.2.11_F2HL56;2.A.3.2.3_P18275;2.A.3.2.4_P35865;2.A.3.2.6_O32204;2.A.3.2.7_Q9Z6M8;2.A.3.2.8_P0AAE5	K03758	arginine:ornithine antiporter / lysine permease
+adiC	2.A.3.2.5_P60061	K03759	arginine:agmatine antiporter
+artI	3.A.1.3.3_P30859;3.A.1.3.3_P30860	K09997	arginine transport system substrate-binding protein
+artJ	3.A.1.3.3_P30860	K09996	arginine transport system substrate-binding protein
+artM	3.A.1.3.3_P0AE30	K09998	arginine transport system permease protein
+artQ1	3.A.1.3.3_P0AE34	K09999	arginine transport system permease protein
+artP1	3.A.1.3.3_P0AAF6	K10000	arginine transport system ATP-binding protein [EC:3.6.3.-]
+araN	3.A.1.1.34_P94528	K17234	arabinosaccharide transport system substrate-binding protein
+araP	3.A.1.1.34_P94529	K17235	arabinosaccharide transport system permease protein
+araQ	3.A.1.1.34_P94530	K17236	arabinosaccharide transport system permease protein
+ganO	3.A.1.1.16_P58300;3.A.1.1.26_O06989;3.A.1.1.27_Q8DT28;3.A.1.1.44_Q7AKP1	K15770	arabinogalactan oligomer / maltooligosaccharide transport system substrate-binding protein
+ganP	3.A.1.1.16_Q8TZP9;3.A.1.1.26_O06990;3.A.1.1.27_Q8DT27;3.A.1.1.44_Q9KZ07;3.A.1.1.51_Q6MNM0	K15771	arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+ganQ	3.A.1.1.16_Q8TZQ0;3.A.1.1.26_O06991;3.A.1.1.27_Q8DT26;3.A.1.1.44_Q9KZ08	K15772	arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+asrC		K00385	anaerobic sulfite reductase subunit C 
+asrB		K16951	anaerobic sulfite reductase subunit B 
+asrA		K16950	anaerobic sulfite reductase subunit A 
+norV		K12264	anaerobic nitric oxide reductase flavorubredoxin
+dmsC		K07308	anaerobic dimethyl sulfoxide reductase subunit C 
+dmsB		K07307	anaerobic dimethyl sulfoxide reductase subunit B 
+dmsA	1.8.5.3	K07306	anaerobic dimethyl sulfoxide reductase subunit A [EC:1.8.5.3] 
+cdhB		K00195	anaerobic carbon-monoxide dehydrogenase, CODH/ACS complex subunit epsilon 
+cdhA	1.2.7.4	K00192	anaerobic carbon-monoxide dehydrogenase, CODH/ACS complex subunit alpha [EC:1.2.7.4] 
+cooF		K00196	anaerobic carbon-monoxide dehydrogenase iron sulfur subunit 
+cooS	1.2.7.4	K00198	anaerobic carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.7.4] 
+dcuB	2.A.13.1.2_P0ABN9;2.A.13.1.3_Q8ZLD2;2.A.13.1.4_K0K2U6	K07792	anaerobic C4-dicarboxylate transporter DcuB
+dcuA	2.A.13.1.1_P0ABN5;2.A.13.1.3_Q8ZLD2;2.A.13.1.4_K0K2U6	K07791	anaerobic C4-dicarboxylate transporter DcuA
+amt	1.A.11	K03320	ammonium transporter, Amt family
+abgT	2.A.68.1.1_P46133;2.A.68.1.3_D9QJW1;2.A.68.1.4_Q0VR69	K12942	aminobenzoyl-glutamate transport protein
+tc.aat	2.A.3.1.20_F2HQ24;2.A.3.1.21_F2HQ25	K03293	amino acid transporter, AAT family
+yahN	2.A.76.1.3_P75693	K03329	amino acid exporter
+yjeH	2.A.3.13.1_P39277	K16263	amino acid efflux transporter
+amiS	1.A.29.1.1;1.A.29.1.2;1.A.29.1.6	K22112	amide transporter protein
+uxaA	4.2.1.7	K01685	altronate hydrolase [EC:4.2.1.7]
+aglE	3.A.1.1.32_Q55471;3.A.1.1.8_Q9Z3R5	K10232	alpha-glucoside transport system substrate-binding protein
+aglF	3.A.1.1.32_Q55472;3.A.1.1.8_Q9Z3R6	K10233	alpha-glucoside transport system permease protein
+aglG	3.A.1.1.32_Q55473;3.A.1.1.8_Q9Z3R7	K10234	alpha-glucoside transport system permease protein
+aglK	3.A.1.1.17_Q9R9Q4;3.A.1.1.4_Q01937;3.A.1.1.8_Q9Z3R9	K10235	alpha-glucoside transport system ATP-binding protein
+aguE	3.A.1.1.39	K17241	alpha-1,4-digalacturonate transport system substrate-binding protein
+aguF	3.A.1.1.39	K17242	alpha-1,4-digalacturonate transport system permease protein
+aguG	3.A.1.1.39	K17243	alpha-1,4-digalacturonate transport system permease protein
+allP	2.A.39.3.8	K10975	allantoin permease
+ssuD	1.14.14.5	K04091	alkanesulfonate monooxygenase [EC:1.14.14.5] 
+phoD	3.1.3.1	K01113	alkaline phosphatase D [EC:3.1.3.1]
+phoA	3.1.3.1	K01077	alkaline phosphatase [EC:3.1.3.1]
+algE	1.B.13.1.1_P18895;1.B.13.1.2_Q44497;1.B.13.1.7_Q0VSL2	K16081	alginate production protein
+galM	5.1.3.3	K01785	aldose 1-epimerase [EC:5.1.3.3]
+aldh9A1	1.2.1.47;1.2.1.3	K00149	ALDH9A1; aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3] 
+aldh7A1	1.2.1.31;1.2.1.8;1.2.1.3	K14085	ALDH7A1; aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.31 1.2.1.8 1.2.1.3] 
+aldh	1.2.1.3	K00128	ALDH; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] 
+mox	1.1.3.13	K17066	alcohol oxidase [EC:1.1.3.13] 
+agxt	2.6.1.44;2.6.1.45;2.6.1.51	K00830	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+alt	2.6.1.2	K00814	alanine transaminase [EC:2.6.1.2]
+tc.agcs	2.A.25.1.10_P30143;2.A.25.1.1_P30144;2.A.25.1.2_P30145;2.A.25.1.3_Q6LX42;2.A.25.1.4_Q8EII1;2.A.25.1.5_Q45068;2.A.25.1.9_W0WFC6	K03310	alanine or glycine:cation symporter, AGCS family
+dctA	2.A.23.1.10_Q848I3;2.A.23.1.3_Q01857;2.A.23.1.6_P96603;2.A.23.1.9_Q1J1H5	K11103	aerobic C4-dicarboxylate transport protein
+adpgk	2.7.1.147	K08074	ADPGK; ADP-dependent glucokinase [EC:2.7.1.147] 
+pfkC	2.7.1.146;2.7.1.147	K00918	ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147] 
+adhP	1.1.1.1	K13953	adhP; alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1] 
+adhE	1.2.1.10;1.1.1.1	K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1] 
+adh6	1.1.1.1	K13952	ADH6; alcohol dehydrogenase 6 [EC:1.1.1.1] 
+adh4	1.1.1.1	K13980	ADH4; alcohol dehydrogenase 4 [EC:1.1.1.1] 
+adh1	1.1.1.1	K18857	ADH1; alcohol dehydrogenase class-P [EC:1.1.1.1] 
+adh17	1.1.1.1	K13951	ADH1_7; alcohol dehydrogenase 1/7 [EC:1.1.1.1] 
+aprB	1.8.99.2	K00395	adenylylsulfate reductase, subunit B [EC:1.8.99.2] 
+aprA	1.8.99.2	K00394	adenylylsulfate reductase, subunit A [EC:1.8.99.2] 
+cysC	2.7.1.25	K00860	adenylylsulfate kinase [EC:2.7.1.25] 
+acr-hydt	1.3.1.84;4.2.1.116;6.2.1.36	K14469	acrylyl-CoA reductase (NADPH) / 3-hydroxypropionyl-CoA dehydratase / 3-hydroxypropionyl-CoA synthetase [EC:1.3.1.84 4.2.1.116 6.2.1.36]
+acr	1.3.1.84	K15020	acryloyl-coenzyme A reductase [EC:1.3.1.84] 
+acnB	4.2.1.3;4.2.1.99	K01682	aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99] 
+acnA	4.2.1.3	K01681	aconitate hydratase [EC:4.2.1.3] 
+ackA	2.7.2.1	K00925	ackA; acetate kinase [EC:2.7.2.1] 
+aphA	3.1.3.2	K03788	acid phosphatase (class B) [EC:3.1.3.2]
+phoN	3.1.3.2	K09474	acid phosphatase (class A) [EC:3.1.3.2]
+ahy	4.2.1.112	K20625	acetylene hydratase [EC:4.2.1.112]
+pccX	6.4.1.3;6.4.1.2	K22568	acetyl-CoA/propionyl-CoA carboxylase, PccX subunit [EC:6.4.1.3 6.4.1.2]
+accD6	6.4.1.2;6.4.1.3;2.1.3.15	K18472	acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit [EC:6.4.1.2 6.4.1.3 2.1.3.15]
+pccB	2.1.3.15;6.4.1.3;6.4.1.2	K19312	acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit [EC:2.1.3.15 6.4.1.3 6.4.1.2]
+pcc5	6.4.1.2;6.4.1.3	K18603	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3] 
+pcc6	6.4.1.2;6.4.1.3	K01964	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3] 
+pcc1	6.4.1.2;6.4.1.3;2.1.3.15	K15036	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3 2.1.3.15] 
+pcc3	6.4.1.2;6.4.1.3;2.1.3.15	K18604	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3 2.1.3.15] 
+acss	6.2.1.1	K01895	acetyl-CoA synthetase [EC:6.2.1.1] 
+acsB	2.3.1.169	K14138	acetyl-CoA synthase [EC:2.3.1.169] 
+acsC	2.1.1.245	K00197	acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit gamma [EC:2.1.1.245] 
+acsD	2.1.1.245	K00194	acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit delta [EC:2.1.1.245] 
+cdhC	2.3.1.169	K00193	acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit beta [EC:2.3.1.169] 
+accC	6.4.1.2;6.3.4.14	K01961	acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14] 
+accD	6.4.1.2;2.1.3.15	K01963	acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2 2.1.3.15] 
+accA	6.4.1.2;2.1.3.15	K01962	acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15] 
+bccP		K02160	acetyl-CoA carboxylase biotin carboxyl carrier protein 
+atoB	2.3.1.9	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+aclSsmall_2	2.2.1.6	K11258	acetolactate synthase II small subunit [EC:2.2.1.6]
+aclSsmall_1	2.2.1.6	K01653	acetolactate synthase I/III small subunit [EC:2.2.1.6]
+aclSlarge	2.2.1.6	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+alsD	4.1.1.5	K01575	acetolactate decarboxylase [EC:4.1.1.5]
+ytrC_D	3.A.1	K16919	acetoin utilization transport system permease protein
+ytrF	3.A.1	K16918	acetoin utilization transport system permease protein
+ytrB	3.A.1	K16921	acetoin utilization transport system ATP-binding protein
+ytrE	3.A.1	K16920	acetoin utilization transport system ATP-binding protein
+phbB	1.1.1.36	K00023	acetoacetyl-CoA reductase [EC:1.1.1.36]
+adc	4.1.1.4	K01574	acetoacetate decarboxylase [EC:4.1.1.4]
+atoA	2.8.3.9;2.8.3.8	K01035	acetate CoA/acetoacetate CoA-transferase beta subunit [EC:2.8.3.9 2.8.3.8]
+atoD	2.8.3.9;2.8.3.8	K01034	acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.9 2.8.3.8]
+ydiF	2.8.3.8	K19709	acetate CoA-transferase [EC:2.8.3.8]
+aceE	1.2.4.1	K00163	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1] 
+aceB	2.3.3.9	K01638	aceB, glcB; malate synthase [EC:2.3.3.9] 
+acdB	6.2.1.13	K22224	acdB; acetate---CoA ligase (ADP-forming) subunit beta [EC:6.2.1.13] 
+acdA	6.2.1.13	K01905	acdA; acetate---CoA ligase (ADP-forming) subunit alpha [EC:6.2.1.13] 
+yadH	3.A.1.105.17_P0AFN6;3.A.1.132.1_Q93LN1;3.A.1.142.1_Q8DNC0;3.A.1.143.1_P55340	K01992	ABC-2 type transport system permease protein
+yadG	3.A.1.105.17_P36879;3.A.1.132.1_O30489;3.A.1.142.1_Q8DNB9;3.A.1.143.1_P55339	K01990	ABC-2 type transport system ATP-binding protein
+cofG	4.3.1.32	K11780	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase [EC:4.3.1.32] 
+pfkB	2.7.1.11	K16370	6-phosphofructokinase 2 [EC:2.7.1.11] 
+pfkA	2.7.1.11	K00850	6-phosphofructokinase 1 [EC:2.7.1.11] 
+hxlB	5.3.1.27	K08094	6-phospho-3-hexuloisomerase [EC:5.3.1.27] 
+fae	4.2.1.147	K10713	5,6,7,8-tetrahydromethanopterin hydro-lyase [EC:4.2.1.147] 
+mer	1.5.98.2	K00320	5,10-methylenetetrahydromethanopterin reductase [EC:1.5.98.2] 
+hmd	1.12.98.2	K13942	5,10-methenyltetrahydromethanopterin hydrogenase [EC:1.12.98.2] 
+acsE	2.1.1.258	K15023	5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase [EC:2.1.1.258] 
+cofH	2.5.1.147	K11781	5-amino-6-(D-ribitylamino)uracil---L-tyrosine 4-hydroxyphenyl transferase [EC:2.5.1.147] 
+mfnE	2.7.4.31	K07144	5-(aminomethyl)-3-furanmethanol phosphate kinase [EC:2.7.4.31] 
+fwdF		K00205	4Fe-4S ferredoxin 
+fwdG		K11260	4Fe-4S ferredoxin 
+fwdH		K00204	4Fe-4S ferredoxin 
+abfD	4.2.1.120;5.3.3.3	K14534	4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3] 
+4hbl1	6.2.1.40	K18861	4-hydroxybutyrate---CoA ligase (AMP-forming) [EC:6.2.1.40] 
+4hbl2	6.2.1.40	K14467	4-hydroxybutyrate---CoA ligase (AMP-forming) [EC:6.2.1.40] 
+4hbl3	6.2.1.40	K14466	4-hydroxybutyrate---CoA ligase (AMP-forming) [EC:6.2.1.40] 
+4hbl_arch	6.2.1.56	K18593	4-hydroxybutyrate---CoA ligase (ADP-forming) [EC:6.2.1.56] 
+jgt	2.4.1.25	K22451	4-alpha-glucanotransferase [EC:2.4.1.25]
+malQ	2.4.1.25	K00705	4-alpha-glucanotransferase [EC:2.4.1.25]
+bpnt	3.1.3.7	K01082	3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7] 
+meh	4.2.1.153	K09709	3-methylfumaryl-CoA hydratase [EC:4.2.1.153] 
+hys	6.2.1.36	K15018	3-hydroxypropionyl-coenzyme A synthetase [EC:6.2.1.36] 
+hydt	4.2.1.116	K15019	3-hydroxypropionyl-coenzyme A dehydratase [EC:4.2.1.116] 
+h3cl	6.2.1.-	K18594	3-hydroxypropionyl-CoA synthetase (ADP-forming) [EC:6.2.1.-] 
+hydG	1.1.1.298	K15039	3-hydroxypropionate dehydrogenase (NADP+) [EC:1.1.1.298] 
+hydg	1.1.1.298	K15039	3-hydroxypropionate dehydrogenase (NADP+) [EC:1.1.1.298] 
+hbd	1.1.1.157	K00074	3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]
+croR	4.2.1.55	K17865	3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]
+fadB	1.1.1.35;4.2.1.17 5.1.2.3 5.3.3.8	K01825	3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8]
+fadJ	1.1.1.35;4.2.1.17;5.1.2.3	K01782	3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]
+fadN	1.1.1.35	K07516	3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]
+hadh	1.1.1.35	K00022	3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]
+hps-phi	4.1.2.43;5.3.1.27	K13831	3-hexulose-6-phosphate synthase / 6-phospho-3-hexuloisomerase [EC:4.1.2.43 5.3.1.27] 
+hxlA	4.1.2.43	K08093	3-hexulose-6-phosphate synthase [EC:4.1.2.43] 
+dmdB	6.2.1.44	K20034	3-(methylthio)propionyl---CoA ligase [EC:6.2.1.44] 
+dmdC	1.3.8.-	K20035	3-(methylthio)propanoyl-CoA dehydrogenase [EC:1.3.8.-] 
+apgM	5.4.2.12	K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12] 
+comB	3.1.3.71	K05979	2-phosphosulfolactate phosphatase [EC:3.1.3.71] 
+cofC	2.7.7.68	K14941	2-phospho-L-lactate guanylyltransferase [EC:2.7.7.68] 
+oforB	1.2.7.3;1.2.7.11	K00175	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11]
+oforA	1.2.7.3;1.2.7.11	K00174	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+dlst	2.3.1.61	K00658	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+mct	5.4.1.3	K14470	2-methylfumaryl-CoA isomerase [EC:5.4.1.3] 
+mfch	4.2.1.148	K14449	2-methylfumaryl-CoA hydratase [EC:4.2.1.148] 
+kdgT	2.A.10.1	K02526	2-keto-3-deoxygluconate permease
+kdpgA	4.1.2.55	K11395	2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55]
+phnS	3.A.1.11.5	K11081	2-aminoethylphosphonate transport system substrate-binding protein
+phnU	3.A.1.11.5	K11083	2-aminoethylphosphonate transport system permease protein
+phnV	3.A.1.11.5	K11082	2-aminoethylphosphonate transport system permease protein
+phnT	3.A.1.11.5	K11084	2-aminoethylphosphonate transport system ATP-binding protein
+dhaT	1.1.1.202	K00086	1,3-propanediol dehydrogenase [EC:1.1.1.202]
+mtbA	2.1.1.247	K14082	[methyl-Co(III) methylamine-specific corrinoid protein]:coenzyme M methyltransferase [EC:2.1.1.247]
+mtaA	2.1.1.246	K14080	[methyl-Co(III) methanol-specific corrinoid protein]:coenzyme M methyltransferase [EC:2.1.1.246]
+citC	6.2.1.22	K01910	[citrate (pro-3S)-lyase] ligase [EC:6.2.1.22]
+butB	1.1.1.303;1.1.1.-;1.1.1.4	K00004	(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.303 1.1.1.- 1.1.1.4]
+dmdD	4.2.1.155	K20036	(methylthio)acryloyl-CoA hydratase [EC:4.2.1.155] 
+mfnC	2.6.1.108	K19793	(5-formylfuran-3-yl)methyl phosphate transaminase [EC:2.6.1.108] 
+mfnB	4.2.3.153	K09733	(5-formylfuran-3-yl)methyl phosphate synthase [EC:4.2.3.153] 
+mfnF	2.5.1.131	K07072	(4-(4-[2-(gamma-L-glutamylamino)ethyl]phenoxymethyl)furan-2-yl)methanamine synthase [EC:2.5.1.131]
