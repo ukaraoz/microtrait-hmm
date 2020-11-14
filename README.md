@@ -1,3 +1,5 @@
+<img src="https://github.com/ukaraoz/microtrait-hmm/blob/master/microtrait-mSystems_methodsprotocols_Figure1.png" width="75%">
+
 # microtrait-hmm database
 microtrait-hmm is a database of profile families and associted profile hidden Markov models (HMMs) that underlie [MicroTrait](https://github.com/ukaraoz/microtrait) pipeline to extract fitness traits from microbial genomes.
 
